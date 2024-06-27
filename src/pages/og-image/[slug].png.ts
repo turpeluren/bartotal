@@ -8,7 +8,7 @@ import { getFormattedDate } from "@/utils";
 import { Resvg } from "@resvg/resvg-js";
 import satori, { type SatoriOptions } from "satori";
 import { html } from "satori-html";
-
+/*
 const ogOptions: SatoriOptions = {
 	// debug: true,
 	fonts: [
@@ -75,7 +75,7 @@ export async function GET(context: APIContext) {
 			"Content-Type": "image/png",
 		},
 	});
-}
+}*/
 
 export async function getStaticPaths() {
 	const posts = await getAllPosts();
