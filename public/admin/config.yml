@@ -16,5 +16,5 @@ collections:
       - { label: "Tags", name: "tags", widget: "list", hint: "Separate by comma"}
       - { label: "Body", name: "body", widget: "markdown" }
 
-media_folder: "src/assets/images" # Location where files will be stored in the repo
-public_folder: "@assets/images" # The src attribute for uploaded media
+media_folder: "src/assets" # Location where files will be stored in the repo
+public_folder: "src/assets" # The src attribute for uploaded media
