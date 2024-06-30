@@ -10,10 +10,10 @@ collections:
     folder: "src/content/post" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in frontmatter
-      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Title", name: "title", widget: "string", hint: "Max 60 characters" }
       - { label: "Publish Date", name: "publishDate", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Description", name: "description", widget: "string", hint: "Min 50 characters" }
+      - { label: "Tags", name: "tags", widget: "list", hint: "Separate by comma"}
       - { label: "Body", name: "body", widget: "markdown" }
 
 media_folder: "src/assets/images" # Location where files will be stored in the repo
