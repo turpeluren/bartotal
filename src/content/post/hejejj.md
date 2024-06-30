@@ -7,3 +7,5 @@ tags:
   - test
 ---
 # yesh
+
+![Ludde](/src/assets/images/img_4660.jpeg "Ludde")
