@@ -8,4 +8,4 @@ tags:
 ---
 # yesh
 
-![Ludde]( "Ludde")
+![Ludde](src/assets/img_4660.jpeg "Ludde")
