@@ -20,7 +20,7 @@ collections:
     folder: "src/pages"
     create: false
     fields:
-      - { label: "Body", name: "body", widget: "text", hint: "Ändra inget viktigt i koden..."}
+      - { label: "Body", name: "body", widget: "markdown" }
 
 media_folder: "src/assets" # Location where files will be stored in the repo
 public_folder: "src/assets" # The src attribute for uploaded media
