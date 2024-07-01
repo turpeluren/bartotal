@@ -1,15 +1,15 @@
 ---
 title: Ludvig evolution
-publishDate: 30 Jul 2024
+publishDate: 30 Juli 2024
 description: jag gör en ny post skakskslldldödödpfoeljajajsjkdjdjdjkdkkss
 tags:
   - ture
   - test
 ---
-# Ludde evolution
+# Luddes evolution
 
-![Ludde](src/assets/img_2698.jpeg "Ludde")
+![Vårmiddagen? 2021? 2020?](src/assets/img_2698.jpeg "Ludde")
 
-![](src/assets/img_3104.jpeg)
+![Nyår 2024](src/assets/img_3104.jpeg)
 
-![](src/assets/img_4660.jpeg)
+![Midsommar 2024](src/assets/img_4660.jpeg)
