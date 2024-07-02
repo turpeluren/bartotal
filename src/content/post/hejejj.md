@@ -1,6 +1,9 @@
 ---
 title: Ludvig evolution
 publishDate: 30 Juli 2024
+author: 
+  - turpelurpeluren
+  - ludde
 description: jag gör en ny post skakskslldldödödpfoeljajajsjkdjdjdjkdkkss
 tags:
   - ture

@@ -63,3 +63,29 @@ export function getUniqueTagsWithCount(posts: CollectionEntry<"post">[]): [strin
 		),
 	].sort((a, b) => b[1] - a[1]);
 }
+
+/** returns all authors created from posts (inc duplicate authors)
+ *  Note: This function doesn't filter draft posts, pass it the result of getAllPosts above to do so.
+ *  */
+export function getAllAuthors(posts: CollectionEntry<"post">[]) {
+	return posts.flatMap((post) => [...post.data.author]);
+}
+
+/** returns all unique authors created from posts
+ *  Note: This function doesn't filter draft posts, pass it the result of getAllPosts above to do so.
+ *  */
+export function getUniqueAuthors(posts: CollectionEntry<"post">[]) {
+	return [...new Set(getAllAuthors(posts))];
+}
+
+/** returns a count of each unique author - [[authorName, count], ...]
+ *  Note: This function doesn't filter draft posts, pass it the result of getAllPosts above to do so.
+ *  */
+export function getUniqueAuthorsWithCount(posts: CollectionEntry<"post">[]): [string, number][] {
+	return [
+		...getAllAuthors(posts).reduce(
+			(acc, t) => acc.set(t, (acc.get(t) ?? 0) + 1),
+			new Map<string, number>(),
+		),
+	].sort((a, b) => b[1] - a[1]);
+}

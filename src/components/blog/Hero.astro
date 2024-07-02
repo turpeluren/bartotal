@@ -37,6 +37,16 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
 <h1 class="title mb-3 sm:mb-1">
 	{data.title}
 </h1>
+{!!data.author.length && (
+	<span class="font-semibold">
+		by {data.author.map((author, i) => 		
+			<a aria-label={`View more blogs by ${author}`}
+			   href={`/crew/${author}/`}
+			>{author}{i < data.author.length - 2 && ", "}
+			{i == data.author.length - 2 && " & "}</a>
+		)}
+	</span>
+)}
 <div class="flex flex-wrap items-center gap-x-3 gap-y-2">
 	<p class="font-semibold">
 		<FormattedDate date={data.publishDate} dateTimeOptions={dateTimeOptions} /> /{" "}

@@ -16,7 +16,7 @@ const post = defineCollection({
 					src: image(),
 				})
 				.optional(),
-			description: z.string().min(50).max(160),
+			description: z.string().min(0).max(1600),
 			draft: z.boolean().default(false),
 			ogImage: z.string().optional(),
 			publishDate: z
@@ -24,7 +24,8 @@ const post = defineCollection({
 				.or(z.date())
 				.transform((val) => new Date(val)),
 			tags: z.array(z.string()).default([]).transform(removeDupsAndLowerCase),
-			title: z.string().max(60),
+			author: z.array(z.string()).default([]),
+			title: z.string().max(600),
 			updatedDate: z
 				.string()
 				.optional()
