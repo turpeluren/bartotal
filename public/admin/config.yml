@@ -15,8 +15,8 @@ collections:
       - { label: "Publish Date", name: "publishDate", widget: "string", hint: "dd Månad yyyy", default: "{{day}} {{month}} {{year}}" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Tags", name: "tags", widget: "list", hint: "Separate by comma"}
-      - { label: "Og-Image", name: "ogImage", widget: "image", hint: "Frivilligt om ni vill ha custom. Bilden som visas när man delar i sociala medier" }
-      - { label: "Cover Image", name: "coverImage", widget: "image", collapsed: true }
+      - { label: "Og-Image", name: "ogImage", widget: "image", collapsed: true, hint: "Frivilligt om ni vill ha custom. Bilden som visas när man delar i sociala medier" }
+      - { label: "Cover Image", name: "coverImage", widget: "image", collapsed: true, hint: "Frivillig storbild i toppen" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Pages"
