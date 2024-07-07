@@ -1,6 +1,6 @@
 ---
 title: Ludvig evolution
-publishDate: 30 Juli 2024
+publishDate: 30 Juni 2024
 author: 
   - turpelurpeluren
   - ludde
