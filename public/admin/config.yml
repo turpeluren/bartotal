@@ -22,6 +22,7 @@ collections:
           widget: "list",
           collapsed: true,
           allow_add: false,
+          max: 1,
           hint: "Frivillig storbild i toppen",
           fields: [
             { label: "Bild", name: "src", widget: "image" },
