@@ -1,5 +1,5 @@
 ---
-title: "Liten tutorial vad man kan göar på en post"
+title: "Liten tutorial av hur man gör en post med tips"
 author: 
   - "turpelurpeluren"
 publishDate: "27 January 2023"
@@ -39,7 +39,7 @@ Denna text har en fotnöt[^1]. Denna har en annnan[^2].
 
 ### Lägga till cover-image till en post
 
-Även kallat hero image. I denna post bilden på ludde med ljuset. Välj/ladda upp en bild under "coverImage" och skriv en text till ifall bilden ej laddar/för folk med synnedsättning. Cover image behövs ej det är helt frivilligt.
+Även kallat hero eller featured image. Hamnar stort över titeln på posten. I denna post bilden på ludde med ljuset. Välj/ladda upp en bild under "coverImage" och skriv en alternativ text till ifall bilden ej laddar/för folk med synnedsättning. Cover image behövs ej det är helt frivilligt.
 
 ### Lägga till og-image
 

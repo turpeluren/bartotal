@@ -16,7 +16,7 @@ collections:
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Tags", name: "tags", widget: "list", hint: "Separate by comma"}
       - { label: "Og-Image", name: "ogImage", widget: "image", collapsed: true, hint: "Frivilligt om ni vill ha custom. Bilden som visas när man delar i sociala medier" }
-      - label: "Cover Image"
+      - { label: "Cover Image"
           name: "coverImage"
           widget: "list"
           collapsed: true
@@ -25,6 +25,7 @@ collections:
           fields:
             - { label: "Bild", name: "src", widget: "image" }
             - { label: "Alternativ text", name: "alt", widget: "string", default: "" }
+        }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Pages"
