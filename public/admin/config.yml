@@ -11,7 +11,7 @@ collections:
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in frontmatter
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Author", name: "author", widget: "list", hint: "Separate multiple authors by comma" }
+      - { label: "Author", name: "author", widget: "list", hint: "Skriv alltid eXAKT samma namn. Separate multiple authors by comma" }
       - { label: "Publish Date", name: "publishDate", widget: "string", hint: "dd Månad yyyy" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Tags", name: "tags", widget: "list", hint: "Separate by comma"}
