@@ -12,6 +12,8 @@ coverImage:
 draft: true
 ---
 
+###### Hej mina vackra vänner!
+
 ## Vad man behöver i en post
 
 - fyll i titel

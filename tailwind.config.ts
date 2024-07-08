@@ -52,6 +52,7 @@ export default {
 				// Add any custom fonts here
 				sans: [...fontFamily.sans],
 				serif: [...fontFamily.serif],
+				gothic: ['BarTotalGothic'],
 			},
 			transitionProperty: {
 				height: "height",
@@ -62,6 +63,11 @@ export default {
 			typography: (theme) => ({
 				DEFAULT: {
 					css: {
+						h6: {
+							/*"&:first-child": {*/
+								"@apply min-h-16 first-letter:tracking-widest first-letter:font-gothic first-letter:text-8xl first-letter:float-left first-letter:pt-1 first-letter:text-accent": "",
+							/*}*/
+						},
 						a: {
 							"@apply cactus-link": "",
 						},
