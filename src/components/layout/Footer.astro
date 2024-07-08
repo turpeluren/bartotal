@@ -1,5 +1,6 @@
 ---
 import { menuLinks, siteConfig } from "@/site-config";
+import SocialList from "@/components/SocialList.astro";
 
 const year = new Date().getFullYear();
 ---
@@ -17,17 +18,21 @@ const year = new Date().getFullYear();
 		{year}.<!--span class="inline-block">&nbsp;🚀&nbsp;Astro Cactus</span-->
 		<span class="inline-block text-link">&nbsp;<a href="https://turpelurpeluren.online">sida av turpelurpeluren</a></span>
 	</div>
-	<nav
-		aria-label="More on this site"
-		class="hidden sm:flex gap-x-2 sm:gap-x-0 divide-x divide-gray-500 mt-2 sm:mt-0"
-	>
-		{
-			menuLinks.map((link) => (
-				<a class="px-4 py-2 sm:py-0 sm:hover:text-textColor sm:hover:underline font-semibold" href={link.path}>
-					{link.title}
-				</a>
-			))
-		}
-	</nav>
+	<div class="flex flex-col items-end">
+		<nav
+			aria-label="More on this site"
+			class="flex gap-x-2 sm:gap-x-0 sm:divide-x sm:divide-gray-500 mt-2 sm:mt-0"
+		>
+			{
+				menuLinks.map((link) => (
+					<a class="hidden sm:block px-4 py-2 sm:py-0 sm:hover:text-textColor sm:hover:underline font-semibold" href={link.path}>
+						{link.title}
+					</a>
+				))
+			}
+			<div class="sm:pl-4">
+			<SocialList class="w-6 h-6 sm:w-4 sm:h-4"/></div>
+		</nav>
+	</div>
 </footer>
 </div>
