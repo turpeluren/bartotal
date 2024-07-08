@@ -2,7 +2,7 @@
 title: test
 author:
   - turpelurpeluren
-publishDate: 08 Jul 2024
+publishDate: 07 Jul 2024
 description: ett snabbt test
 tags:
   - test
