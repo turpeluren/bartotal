@@ -8,7 +8,7 @@ import { getFormattedDate } from "@/utils";
 import { Resvg } from "@resvg/resvg-js";
 import satori, { type SatoriOptions } from "satori";
 import { html } from "satori-html";
-/*
+
 const ogOptions: SatoriOptions = {
 	// debug: true,
 	fonts: [
@@ -58,6 +58,7 @@ const markup = (title: string, pubDate: string) =>
 		</div>
 	</div>`;
 
+
 type Props = InferGetStaticPropsType<typeof getStaticPaths>;
 
 export async function GET(context: APIContext) {
@@ -67,15 +68,16 @@ export async function GET(context: APIContext) {
 		month: "long",
 		weekday: "long",
 	});
-	const svg = await satori(markup(title, postDate), ogOptions);
-	const png = new Resvg(svg).render().asPng();
+	/*const svg = await satori(markup(title, postDate), ogOptions); 
+	const png = new Resvg(svg).render().asPng();*/
+	const png = '/social-card.png';
 	return new Response(png, {
 		headers: {
 			"Cache-Control": "public, max-age=31536000, immutable",
 			"Content-Type": "image/png",
 		},
 	});
-}*/
+}
 
 export async function getStaticPaths() {
 	const posts = await getAllPosts();
