@@ -24,8 +24,8 @@ collections:
           collapsed: true,
           hint: "Frivillig storbild i toppen",
           fields: [
-            { label: "Bild", name: "src", widget: "image" },
-            { label: "Alternativ text", name: "alt", widget: "string", default: "" }
+            { label: "Bild", name: "src", widget: "image", required: false },
+            { label: "Alternativ text", name: "alt", widget: "string", default: "", required: false }
             ],
         }
       - { label: "Body", name: "body", widget: "markdown" }
