@@ -1,5 +1,5 @@
 ---
-title: Hamous Hamid & Det vet dus nya dickt
+title: Hamous Hedström & Det vet dus nya dickt
 author:
   - turpelurpeluren
 publishDate: 8 Jul 2024
