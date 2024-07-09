@@ -1,8 +1,8 @@
 ---
-title: Hamous Hedström & Det vet dus nya dickt
+title: Innan världen fanns Skår
 author:
   - turpelurpeluren
-publishDate: 8 Jul 2024
+publishDate: 9 Jul 2024
 description: dikt
 tags:
   - dikt
@@ -11,126 +11,172 @@ coverImage:
   alt: hamous hedström
   src: src/assets/hamous.jpeg
 ---
-När jag var fem
 
-fick jag besök av skorvvännen
 
-för första gången.
+###### När jag var nyfödd
 
-Hans vita, feta händer,
+
+fick jag för första gången 
+
+besök av skorvvännen. 
+
+<br>
+
+Hans vita, bestämda händer,
+
 
 rispiga   varma.
 
+
 Varaktiga .
 
-> Skorvmannen är alltså vännen som kommer på natten och med varsamt lite lim limmar på skorv på barnens hud. På gamla sårskorpor och på hårskorpan. Så lite lim använder han att det lätt trillar av när man kliar sig där.
+
+>> ##### Skorvmannen är alltså vännen som kommer på natten och med varsamt lite lim limmar på skorv på de sovande barnens hud. På gamla sårskorpor och på hårskorpan. Så lite lim använder han att det lätt trillar av när man kliar sig där.
+
+<br>
 
 Det som står kvar efter det blåst hårt
 
-länge 
 
-länge & hårt
+& länge
 
-Lääææ&&&nge & HÅRT hårt, oj så hårt
+Lääääääääääääääääääääääääääääæængee & ***HÅRT***, hårt, Oj så hårt
+
+Oj så länge 
+
 
 är det som är kvar
 
+
 När allt kommer till kritan.
+
 
 \---
 
-Skårmannen har stått kvar längst av alla
+
+###### Skårmannen har stått kvar längst av alla
+
 
 Alltid längst bak, står han där
 
-han står där bak han står. där.
 
-vakande
+han står där bak han står. där. hela tiden
 
-övervakande
 
-aldrig övergivande
+Vakande
+
+
+Övervakande
+
+
+Aldrig övergivande
+
 
 Där det är som mörkast
 
+
 kan man känna sig som värst
+
 
 Skorv
 
+
 Skorv på tal
 
-\---
-
-På tal om skorv så hörde jag en gång Hampus Hedström hålla en hel standup routine om sitt mjäll
-
-Mjäll vitt som kritan, vit som snö
-
-sånt man testat i kön till wandas
-
-Där kvinnorna låter sig efter männens begär
-
-> # THIS IS NOT A STRIP CLUB
->
-> (Sammet 2023) ((Sammetsfinnen) (2023))
-
-Sas det
-
-SaaS - software as a service
-
-sass - all that
-
-all that SaaS. Skorv som software?
-
-Skorv till software? Skorv all that??
 
 \---
+
+
+På tal om skorv så hörde jag en gång youtuber Hampus Hedström hålla en hel standup routine om sitt mjäll
+
+
+\---
+
 
 Shades inomhus? du ser ut som en douchebag
 
-Vem lärde dig att dansa sådär?
 
-E.
+Vem lärde dig att dansa sådär
 
-E det det det är?
 
-eddde?
+Svar: ingen
 
-D e D.
 
-Delicious Én Dungeons.
+du har inte lärt dig dansa. Bara imiterar de andra på dansgolvet
 
-En E?
+Man kan inte dansa så
 
-NE
+och &nbsp;\*måste bara säga\*
 
-NationalEncyklopedin
 
-Skorv på plattan
+Jag kan inte alls dansa på afrobeats/latino-golvet
 
-Eller en tjuga i foten
 
-Den som kan ordspråken kan inte vara genom-ond. 
+känslan i mig är för obekväm
 
-|Sista delen kommer här |
-|-----------------------|
-|yes                    |
 
-Okej,
+jag kan inte dansa när jag tänker på de andra som är där
 
-vi har något att erkänna.
 
-Vi var inte helt ärliga om
+och att de också är där och dansar
+
+
+och tänker på de andra som också är där och dansar
+
+
+*Armar,*
+
+*kropp,*
+
+*ben,*
+
+*kött,*
+
+*ben,*
+
+*senor,*
+
+*bra utseende.*
+
+
+När jag dansar kan jag bara inte tänka på det,
+
+
+då kan jag inte dansa. Punkt.
+
+|No more beating around the bush| |
+|---|---|
+| | Okej, Sista delen kommer här|
+|   |yes|
+
+
+###### Vi har något att erkänna. 
+
+Vi var inte helt ärliga om 
 
 Skårmannen,
 
-han är en gammal vän till mig.
+<br>
+jag var vaken när skårmannen kom.
+
 
 han kom till mig när jag var på min rock bottom.
 
+
 JAG HADE NÅTT ROCK BOTTOM
+
 
 då kom han till mig.
 
-Mjuk som sammet. Stilig som en kronhjort. Vass som ett rakblad. Oj så han stang mig.
 
+Mjuk som sammet. Vacker & ohygglig som en ängel. Vass som ett rakblad.<br>
+
+
+Ack, han stang mig.
+
+
+<br>
 .Vroks
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
