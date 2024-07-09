@@ -39,7 +39,6 @@ collections:
 media_folder: "src/assets" # Location where files will be stored in the repo
 public_folder: "src/assets" # The src attribute for uploaded media
 
-site_url: https://bartotal.netlify.app
-display_url: https://bartotal.netlify.app
-logo_url: https://bartotal.netlify.app/logo-small.png
+site_url: https://bartotal.se
+logo_url: https://bartotal.se/logo-small.png
 locale: 'sv'
