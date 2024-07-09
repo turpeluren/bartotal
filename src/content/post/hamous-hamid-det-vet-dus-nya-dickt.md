@@ -106,7 +106,9 @@ du har inte lärt dig dansa. Bara imiterar de andra på dansgolvet
 
 Man kan inte dansa så
 
-och &nbsp;\*måste bara säga\*
+och 
+
+&nbsp;\*måste bara säga\*
 
 
 Jag kan inte alls dansa på afrobeats/latino-golvet
@@ -176,7 +178,7 @@ Ack, han stang mig.
 
 
 <br>
-.Vroks
+.vrokS
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
