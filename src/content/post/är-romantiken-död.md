@@ -11,7 +11,7 @@ coverImage:
   alt: ""
   src: src/assets/carrie-bradshaw2.jpg
 ---
-###### Vi har frågat tio främlingar på stan om frågan på allas läppar, är romantiken död? En tillfrågad svarade “I hit her from the back, so she don’t get attached”. Detta fick oss att börja fundera…
+**Vi har frågat tio främlingar på stan om frågan på allas läppar, är romantiken död? En tillfrågad svarade “I hit her from the back, so she don’t get attached”. Detta fick oss att börja fundera…**
 
 I Tour de France sjätte etapp stannade Julien Bernard för att kyssa sin fru. Det blev ramaskri! Han bötfälldes av Internationella Cykelförbundet till 2400kr med motivationen “unseemly or inappropriate behaviour during the race and damage to the image of the sport.” Detta innebär alltså att till och med ärketöntarna som utan cyklingen hade varit incels, inte längre glädjer sig åt varandras framgångar på det erotiska planet. Bernard bad artigast om ursäkt men framhöll att han hade betalat summan varje dag för att få göra det igen. I couldn't help but wonder, är Bernard den sista i en utdöende ras?
 
