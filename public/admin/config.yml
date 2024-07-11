@@ -15,7 +15,7 @@ collections:
       - { label: "Publish Date", name: "publishDate", widget: "datetime", hint: "dd Månad yyyy", format: "D MMM YYYY"}
       - { label: "Description", name: "description", widget: "string"}
       - { label: "Tags", name: "tags", widget: "list", field: string, hint: "Använd ej hashtag! En tag per inmatningsfält", required: false }
-      - { label: "Og-Image", name: "ogImage", widget: "image", required: false, collapsed: true, hint: "Frivilligt om ni vill ha custom. Bilden som visas när man delar i sociala medier" }
+      - { label: "Og-Image", name: "ogImage", widget: "string", required: false, collapsed: true, hint: "Om ni vill ha custom. Bilden som visas när man delar i sociala medier. Måste vara en url till en bild hostad online. Ladda upp på ex. imgur." }
       - {
           label: "Cover Image",
           name: "coverImage",
