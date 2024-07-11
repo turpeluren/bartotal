@@ -25,8 +25,10 @@ const ogOptions: SatoriOptions = {
 			weight: 700,
 		},
 	],
-	height: 630,
-	width: 1200,
+	/*height: 630,
+	width: 1200,*/
+	height: 640,
+	width: 1280,
 };
 
 const markup = (title: string, pubDate: string) =>
