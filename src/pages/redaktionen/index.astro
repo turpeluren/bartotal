@@ -12,7 +12,7 @@ const meta = {
 ---
 
 <PageLayout meta={meta}>
-	<h1 class="title mb-6">Crew</h1>
+	<h1 class="title mb-6">Redaktionen</h1>
 	<ul class="space-y-4">
 		{
 			allTags.map(([author, val]) => (
@@ -20,8 +20,8 @@ const meta = {
 					<a
 						class="cactus-link inline-block"
 						data-astro-prefetch
-						href={`/crew/${author}/`}
-						title={`View posts by: ${author}`}
+						href={`/redaktionen/${author}/`}
+						title={`Visa inlägg av: ${author}`}
 					>
 						👲&nbsp;{author}
 					</a>

@@ -30,7 +30,9 @@ const ogOptions: SatoriOptions = {
 };
 
 const markup = (title: string, pubDate: string) =>
-	html`<div tw="flex flex-col w-full h-full bg-[#1d1f21] text-[#c9cacc]">
+	html`<img src='https://bartotal.se/social-card.png'>`;
+
+/*`<div tw="flex flex-col w-full h-full bg-[#1d1f21] text-[#c9cacc]">
 		<div tw="flex flex-col flex-1 w-full p-10 justify-center">
 			<p tw="text-2xl mb-6">${pubDate}</p>
 			<h1 tw="text-6xl font-bold leading-snug text-white">${title}</h1>
@@ -56,7 +58,7 @@ const markup = (title: string, pubDate: string) =>
 			</div>
 			<p>by ${siteConfig.author}</p>
 		</div>
-	</div>`;
+	</div>`;*/
 
 
 type Props = InferGetStaticPropsType<typeof getStaticPaths>;
@@ -68,9 +70,11 @@ export async function GET(context: APIContext) {
 		month: "long",
 		weekday: "long",
 	});
-	/*const svg = await satori(markup(title, postDate), ogOptions); 
-	const png = new Resvg(svg).render().asPng();*/
-	const png = '/social-card.png';
+	// @ts-ignore
+	const svg = await satori(markup(title, postDate), ogOptions);
+	const png = new Resvg(svg).render().asPng();
+	/*const src = 'https://bartotal.se/social-card.png';
+	const png = html`<img src='https://bartotal.se/social-card.png'>`;*/
 	return new Response(png, {
 		headers: {
 			"Cache-Control": "public, max-age=31536000, immutable",
