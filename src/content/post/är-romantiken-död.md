@@ -6,7 +6,7 @@ author:
 publishDate: 10 Jul 2024
 description: "#latenightthoughts"
 tags:
-  - "#latenightthoughts"
+  - latenightthoughts
 ogImage: ""
 coverImage:
   alt: ""
