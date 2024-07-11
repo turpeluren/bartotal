@@ -6,7 +6,7 @@ publishDate: 8 Jul 2024
 description: Åsikterna är hela redaktionens.
 tags:
   - Briljas
-ogImage: src/assets/img_3147.jpeg
+ogImage: https://i.imgur.com/bQMmWEt.jpeg
 coverImage:
   alt: En janssons frestelse som tillreddes i december 2022.
   src: src/assets/img_3147.jpeg
