@@ -11,10 +11,10 @@ collections:
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in frontmatter
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Authors", name: "author", widget: "list", field: { label: Author, widget: string }, hint: "Skriv alltid eXAKT samma namn. En författare per inmatningsfält" }
+      - { label: "Authors", name: "author", widget: "list", field: { label: Author, name: author, widget: string }, hint: "Skriv alltid eXAKT samma namn. En författare per inmatningsfält" }
       - { label: "Publish Date", name: "publishDate", widget: "datetime", hint: "dd Månad yyyy", format: "D MMM YYYY"}
       - { label: "Description", name: "description", widget: "string"}
-      - { label: "Tags", name: "tags", widget: "list", field: { label: Author, widget: string }, hint: "Använd ej hashtag! En tag per inmatningsfält", required: false }
+      - { label: "Tags", name: "tags", widget: "list", field: { label: Tag, name: tag, widget: string }, hint: "Använd ej hashtag! En tag per inmatningsfält", required: false }
       - { label: "Og-Image", name: "ogImage", widget: "string", required: false, collapsed: true, hint: "Om ni vill ha custom. Bilden som visas när man delar i sociala medier. Måste vara en url till en bild hostad online. Ladda upp på ex. imgur." }
       - {
           label: "Cover Image",
