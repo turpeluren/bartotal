@@ -7,7 +7,8 @@ description: En dikt om ditten och datten.
 tags:
   - Dikt
 coverImage:
-  alt: ""
+  alt: Korvpriser
+  src: src/assets/img_4860.jpeg
 ---
 Sov på natten,
 
