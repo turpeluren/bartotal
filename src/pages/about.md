@@ -1,6 +1,7 @@
 ---
 layout: ../layouts/about.astro
-title: "about"
+title: about
 ---
+### **Om Bar Total**
 
-### Om bar total
+Med tiden kommer vi förstå.
