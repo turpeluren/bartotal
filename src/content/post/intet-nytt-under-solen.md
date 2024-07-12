@@ -8,7 +8,7 @@ tags:
   - Dikt
 coverImage:
   alt: ""
-  src: ""
+  src: src/assets/solen.jpeg
 ---
 Sov på natten,
 
