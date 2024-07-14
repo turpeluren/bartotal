@@ -7,7 +7,8 @@ description: Den sanna historien om baksidan av bartotal.se.
 tags:
   - interna-strider
 coverImage:
-  alt: ""
+  alt: En digital frihetskämpe arresteras i sitt hem
+  src: src/assets/img_5040.jpeg
 ---
 ###### Läsaren kanske inte visste det här, men bar total finns faktiskt i två skepnader. Den ena är den du troligtvis läser nu: med domän under .se, internets svenska toppdomän. 
 
