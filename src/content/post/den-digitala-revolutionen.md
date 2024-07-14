@@ -12,11 +12,11 @@ coverImage:
 ---
 ###### Läsaren kanske inte visste det här, men bar total finns faktiskt i två skepnader. Den ena är den du troligtvis läser nu: med domän under .se, internets svenska toppdomän. 
 
-Bar total köpte denna .se-domän för att ”Det är ju enklare att hitta”, ”så kort domän som möjligt är coolast”, ”känns mer legit” och ”Mer rare” (utdrag ur redaktionsmötesprotokollet). Men röster höjdes även till den svenska toppdomänens nackdel: ”det är tråkigt”, ”inte lika 🌶️” och ”.se e inte riktigt samma coolt”. 
+Bar total köpte denna .se-domän för att *”Det är ju enklare att hitta”, ”så kort domän som möjligt är coolast”, ”känns mer legit”* och *”Mer rare”* (utdrag ur redaktionsmötesprotokollet). Men röster höjdes även till den svenska toppdomänens nackdel: *”det är tråkigt”, ”inte lika 🌶️”* och *”.se e inte riktigt samma coolt”*. 
 
 Det var tydligt att redaktionen rämnade i frågan om domän. Så vad yrkade meningsmotståndarna på? 
 
-I andra änden av ringen har vi den generella toppdomänen .digitial — starkt associerad med moderna digitala tekniker, såsom CD-skivan, den digitala väckarklockan och internet. Förespråkarna för denna ändelse uttryckte: ”Men samtidigt låter .digital etc mer blogg aktigt” och ”Jag röstade digital men är med på \[.\]se tåget med!!”.
+I andra änden av ringen har vi den generella toppdomänen .digitial — starkt associerad med moderna digitala tekniker, såsom CD-skivan, den digitala väckarklockan och internet. Förespråkarna för denna ändelse uttryckte: *”Men samtidigt låter .digital etc mer blogg aktigt”* och *”Jag röstade digital men är med på \[.\]se tåget med!!”*.
 
 Den digitala revolutionen hade tydligen inte kommit till redaktionen ännu och nationalgardet stod starkt. Men i sin mammas källare jobbade en av de få svettiga digitalisterna på att öppna en bakdörr in till bar total. I och med att priset på .digital-domäner för ett år var runt 40kr lyckades denna gremlin tillslut ansluta till den totala huvudservern via https://bartotal.digital. 
 
