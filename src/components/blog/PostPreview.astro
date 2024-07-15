@@ -21,7 +21,7 @@ const postDate = getPostSortDate(post);
 { withAuthor && (
 !!post.data.author.length && (
 	<span class="sm:hidden font-normal text-gray-500 sm:min-w-[190px]">
-		av {post.data.author.map((author, i) => 	
+		av {post.data.author.map((author: any, i: number) => 	
 			<>	
 				<a class="underline cactus-link"
 				aria-label={`View more blogs by ${author}`}
@@ -43,7 +43,7 @@ const postDate = getPostSortDate(post);
 { withAuthor && (
 	!!post.data.author.length && (
 		<span class="hidden sm:block ml-1 font-normal text-gray-500 sm:min-w-[190px]">
-			av {post.data.author.map((author, i) => 	
+			av {post.data.author.map((author: any, i: number) => 	
 				<>	
 					<a class="underline cactus-link"
 					aria-label={`View more blogs by ${author}`}

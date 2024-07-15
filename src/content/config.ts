@@ -12,8 +12,8 @@ const post = defineCollection({
 		z.object({
 			coverImage: z
 				.object({
-					alt: z.string(),
-					src: image(),
+					alt: z.string().optional(),
+					src: image().optional(),
 				})
 				.optional(),
 			description: z.string().min(0).max(1600),
