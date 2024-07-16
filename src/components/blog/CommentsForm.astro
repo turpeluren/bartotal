@@ -33,14 +33,13 @@ const {
   <div class="dropdown">
   <button id="dropdownBtn" class="pb-1 mb-2 hover:text-textColor text-lg hover:underline flex justify-between w-auto">Lämna en kommentar:</button>
   <div class="dropdownContent relative transition-all overflow-hidden h-0 ml-4 mb-6 mt-4">
-<form class=""
+<form
     id="commentForm"
     name={name}
     data-netlify="true"
     netlify-honeypot="bot-field"
 >
-  <input type="hidden" name="form-name" value={name}/>
-  <input type="hidden" name="slug" value={Astro.url.toString() as string}/>
+<input type="hidden" name="slug" value={Astro.url.toString() as string}/>
   {
     inputs &&
       inputs.map(
