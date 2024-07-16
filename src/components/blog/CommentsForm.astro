@@ -5,7 +5,6 @@ const {
     name,
     inputs,
     textarea,
-    button = 'Contact us',
     submitMessage = '' 
 } = Astro.props;
 ---
@@ -41,10 +40,11 @@ const {
     netlify-honeypot="bot-field"
 >
   <input type="hidden" name="form-name" value={name}/>
+  <input type="hidden" name="slug" value={Astro.url.toString() as string}/>
   {
     inputs &&
       inputs.map(
-        ({ type = 'text', name, label = '', autocomplete = 'on', placeholder = '' }) =>
+        ({ type = 'text', name = '', label = '', autocomplete = 'on', placeholder = '' }) =>
           name && (
             <div class="mb-1">
               {label && (
@@ -53,7 +53,7 @@ const {
                 </label>
               )}
               <input
-                type={type}
+                type='text'
                 name={name}
                 id={name}
                 autocomplete={autocomplete}
@@ -84,15 +84,12 @@ const {
       </div>
     )
   }
-  {
-    button && (
-      <div class="mt-6 grid underline hover:text-textColor">
-        <button id="submitButton" type="submit">
-          Skicka
-        </button>
-      </div>
-    )
-  }
+  <div class="mt-6 grid underline hover:text-textColor">
+    <button id="submitButton" type="submit">
+      Skicka
+    </button>
+  </div>
+    
 </form>
 </div>
 </div>
