@@ -1,0 +1,142 @@
+---
+import Comments from "@/components/blog/Comments.astro";
+
+const { 
+    name,
+    inputs,
+    textarea,
+    button = 'Contact us',
+    submitMessage = '' 
+} = Astro.props;
+---
+
+<style>
+    #dropdownBtn.active {
+      @apply underline;
+    }
+    #dropdownBtn.active::after {
+        content: '▾';
+    }
+    #dropdownBtn::after {
+        content: '▴';
+        @apply ml-2;
+    }
+    #dropdownBtn.active:hover::after {
+        content: '▴';
+    }
+    #dropdownBtn:hover::after {
+        content: '▾';
+    }
+</style>
+
+<div class="mt-24 prose">
+  <hr>
+  <div class="dropdown">
+  <button id="dropdownBtn" class="pb-1 mb-2 hover:text-textColor text-lg hover:underline flex justify-between w-auto">Lämna en kommentar:</button>
+  <div class="dropdownContent relative transition-all overflow-hidden h-0 ml-4 mb-6 mt-4">
+<form class=""
+    id="commentForm"
+    name={name}
+    data-netlify="true"
+    netlify-honeypot="bot-field"
+>
+  <input type="hidden" name="form-name" value={name}/>
+  {
+    inputs &&
+      inputs.map(
+        ({ type = 'text', name, label = '', autocomplete = 'on', placeholder = '' }) =>
+          name && (
+            <div class="mb-1">
+              {label && (
+                <label for={name} class="block text-sm">
+                  {label}
+                </label>
+              )}
+              <input
+                type={type}
+                name={name}
+                id={name}
+                autocomplete={autocomplete}
+                placeholder={placeholder}
+                class="py-1 px-2 block w-full text-md rounded-sm border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900"
+              />
+            </div>
+          )
+      )
+  }
+
+  <!-- honeypot? -->
+  <label class="hidden">Don’t fill this out if you’re human: <input name="bot-field" /></label>
+
+  {
+    textarea && (
+      <div>
+        <label for="textarea" class="block text-sm">
+          {textarea.label}
+        </label>
+        <textarea
+          id="textarea"
+          name={textarea.name ? textarea.name : 'message'}
+          rows={textarea.rows ? textarea.rows : 4}
+          placeholder={textarea.placeholder}
+          class="py-1 px-2 block w-full text-md rounded-sm border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900"
+        />
+      </div>
+    )
+  }
+  {
+    button && (
+      <div class="mt-6 grid underline hover:text-textColor">
+        <button id="submitButton" type="submit">
+          Skicka
+        </button>
+      </div>
+    )
+  }
+</form>
+</div>
+</div>
+</div>
+
+<Comments/>
+
+<script define:vars={{ submitMessage }}>
+
+  const handleSubmit = (event) => {
+    event.preventDefault();
+
+    const myForm = event.target;
+    const formData = new FormData(myForm);
+
+    // Append data
+    var postSlug = document.URL.split("/");
+    postSlug = postSlug[postSlug.length-1]
+    formData.append("post", postSlug);
+    
+    // POST
+    fetch("/", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: new URLSearchParams(formData).toString(),
+    })
+      .then(() => alert(submitMessage),
+      document.getElementById("textarea").value = '')
+      .catch((error) => alert(error));
+  };
+
+  function dropdown(e) {
+    document
+        .getElementsByClassName("dropdownContent")[0]
+        .classList.toggle("h-auto");
+    e.target.classList.toggle("active");
+  }
+
+  document
+    .querySelector("form")
+    .addEventListener("submit", handleSubmit);
+
+  document
+    .getElementById("dropdownBtn")
+    .addEventListener("click", dropdown);
+  
+</script>
