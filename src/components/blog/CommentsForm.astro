@@ -28,7 +28,7 @@ const {
     }
 </style>
 
-<div class="mt-24 prose">
+<div class="mt-24 prose max-w-full">
   <hr>
   <div class="dropdown">
   <button id="dropdownBtn" class="pb-1 mb-2 hover:text-textColor text-lg hover:underline flex justify-between w-auto">Lämna en kommentar:</button>
@@ -39,7 +39,7 @@ const {
     data-netlify="true"
     netlify-honeypot="bot-field"
 >
-<input type="hidden" name="slug" value={Astro.url.toString() as string}/>
+<input type="hidden" name="slug" value={Astro.url.toString().split('/posts/')[1] as string}/>
   {
     inputs &&
       inputs.map(
