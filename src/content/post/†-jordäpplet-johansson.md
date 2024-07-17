@@ -16,11 +16,11 @@ Jordäpplet Johansson har hittats avliden i sin lägenhetsvåning i Karlatornet.
 
 Under natten till måndag kom telefonsamtalet som bekräftade att poeten [Jordäpplet Johansson](https://bartotal.se/redaktionen/jord%C3%A4pplet%20johansson/) avled den 14 juli 23:00 i sviterna av spetälska. Jordäpplet har sedan en tid tillbaka varit aktiv hos oss på Bar Total och var mycket uppskattad av sina kollegor. Han blev 89 år. Vi har pratat med Jordäpplets nära vän som önskar sig vara anonym om hans bortgång:
 
-"Jordäpplet var en stark och ståtlig typ. Många avundades den mannen och effekten han hade på människor omkring sig."
+> Jordäpplet var en stark och ståtlig typ. Många avundades den mannen och effekten han hade på människor omkring sig.
 
-"Det var ständigt folk som skulle djävlas och hålla på bara för att få några sekunders uppmärksamhet, men han ägnade dem aldrig ens en blick."
+> Det var ständigt folk som skulle djävlas och hålla på bara för att få några sekunders uppmärksamhet, men han ägnade dem aldrig ens en blick.
 
-"Han var ett äkta proffs."
+> Han var ett äkta proffs.
 
 Vännen önskas vara anonym.
 

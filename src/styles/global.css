@@ -46,4 +46,8 @@
 	.text-gothic {
 		font-family: barTotalGothic;
 	}
+
+	code::before, code::after {
+		@apply !content-none;
+	}
 }

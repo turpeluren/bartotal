@@ -75,8 +75,8 @@ export default {
 							borderLeftWidth: "0",
 						},
 						code: {
-							border: "1px dotted #666",
-							borderRadius: "2px",
+							/*border: "1px dotted #666",
+							borderRadius: "2px",*/
 						},
 						hr: {
 							borderTopStyle: "dashed",
