@@ -1,5 +1,4 @@
 ---
-import Comments from "@/components/blog/Comments.astro";
 
 const { 
     name,
@@ -7,6 +6,8 @@ const {
     textarea,
     submitMessage = '' 
 } = Astro.props;
+
+
 ---
 
 <style>
@@ -43,22 +44,27 @@ const {
   {
     inputs &&
       inputs.map(
-        ({ type = 'text', name = '', label = '', autocomplete = 'on', placeholder = '' }) =>
-          name && (
+        ({ type = 'text', name: namn = '', label = '', autocomplete = 'on', placeholder = '' }) =>
+          namn && (
             <div class="mb-1">
               {label && (
-                <label for={name} class="block text-sm">
+                <label for={namn} class="block text-sm">
                   {label}
                 </label>
               )}
               <input
                 type='text'
-                name={name}
-                id={name}
+                name={namn}
+                id={namn}
                 autocomplete={autocomplete}
                 placeholder={placeholder}
+                value=""
                 class="py-1 px-2 block w-full text-md rounded-sm border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900"
               />
+              <script define:vars={{ namn }}>
+                const urlSearchParams = new URLSearchParams(window.location.search);
+                document.getElementById(namn).value=urlSearchParams.get(namn);
+              </script>
             </div>
           )
       )
@@ -80,6 +86,10 @@ const {
           placeholder={textarea.placeholder}
           class="py-1 px-2 block w-full text-md rounded-sm border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900"
         />
+        <script define:vars={{ textarea }}>
+          const urlSearchParams2 = new URLSearchParams(window.location.search);
+          document.getElementById("textarea").value=urlSearchParams2.get(textarea.name);
+        </script>
       </div>
     )
   }
@@ -94,7 +104,6 @@ const {
 </div>
 </div>
 
-<Comments/>
 
 <script define:vars={{ submitMessage }}>
 

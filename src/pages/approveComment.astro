@@ -1,0 +1,106 @@
+---
+import CommentsForm from "@/components/blog/CommentsForm.astro";
+import PageLayout from "@/layouts/Base.astro";
+
+const meta = {
+	description: "",
+	title: "",
+};
+---
+
+<PageLayout meta={meta}>
+<form
+    id="commentForm"
+    name="approveComment"
+    netlify-honeypot="bot-field"
+>
+    <div class="mb-1">
+        <label for="slug" class="block text-sm">
+            Post
+        </label>
+        <input
+            type='text'
+            name="slug"
+            id="slug"
+            value=""
+            class="py-1 px-2 block w-full text-md rounded-sm border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900"
+        />
+    </div>
+
+    <div class="mb-1">
+        <label for="name" class="block text-sm">
+            Namn
+        </label>
+        <input
+            type='text'
+            name="name"
+            id="name"
+            value=""
+            class="py-1 px-2 block w-full text-md rounded-sm border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900"
+        />
+    </div>
+
+    <div class="mb-1">
+        <label for="email" class="block text-sm">
+            Email
+        </label>
+        <input
+            type='text'
+            name="email"
+            id="email"
+            value=""
+            class="py-1 px-2 block w-full text-md rounded-sm border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900"
+        />
+    </div>
+
+    <!-- honeypot? -->
+    <label class="hidden">Don’t fill this out if you’re human: <input name="bot-field" /></label>
+
+    <div>
+        <label for="comment" class="block text-sm">
+            Kommentar
+        </label>
+        <textarea
+            id="comment"
+            name="comment"
+            rows=4
+            class="py-1 px-2 block w-full text-md rounded-sm border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900"
+        />
+    </div>
+
+    <div class="mb-1">
+        <label for="token" class="block text-sm">
+            Hemlig token
+        </label>
+        <input
+            type='text'
+            name="token"
+            id="token"
+            value=""
+            class="py-1 px-2 block w-full text-md rounded-sm border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900"
+        />
+    </div>
+ 
+    <div class="mt-6 grid grid-cols-2 gap-6 underline hover:text-textColor">
+        <button id="submitButton" type="submit" class="bg-green-400 col-span-1">
+            Publicera
+        </button>
+
+        <button id="submitButton" type="submit" class="bg-red-400 col-span-1">
+            Ta bort
+        </button>
+    </div>
+
+    <div class="mt-6 grid underline hover:text-textColor">
+        
+    </div>
+</form>
+</PageLayout>
+
+<script>
+    const urlSearchParams = new URLSearchParams(window.location.search);
+    document.getElementById("name").value=urlSearchParams.get("name");
+    document.getElementById("email").value=urlSearchParams.get("email");
+    document.getElementById("comment").value=urlSearchParams.get("comment");
+    document.getElementById("slug").value=urlSearchParams.get("slug");
+</script>

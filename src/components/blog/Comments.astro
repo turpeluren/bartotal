@@ -2,6 +2,8 @@
 import { getEntry } from 'astro:content';
 import FormattedDate from '../FormattedDate.astro';
 
+console.log(Astro.url.toString());
+
 const slug = Astro.url.toString().split('/posts/')[1].split("/")[0] as string;
 const commentsEntry = await getEntry('comments', slug);
 const comments = commentsEntry?.data?.comments || [];

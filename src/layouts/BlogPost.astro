@@ -5,6 +5,7 @@ import BlogHero from "@/components/blog/Hero.astro";
 import TOC from "@/components/blog/TOC.astro";
 import WebMentions from "@/components/blog/webmentions/index.astro";
 import Form from "@/components/blog/CommentsForm.astro";
+import Comments from "@/components/blog/Comments.astro";
 
 import BaseLayout from "./Base.astro";
 
@@ -76,6 +77,7 @@ const { headings } = await post.render();
 		  }}
 		submitMessage="Tack för din kommentar! Syns här på sidan ASAP. (Vi måste godkänna att det ej är SPAM!)"
 		/>
+	<Comments/>
 </BaseLayout>
 
 <script>
