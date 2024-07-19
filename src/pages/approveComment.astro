@@ -97,7 +97,7 @@ const meta = {
 </form>
 </PageLayout>
 
-<script>
+<script is:inline>
     const urlSearchParams = new URLSearchParams(window.location.search);
     const nameField = document.getElementById("name");
     if (nameField) nameField.value=urlSearchParams.get("name");
