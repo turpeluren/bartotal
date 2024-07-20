@@ -9,7 +9,7 @@ tags:
 ---
 ###### Nya tider kräver nya mesyrer. Det finns alternativ till att dö av brain-rot på tiktok eller behöva hänga med i vad som händer på twitter. Det är dags att växa upp. Har du inte en redan är det hög tid att skaffa en *rss-läsare*. 
 
-Om det bara låter som en massa bokstäver ska jag berätta för dig att det står för **Really Simple Syndication** *(sv: Riktigt Svinenkel Syndikation)* — Syndikation i den bemärkelsen att man sänder samma media i flera olika kanaler (repostar). Den här ikonen <Icon aria-hidden="true" class=”h-[1em] w-[1em] inline” focusable="false" name=”mdi:rss” /> som du kanske känner igen signalerar ett ett rss-flöde. 
+Om det bara låter som en massa bokstäver ska jag berätta för dig att det står för **Really Simple Syndication** *(sv: Riktigt Svinenkel Syndikation)* — Syndikation i den bemärkelsen att man sänder samma media i flera olika kanaler (repostar). Den tiltade wifi-ikonen som du kanske känner igen signalerar ett rss-flöde. 
 
 Eftersom Bar Total är en Totalt decentraliserad pirat-tidsskrift är det självklart att vi syndikerar. Vi repostar till [X/Twitter](https://x.com/bartotalse) och till (här kommer det artikeln handlar om) [rss](/rss.xml). 
 
