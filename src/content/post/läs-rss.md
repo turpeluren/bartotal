@@ -6,7 +6,6 @@ publishDate: 20 Jul 2024
 description: Hur du bäst läser bar total och allt annat i världen.
 tags:
   - meta
-draft: true
 ---
 ###### Nya tider kräver nya mesyrer. Det finns alternativ till att dö av brain-rot på tiktok eller behöva hänga med i vad som händer på twitter. Det är dags att växa upp. Har du inte en redan är det hög tid att skaffa en *rss-läsare*. 
 
