@@ -1,7 +1,7 @@
 ---
 title: Knepet som Instagram inte vill att du ska veta
 author:
-  - turpelurpeluren
+  - Demitri
 publishDate: 20 Jul 2024
 description: Hur du bäst läser bar total och allt annat i världen.
 tags:
