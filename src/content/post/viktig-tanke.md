@@ -1,5 +1,7 @@
 ---
 title: Viktig tanke
+author:
+  - Glenn Beck
 publishDate: 20 Jul 2024
 description: Viktig tanke
 coverImage:
