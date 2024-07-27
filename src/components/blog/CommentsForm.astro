@@ -113,7 +113,7 @@ const {
     moderationLink += "&name=" + document.getElementById("name").value;
     moderationLink += "&email=" + document.getElementById("email").value;
     moderationLink += "&comment=" + document.getElementById("comment").value;
-    document.getElementById("moderationLink").value = moderationLink;
+    document.getElementById("moderationLink").value = moderationLink.replace(" ", "%20");
     
     // POST
     fetch("/", {
