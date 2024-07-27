@@ -10,6 +10,7 @@ declare module "@pagefind/default-ui" {
 
 interface ImportMetaEnv {
 	readonly WEBMENTION_API_KEY: string;
+	readonly COMMENT_MODERATION_TOKEN: string;
 }
 
 interface ImportMeta {
