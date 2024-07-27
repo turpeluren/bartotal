@@ -13,6 +13,7 @@ const meta = {
     id="commentForm"
     name="approveComment"
     netlify-honeypot="bot-field"
+    action="/.netlify/functions/approveComment" method="POST"
 >
     <div class="mb-1">
         <label for="slug" class="block text-sm">
@@ -81,12 +82,12 @@ const meta = {
         />
     </div>
  
-    <div class="mt-6 grid grid-cols-2 gap-6 underline hover:text-textColor">
-        <button id="submitButton" type="submit" class="bg-green-400 col-span-1">
+    <div class="mt-6 grid grid-cols-2 gap-6 underline">
+        <button id="delete" value="delete" type="submit" name="action" class="bg-green-400 col-span-1 text-gray-800 hover:text-black">
             Publicera
         </button>
 
-        <button id="submitButton" type="submit" class="bg-red-400 col-span-1">
+        <button id="approve" value="approve" type="submit" name="action" class="bg-red-400 col-span-1 text-gray-800 hover:text-black">
             Ta bort
         </button>
     </div>

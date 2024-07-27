@@ -11,6 +11,10 @@ declare module "@pagefind/default-ui" {
 interface ImportMetaEnv {
 	readonly WEBMENTION_API_KEY: string;
 	readonly COMMENT_MODERATION_TOKEN: string;
+	readonly GITHUB_AUTH_TOKEN: string;
+	readonly GITHUB_REPO: string;
+	readonly GITHUB_USER: string;
+	readonly NETLIFY_AUTH_TOKEN: string;
 }
 
 interface ImportMeta {
