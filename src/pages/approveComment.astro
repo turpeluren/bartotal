@@ -13,7 +13,8 @@ const meta = {
     id="commentForm"
     name="approveComment"
     netlify-honeypot="bot-field"
-    action="/.netlify/functions/approveComment" method="POST"
+    action="/.netlify/functions/approveComment"
+    method="POST"
 >
     <div class="mb-1">
         <label for="slug" class="block text-sm">
@@ -68,6 +69,8 @@ const meta = {
             class="py-1 px-2 block w-full text-md rounded-sm border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900"
         />
     </div>
+
+    <input type="text" name="username" value="admin" style="display: none">
 
     <div class="mb-1">
         <label for="token" class="block text-sm">
