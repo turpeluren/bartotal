@@ -31,7 +31,7 @@ const {
     data-netlify="true"
     netlify-honeypot="bot-field"
 >
-<input type="hidden" name="slug" value={Astro.url.toString().split('/posts/')[1] as string}/>
+<input type="hidden" name="slug" id="slug" value={Astro.url.toString().split('/posts/')[1].replace("/", "") as string}/>
   {
     inputs &&
       inputs.map(
@@ -71,7 +71,7 @@ const {
           {textarea.label}
         </label>
         <textarea
-          id="textarea"
+          id="comment"
           name={textarea.name ? textarea.name : 'message'}
           rows={textarea.rows ? textarea.rows : 4}
           placeholder={textarea.placeholder}
@@ -79,7 +79,7 @@ const {
         />
         <script define:vars={{ textarea }}>
           const urlSearchParams2 = new URLSearchParams(window.location.search);
-          document.getElementById("textarea").value=urlSearchParams2.get(textarea.name);
+          document.getElementById("comment").value=urlSearchParams2.get(textarea.name);
         </script>
       </div>
     )
@@ -89,6 +89,8 @@ const {
       Skicka
     </button>
   </div>
+
+  <input type="hidden" name="moderationLink" id="moderationLink" value=""/>
     
 </form>
 </div>
@@ -104,10 +106,13 @@ const {
     const myForm = event.target;
     const formData = new FormData(myForm);
 
-    // Append data
-    var postSlug = document.URL.split("/");
-    postSlug = postSlug[postSlug.length-1]
-    formData.append("post", postSlug);
+    // Append moderation data
+    var moderationLink = "https://bartotal.digital/approveComment?";
+    moderationLink += "slug=" + document.getElementById("slug").value;
+    moderationLink += "&name=" + document.getElementById("name").value;
+    moderationLink += "&email=" + document.getElementById("email").value;
+    moderationLink += "&comment=" + document.getElementById("comment").value;
+    document.getElementById("moderationLink").value = moderationLink;
     
     // POST
     fetch("/", {
