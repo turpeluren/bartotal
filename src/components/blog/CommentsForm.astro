@@ -84,13 +84,14 @@ const {
       </div>
     )
   }
+
+  <input type="hidden" name="moderationLink" id="moderationLink" value=""/>
+
   <div class="mt-6 grid underline text-gray-600 dark:text-gray-400 hover:text-textColor dark:hover:text-textColor">
     <button id="submitButton" type="submit">
       Skicka
     </button>
   </div>
-
-  <input type="hidden" name="moderationLink" id="moderationLink" value=""/>
     
 </form>
 </div>
@@ -121,7 +122,7 @@ const {
       body: new URLSearchParams(formData).toString(),
     })
       .then(() => alert(submitMessage),
-      document.getElementById("textarea").value = '')
+      document.getElementById("comment").value = '')
       .catch((error) => alert(error));
   };
 
