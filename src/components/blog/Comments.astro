@@ -25,9 +25,9 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
 };
 ---
 
-<div class="prose max-w-full m-0 mt-6">
+<div class="prose max-w-full m-0 mt-6 text-textColor">
     {comments.length > 0 && (
-        <h3>Kommentarer:</h3>
+        <h2 class="mb-12 text-textColor">{comments.length} Kommentar{(comments.length > 1 ? "er:" : ":")}</h2>
     )}
     <ul class="p-0">
         
@@ -35,10 +35,10 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
             <>
             <div class="line"></div>
             <div class="comment" id={data.id}>
-                <span><h4 id="name" class="inline">{data.createdBy.fullName}</h4>
+                <span><h4 id="name" class="inline text-textColor">{data.createdBy.fullName}</h4>
                 <FormattedDate class="text-sm date inline" date={data.createdAt} dateTimeOptions={dateTimeOptions}/></span>
                 {data.website && (<a href={"https://"+data.website} id="website"> {data.website}</a>)}
-                <hr class="m-0 my-3" />
+                <hr class="m-0 mb-3 dark:border-gray-800" />
                 <div class="message">
                     <span
                         set:html={data.html}
@@ -48,7 +48,7 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
             <div class="mt-12 mb-4">
                 <a class="hidden text-sm p-0">svara</a>
                 {(i < comments.length-1) && (
-                    <hr class="m-0 border-gray-300 border-solid"/>
+                    <hr class="m-0 border-gray-300 dark:border-gray-700 border-solid"/>
                 )}
             </div>
             </>

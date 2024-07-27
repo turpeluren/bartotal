@@ -11,29 +11,20 @@ const {
 ---
 
 <style>
-    #dropdownBtn.active {
-      @apply underline;
-    }
-    #dropdownBtn.active::after {
+    #dropdownBtn.active::before {
         content: '▾';
     }
-    #dropdownBtn::after {
-        content: '▴';
-        @apply ml-2;
-    }
-    #dropdownBtn.active:hover::after {
-        content: '▴';
-    }
-    #dropdownBtn:hover::after {
-        content: '▾';
+    #dropdownBtn::before {
+        content: '▸';
+        @apply pr-2;
     }
 </style>
 
-<div class="mt-24 prose max-w-full">
-  <hr>
+<div class="mt-24 prose max-w-full text-textColor">
+  <hr class="dark:border-gray-800">
   <div class="dropdown">
-  <button id="dropdownBtn" class="pb-1 mb-2 hover:text-textColor text-lg hover:underline flex justify-between w-auto">Lämna en kommentar:</button>
-  <div class="dropdownContent relative transition-all overflow-hidden h-0 ml-4 mb-6 mt-4">
+  <button id="dropdownBtn" class="pb-1 mb-2 font-semibold underline text-gray-600 dark:text-gray-400 hover:text-textColor dark:hover:text-textColor text-lg flex justify-between w-auto">Lämna en kommentar:</button>
+  <div class="dropdownContent relative transition-all overflow-hidden h-0 mb-6 mt-4">
 <form
     id="commentForm"
     name={name}
@@ -59,7 +50,7 @@ const {
                 autocomplete={autocomplete}
                 placeholder={placeholder}
                 value=""
-                class="py-1 px-2 block w-full text-md rounded-sm border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900"
+                class="py-2 px-2 block w-full text-md rounded-sm border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900"
               />
               <script define:vars={{ namn }}>
                 const urlSearchParams = new URLSearchParams(window.location.search);
@@ -93,7 +84,7 @@ const {
       </div>
     )
   }
-  <div class="mt-6 grid underline hover:text-textColor">
+  <div class="mt-6 grid underline text-gray-600 dark:text-gray-400 hover:text-textColor dark:hover:text-textColor">
     <button id="submitButton" type="submit">
       Skicka
     </button>
