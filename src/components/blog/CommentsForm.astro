@@ -24,7 +24,7 @@ const {
   <hr class="dark:border-gray-800">
   <div class="dropdown">
   <button id="dropdownBtn" class="pb-1 mb-2 font-semibold underline text-gray-600 dark:text-gray-400 hover:text-textColor dark:hover:text-textColor text-lg flex justify-between w-auto">Lämna en kommentar:</button>
-  <div class="dropdownContent relative transition-all overflow-hidden h-0 mb-6 mt-4">
+  <div class="dropdownContent relative transition-all overflow-hidden h-0 mb-6 mt-4 px-1">
 <form
     id="commentForm"
     name={name}
@@ -77,7 +77,7 @@ const {
           name={textarea.name ? textarea.name : 'message'}
           rows={textarea.rows ? textarea.rows : 4}
           placeholder={textarea.placeholder}
-          class="py-1 px-2 block w-full text-md rounded-sm border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900"
+          class="py-2 px-2 block w-full text-md rounded-sm border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900"
         />
         <script define:vars={{ textarea }}>
           const urlSearchParams2 = new URLSearchParams(window.location.search);
