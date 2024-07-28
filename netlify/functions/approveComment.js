@@ -136,10 +136,10 @@ const getApproveVars = params => {
   }
 
   //const slug = params.slug;
-  const slug = new URLSearchParams({slug: params.slug}).toString().split("=")[1];
-  if (!slug) {
+  if (!params.slug) {
     return { err: { statusCode: 400, body: "Missing slug" } };
   }
+  const slug = new URLSearchParams({slug: params.slug}).toString().split("=")[1];
 
   const date = params.date || "";
   /*if (!date) {
@@ -336,7 +336,7 @@ const approveComment = async (
 
     try {
       const existingFile = await getExistingCommentsFile(
-        githubToken, githubUser, githubRepo, path
+        githubToken, githubUser, githubRepo, slug
       );
       existingSha = existingFile.sha;
       existingJson = getExistingJson(existingFile);
