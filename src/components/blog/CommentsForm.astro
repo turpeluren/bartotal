@@ -31,34 +31,36 @@ const {
     data-netlify="true"
     netlify-honeypot="bot-field"
 >
+
 <input type="hidden" name="slug" id="slug" value={Astro.url.toString().split('/posts/')[1].replace("/", "") as string}/>
-  {
-    inputs &&
-      inputs.map(
-        ({ type = 'text', name: namn = '', label = '', autocomplete = 'on', placeholder = '' }) =>
-          namn && (
-            <div class="mb-1">
-              {label && (
-                <label for={namn} class="block text-sm">
-                  {label}
-                </label>
-              )}
-              <input
-                type='text'
-                name={namn}
-                id={namn}
-                autocomplete={autocomplete}
-                placeholder={placeholder}
-                value=""
-                class="py-2 px-2 block w-full text-md rounded-sm border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900"
-              />
-              <script define:vars={{ namn }}>
-                const urlSearchParams = new URLSearchParams(window.location.search);
-                document.getElementById(namn).value=urlSearchParams.get(namn);
-              </script>
-            </div>
-          )
+
+{
+  inputs &&
+    inputs.map(
+      ({ type = 'text', name: namn = '', label = '', autocomplete = 'on', placeholder = '' }) =>
+      namn && (
+        <div class="mb-1">
+          {label && (
+            <label for={namn} class="block text-sm">
+              {label}
+            </label>
+          )}
+          <input
+            type='text'
+            name={namn}
+            id={namn}
+            autocomplete={autocomplete}
+            placeholder={placeholder}
+            value=""
+            class="py-2 px-2 block w-full text-md rounded-sm border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900"
+          />
+          <script define:vars={{ namn }}>
+            const urlSearchParams = new URLSearchParams(window.location.search);
+            document.getElementById(namn).value=urlSearchParams.get(namn);
+          </script>
+        </div>
       )
+    )
   }
 
   <!-- honeypot? -->
