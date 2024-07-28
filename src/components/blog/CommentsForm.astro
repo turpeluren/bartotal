@@ -85,7 +85,7 @@ const {
     )
   }
 
-  <input type="hidden" name="date" id="date" value={new Date().toString()}/>
+  <input type="hidden" name="date" id="date" value={new Date().toString().replaceAll("+", "%2B")}/>
 
   <input type="hidden" name="moderationLink" id="moderationLink" value=""/>
 
@@ -116,6 +116,7 @@ const {
     moderationLink += "&email=" + document.getElementById("email").value;
     moderationLink += "&date=" + document.getElementById("date").value;
     moderationLink += "&comment=" + document.getElementById("comment").value;
+    moderationLink = moderationLink.replaceAll("+", "%20");
     moderationLink = moderationLink.replaceAll(" ", "%20");
     document.getElementById("moderationLink").value = moderationLink;
     //console.log(document.getElementById("moderationLink").value);
