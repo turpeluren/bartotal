@@ -256,15 +256,17 @@ const getExistingComments = existingJson => {
 
 const getNewComments = (existingComments, date, name, url, comment) => {
   let newComment = {
-    date,
-    name,
+    id: null,
+    parentId: null,
+    createdAt: date,
+    createdBy: { fullName: name },
   };
 
   if (url) {
     newComment.url = url;
   }
 
-  newComment.comment = comment;
+  newComment.html = comment;
 
   return [...existingComments, newComment];
 };
