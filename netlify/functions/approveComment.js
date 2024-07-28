@@ -269,7 +269,7 @@ const getNewComments = (existingComments, date, name, url, comment) => {
 
   newComment.html = comment;
 
-  return [...existingComments, newComment];
+  return [newComment, ...existingComments];
 };
 
 const getNewJson = (existingJson, newComments) => {
