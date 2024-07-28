@@ -116,7 +116,9 @@ const {
     moderationLink += "&email=" + document.getElementById("email").value;
     moderationLink += "&date=" + document.getElementById("date").value;
     moderationLink += "&comment=" + document.getElementById("comment").value;
-    document.getElementById("moderationLink").value = moderationLink.replace(" ", "%20");
+    moderationLink = moderationLink.replaceAll(" ", "%20");
+    document.getElementById("moderationLink").value = moderationLink;
+    //console.log(document.getElementById("moderationLink").value);
     
     // POST
     fetch("/", {
