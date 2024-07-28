@@ -118,8 +118,12 @@ const {
     moderationLink += "&comment=" + document.getElementById("comment").value;
     moderationLink = moderationLink.replaceAll("+", "%20");
     moderationLink = moderationLink.replaceAll(" ", "%20");
+    moderationLink = new URL(moderationLink);
+    console.log(moderationLink.toString());
     document.getElementById("moderationLink").value = moderationLink;
     //console.log(document.getElementById("moderationLink").value);
+
+    console.log(new URLSearchParams({slug: "kläder"}).toString().split("=")[1]);
     
     // POST
     fetch("/", {

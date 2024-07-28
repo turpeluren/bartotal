@@ -135,7 +135,8 @@ const getApproveVars = params => {
     return { err: { statusCode: 500, body: "Internal Server Error" } };
   }
 
-  const slug = params.slug;
+  //const slug = params.slug;
+  const slug = new URLSearchParams({slug: params.slug}).toString().split("=")[1];
   if (!slug) {
     return { err: { statusCode: 400, body: "Missing slug" } };
   }
@@ -273,7 +274,6 @@ const getNewComments = (existingComments, date, name, url, comment) => {
 
 const getNewJson = (existingJson, newComments) => {
   return { ...existingJson, comments: newComments };
-  /*return { comments: newComments };*/
 };
 
 const putNewCommentsFile = async (

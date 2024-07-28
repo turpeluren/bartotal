@@ -125,5 +125,10 @@ const meta = {
     const commentField = document.getElementById("comment");
     if (commentField) commentField.value=urlSearchParams.get("comment");
     slugField = document.getElementById("slug");
-    if (slugField) slugField.value=urlSearchParams.get("slug");
+    try {
+        if (slugField) slugField.value=urlSearchParams.toString().split("slug=")[1].split("&")[0];
+    } catch(e) {
+        console.error(e);
+    }
+    /*if (slugField) slugField.value=urlSearchParams.get("slug");*/
 </script>
