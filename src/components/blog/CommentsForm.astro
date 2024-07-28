@@ -85,7 +85,7 @@ const {
     )
   }
 
-  <input type="hidden" name="date" id="date" value={new Date().toString().replaceAll("+", "%2B")}/>
+  <input type="hidden" name="date" id="date" value=""/>
 
   <input type="hidden" name="moderationLink" id="moderationLink" value=""/>
 
@@ -106,8 +106,8 @@ const {
   const handleSubmit = (event) => {
     event.preventDefault();
 
-    const myForm = event.target;
-    const formData = new FormData(myForm);
+    // Add the date of submit
+    document.getElementById("date").value=new Date().toString().replaceAll("+", "%2B");
 
     // Append moderation data
     var moderationLink = "https://bartotal.digital/approveComment?";
@@ -123,7 +123,8 @@ const {
     document.getElementById("moderationLink").value = moderationLink;
     //console.log(document.getElementById("moderationLink").value);
 
-    console.log(new URLSearchParams({slug: "kläder"}).toString().split("=")[1]);
+    const myForm = event.target;
+    const formData = new FormData(myForm);
     
     // POST
     fetch("/", {
@@ -132,7 +133,8 @@ const {
       body: new URLSearchParams(formData).toString(),
     })
       .then(() => alert(submitMessage),
-      document.getElementById("comment").value = '')
+      document.getElementById("comment").value = '',
+      document.getElementById("moderationLink").value = '')
       .catch((error) => alert(error));
   };
 
