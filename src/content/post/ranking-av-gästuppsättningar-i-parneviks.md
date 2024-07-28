@@ -24,7 +24,7 @@ Motivering: Vad i helvete?
 
 **2:** Per Holknekt, Sebbe Staxx, Agneta Sjödin och Maja Strömstedt
 
-Motivering: Per Holknekt verkar alltså ligga bakom den ikoniska SVEA-mössan, har deltagit i VM i flipper och sålt Situation STHLM (och en del annat). Sebbe Staxx är Sebbe Staxx. Agneta Sjödin har med sig sin och Niklas Strömstedts gemensamma dotter. Grymstämninggaranti.
+Motivering: Per Holknekt verkar alltså ligga bakom den ikoniska SVEA-mössan, har deltagit i VM i flipper och sålt Situation STHLM (och en del annat). Sebbe Staxx är Sebbe Staxx. Agneta Sjödin har med sig sin (och Niklas Strömstedts) dotter. Grymstämninggaranti.
 
 **1:** Caitlyn Jenner, Elisabet Höglund, Laila Bagge och Liam Pitts, Albin Lee Meldau
 
