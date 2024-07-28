@@ -1,5 +1,7 @@
 ---
 title: Ranking av gästuppsättningar i parneviks
+author:
+  - Glenn Beck
 publishDate: 28 Jul 2024
 description: Ranking av gästuppsättningar i parneviks
 tags:
