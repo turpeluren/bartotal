@@ -5,7 +5,8 @@ const {
   GITHUB_AUTH_TOKEN,
   GITHUB_REPO,
   GITHUB_USER,
-  NETLIFY_AUTH_TOKEN
+  NETLIFY_AUTH_TOKEN,
+  COMMENT_MODERATION_TOKEN
 } = process.env;
 
 const GITHUB_API_HOSTNAME = "api.github.com";
@@ -89,7 +90,7 @@ const getCommonVars = event => {
     return { err: { statusCode: 400, body: "Missing token" } };
   }
 
-  if (token !== NETLIFY_AUTH_TOKEN) {
+  if (token !== COMMENT_MODERATION_TOKEN) {
     return { err: { statusCode: 401, body: "Unauthorized" } };
   }
 
