@@ -10,7 +10,7 @@ coverImage:
   alt: ""
   src: src/assets/img_0877.jpeg
 ---
-Här kommer en ranking av de fem bästa gästuppsättningarna i tv-serien *Parneviks*. Jag har (såklart) inte sätt något av programmen. Listan baseras på vilka blandningar av människor som jag går igång mest på.
+Här kommer en ranking av de fem bästa gästuppsättningarna i tv-serien *Parneviks*. Jag har inte sätt något av programmen. Listan baseras på vilka blandningar av människor som jag går igång mest på.
 
 **5:** Prinsessan Birgitta, Samir Badran, Lars Ohly.
 
