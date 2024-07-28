@@ -98,10 +98,10 @@ const getCommonVars = event => {
     return { err: { statusCode: 400, body: "Missing action" } };
   }
 
-  const id = params.id;
-  if (!id) {
+  const id = params.id || "";
+  /*if (!id) {
     return { err: { statusCode: 400, body: "Missing id" } };
-  }
+  }*/
 
   return {
     vars: {
@@ -139,8 +139,8 @@ const getApproveVars = params => {
     return { err: { statusCode: 400, body: "Missing slug" } };
   }
 
-  /*const date = params.date;
-  if (!date) {
+  const date = params.date || "";
+  /*if (!date) {
     return { err: { statusCode: 400, body: "Missing date" } };
   }*/
 
@@ -167,7 +167,7 @@ const getApproveVars = params => {
       githubUser: GITHUB_USER,
       githubRepo: GITHUB_REPO,
       slug,
-      /*date,*/
+      date,
       name,
       email,
       url,
@@ -269,7 +269,8 @@ const getNewComments = (existingComments, date, name, url, comment) => {
 };
 
 const getNewJson = (existingJson, newComments) => {
-  return { ...existingJson, comments: newComments };
+  /*return { ...existingJson, comments: newComments };*/
+  return { comments: newComments };
 };
 
 const putNewCommentsFile = async (
@@ -319,7 +320,7 @@ const approveComment = async (
   netlifyToken,
   id,
   slug,
-  /*date,*/
+  date,
   name,
   email,
   url,
@@ -342,15 +343,19 @@ const approveComment = async (
       existingJson = {};
       existingComments = [];
     }
-
+    
     const newComments = getNewComments(existingComments, date, name, url, comment);
     const newJson = getNewJson(existingJson, newComments);
 
-    await putNewCommentsFile(
-      githubToken, githubUser, githubRepo, slug, title, date, email, name, newJson, existingSha
-    );
+    try {
+        await putNewCommentsFile(
+        githubToken, githubUser, githubRepo, slug, title, date, email, name, newJson, existingSha
+        );
+    } catch (e) {
+        return { statusCode: 400, body: "putNewCommentsFile failed" }
+    }
 
-    await purgeComment(id, netlifyToken);
+    //await purgeComment(id, netlifyToken);
 
     return { statusCode: 200, body: "Comment approved" };
   }
@@ -360,12 +365,13 @@ const approveComment = async (
 };
 
 const deleteComment = async (id, netlifyToken) => {
-  try {
+  /*try {
     await purgeComment(id, netlifyToken);
     return { statusCode: 200, body: "Comment deleted" };
   } catch (e) {
     return { statusCode: 400, body: "Failed to delete comment" };
-  }
+  }*/
+    return { statusCode: 400, body: "Deletion not yet implemented" };
 };
 
 exports.handler = async (event, context) => {
