@@ -196,7 +196,7 @@ const purgeComment = async (id, netlifyToken) => {
 };
 
 const getGithubContentsApiEndpointForPath = (githubUser, githubRepo, slug) => {
-  return `/repos/${githubUser}/${githubRepo}/src/content/comments/${slug}.json`;
+  return `/repos/${githubUser}/${githubRepo}/contents/src/content/comments/${slug}.json`;
 }
 
 const getGithubApiHeaderToken = (githubUser, githubToken) => {
@@ -269,8 +269,8 @@ const getNewComments = (existingComments, date, name, url, comment) => {
 };
 
 const getNewJson = (existingJson, newComments) => {
-  /*return { ...existingJson, comments: newComments };*/
-  return { comments: newComments };
+  return { ...existingJson, comments: newComments };
+  /*return { comments: newComments };*/
 };
 
 const putNewCommentsFile = async (
@@ -292,7 +292,7 @@ const putNewCommentsFile = async (
 
   const newJsonStr = JSON.stringify(newJson, null, 2);
   const commitMsg =
-    `Comment on: ${title}\n\n` +
+    `Comment on: ${path}\n\n` +
     `By: ${name}\n` +
     `At: ${date}\n\n` +
     `Published by the comment bot`;
@@ -349,10 +349,10 @@ const approveComment = async (
 
     try {
         await putNewCommentsFile(
-        githubToken, githubUser, githubRepo, slug, title, date, email, name, newJson, existingSha
+        githubToken, githubUser, githubRepo, slug, /*title,*/ date, email, name, newJson, existingSha
         );
     } catch (e) {
-        return { statusCode: 400, body: "putNewCommentsFile failed" }
+        return { statusCode: 400, body: e }
     }
 
     //await purgeComment(id, netlifyToken);
