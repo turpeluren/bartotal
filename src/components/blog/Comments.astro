@@ -37,7 +37,7 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
             <div class="comment" id={data.id}>
                 <span><h4 id="name" class="inline text-textColor">{data.createdBy.fullName}</h4>
                 <FormattedDate class="text-sm date inline" date={data.createdAt} dateTimeOptions={dateTimeOptions}/></span>
-                {data.email && (<span id="email"> {data.email}</span>)}
+                {data.email && (<span id="email">{data.email}</span>)}
                 <hr class="m-0 mb-3 dark:border-gray-800" />
                 <div class="message">
                     <span
