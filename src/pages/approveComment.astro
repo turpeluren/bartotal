@@ -55,6 +55,19 @@ const meta = {
         />
     </div>
 
+    <div class="mb-1">
+        <label for="date" class="block text-sm">
+            Date
+        </label>
+        <input
+            type='text'
+            name="date"
+            id="date"
+            value=""
+            class="py-1 px-2 block w-full text-md rounded-sm border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900"
+        />
+    </div>
+
     <!-- honeypot? -->
     <label class="hidden">Don’t fill this out if you’re human: <input name="bot-field" /></label>
 
@@ -107,6 +120,8 @@ const meta = {
     if (nameField) nameField.value=urlSearchParams.get("name");
     const emailField = document.getElementById("email");
     if (emailField) emailField.value=urlSearchParams.get("email");
+    const dateField = document.getElementById("date");
+    if (dateField) dateField.value=urlSearchParams.get("date");
     const commentField = document.getElementById("comment");
     if (commentField) commentField.value=urlSearchParams.get("comment");
     slugField = document.getElementById("slug");

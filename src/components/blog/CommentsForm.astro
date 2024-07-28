@@ -85,6 +85,8 @@ const {
     )
   }
 
+  <input type="hidden" name="date" id="date" value={new Date().toString()}/>
+
   <input type="hidden" name="moderationLink" id="moderationLink" value=""/>
 
   <div class="mt-6 grid underline text-gray-600 dark:text-gray-400 hover:text-textColor dark:hover:text-textColor">
@@ -112,6 +114,7 @@ const {
     moderationLink += "slug=" + document.getElementById("slug").value;
     moderationLink += "&name=" + document.getElementById("name").value;
     moderationLink += "&email=" + document.getElementById("email").value;
+    moderationLink += "&date=" + document.getElementById("date").value;
     moderationLink += "&comment=" + document.getElementById("comment").value;
     document.getElementById("moderationLink").value = moderationLink.replace(" ", "%20");
     
