@@ -20,7 +20,7 @@ Motivering: Visst. Man är man trött på Glenn Hysén, men tanken på att han o
 
 **3:** Bill Murray, Linda Lindorff, William Spetz, Trita Parsi
 
-Motivering: Vad i helvete?
+Motivering: Motivering överflödig.
 
 **2:** Per Holknekt, Sebbe Staxx, Agneta Sjödin och Maja Strömstedt
 
