@@ -3,7 +3,7 @@ title: Bar Total Briljas Guide
 author:
   - Glenn Beck
 publishDate: 2 Aug 2024
-description: Åsikten är inte nödvändigtvis hela redaktionens.
+description: Åsikterna är inte nödvändigtvis hela redaktionens.
 tags:
   - Briljas
 coverImage:
