@@ -6,6 +6,8 @@ publishDate: 2 Aug 2024
 description: Åsikterna är inte nödvändigtvis hela redaktionens.
 tags:
   - Briljas
+coverImage:
+  alt: ""
 ---
 ”Truls Möregårdh är det finaste vi har”, skriver Victor Malm på X.
 
@@ -15,7 +17,7 @@ Johanna Frändén: ”Skakar.”
 
 Det som har hänt är alltså en svensk framgång i pingis. En sport ingen svensk någonsin bryr sig om (förutom vissa snubbar på diverse raster), får svenska medieprofiler att gå ner i brygga. Liknande kan det äve  låta när Sverige gör det bra i andra perifera sporter. Exempelvis simning. Eller varför inte RIDSPORT?!
 
-Helt klart en fascinerande sorts nationalism. (Nosar dem på psykotisk? Kommentera nedan!)
+Helt klart en fascinerande sorts nationalism. 
 
 Med det sagt håller jag ändå tummarna för Truls!
 
