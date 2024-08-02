@@ -15,7 +15,7 @@ Ola Söderholm på samma plattform: ”Att Truls släppte upp brasilianaren till
 
 Johanna Frändén: ”Skakar.”
 
-Det som hänt är alltså en svensk framgång i pingis. En sport ingen svensk någonsin bryr sig om (förutom vissa snubbar på diverse raster), får svenska medieprofiler att gå ner i brygga. Liknande kan det äve  låta när Sverige gör det bra i andra perifera sporter. Exempelvis simning. Eller varför inte RIDSPORT?!
+Det som har hänt är alltså en svensk framgång i pingis. En sport ingen svensk någonsin bryr sig om (förutom vissa snubbar på diverse raster), får svenska medieprofiler att gå ner i brygga. Liknande kan det äve  låta när Sverige gör det bra i andra perifera sporter. Exempelvis simning. Eller varför inte RIDSPORT?!
 
 Helt klart en fascinerande sorts nationalism. (Nosar dem på psykotisk? Kommentera nedan!)
 
