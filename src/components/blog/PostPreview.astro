@@ -45,20 +45,21 @@ const postDate = getPostSortDate(post);
 		)
 	)}
 </div>
-<div class="col-span-1 mt-3 col-start-1 row-start-3 row-span-1 Dsm:col-start-2">
+<div class="col-span-2 mt-3 col-start-1 row-start-3 row-span-1 Dsm:col-start-2">
 	{withDesc && <p class="Ditalic">{post.data.description}</p>}
 </div>
-<a 
-	class="h-0 col-start-2 col-span-1 row-start-1 row-span-3"
-	href={`/posts/${post.slug}/`}
->
-	{post.data.coverImage && (
+{post.data.coverImage && (
+	<a
+		class="h-16 col-start-2 col-span-1 row-start-1 row-span-2"
+		href={`/posts/${post.slug}/`}
+	>
 		<img 
 			class="aspect-video w-[7.5rem] h-16 mt-1 object-cover rounded-sm"
 			aspect-ratio={16/9}
 			src={post.data.coverImage.src.src}
 			alt={post.data.coverImage.alt}
 		/>
-	)}
-</a>
+	</a>
+)}
+
 <!-- src={`https://bartotal.se/og-image/${post.slug}.png/`} -->
