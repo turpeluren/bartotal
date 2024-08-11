@@ -1,0 +1,38 @@
+---
+import img from "/public/logo-small.png";
+import PageLayout from "@/layouts/Base.astro";
+import Form from "@/components/Form.astro";
+import { Image } from "astro:assets";
+
+const meta = {
+	description: "Sidan hittas ej",
+	title: "Felkod 404",
+};
+---
+
+<PageLayout meta={meta}>
+	<h1 class="title mb-6">Prenumerera på <span class="text-4xl text-gothic">Bar Total</span>!</h1>
+	<p class="mb-8"></p>
+
+	<Form 
+		name="comments"
+		inputs={[
+			{
+				type: 'email',
+				name: 'email',
+				label: 'Email/@',
+			},
+			]}
+		submitMessage="Tack för din kommentar! Syns här på sidan ASAP. (Vi måste godkänna att det ej är SPAM!)"
+	/>
+
+	<div class="my-4 block mx-auto justify-center h-16 w-16">
+		<Image
+			alt="Bar Total logo"
+			class="h-16 w-16 aspect-square"
+			aspect-ratio=1
+			loading="eager"
+			src={img}
+		/>
+	</div>
+</PageLayout>
