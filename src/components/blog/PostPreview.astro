@@ -16,44 +16,49 @@ const { as: Tag = "span", post, withDesc = false, withAuthor = true } = Astro.pr
 const postDate = getPostSortDate(post);
 ---
 
-<FormattedDate class="sm:col-span-1 sm:min-w-[80px] text-gray-600 dark:text-gray-400" date={postDate} />
-<!-- Author -->
-{ withAuthor && (
-!!post.data.author.length && (
-	<span class="sm:hidden font-normal text-gray-500 sm:min-w-[190px]">
-		av {post.data.author.map((author: any, i: number) => 	
-			<>	
-				<a class="underline cactus-link"
-				aria-label={`View more blogs by ${author}`}
-				href={`/redaktionen/${author}/`}
-				>{author}</a>
-				{i < post.data.author.length - 2 && ", "}
-				{i == post.data.author.length - 2 && " & "}
-			</>
-		)}
-	</span>
-)
-)}
-<Tag class:list={"col-span-3 sm:col-span-1 mb-4 sm:m-0"}>
+
+<Tag class:list={"col-start-1 col-span-1 row-start-1 Dcol-start-2 sm:m-0"}>
 	{post.data.draft && <span class="text-red-500">(Draft) </span>}
-	<a class="cactus-link" data-astro-prefetch href={`/posts/${post.slug}/`}>
+	<a class="cactus-link text-base font-semibDold" data-astro-prefetch href={`/posts/${post.slug}/`}>
 		{post.data.title}
 	</a>
 </Tag>
-{ withAuthor && (
-	!!post.data.author.length && (
-		<span class="hidden sm:block ml-1 font-normal text-gray-500 sm:min-w-[190px]">
-			av {post.data.author.map((author: any, i: number) => 	
-				<>	
-					<a class="underline cactus-link"
-					aria-label={`View more blogs by ${author}`}
-					href={`/redaktionen/${author}/`}
-					>{author}</a>
-					{i < post.data.author.length - 2 && ", "}
-					{i == post.data.author.length - 2 && " & "}
-				</>
-			)}
-		</span>
-	)
-)}
-{withDesc && <q class="line-clamp-3 italic">{post.data.description}</q>}
+
+<div class="col-span-1 col-start-1 row-start-2 row-span-1 leading-3 mt-1">
+	<FormattedDate class="text-xs sm:text-sm Dsm:col-span-1 Dcol-start-0 Dsm:min-w-[80px] text-gray-600 dark:text-gray-400" date={postDate} />
+
+	<!-- Author -->
+	{ withAuthor && (
+		!!post.data.author.length && (
+			<span class="Dcol-span-2 Dsm:col-start-2 font-normal text-xs sm:text-sm text-gray-500 sm:min-w-[190px]">
+				av {post.data.author.map((author: any, i: number) => 	
+					<>	
+						<a class="underline cactus-link"
+						aria-label={`View more blogs by ${author}`}
+						href={`/redaktionen/${author}/`}
+						>{author}</a>
+						{i < post.data.author.length - 2 && ", "}
+						{i == post.data.author.length - 2 && " & "}
+					</>
+				)}
+			</span>
+		)
+	)}
+</div>
+<div class="col-span-1 mt-3 col-start-1 row-start-3 row-span-1 Dsm:col-start-2">
+	{withDesc && <p class="Ditalic">{post.data.description}</p>}
+</div>
+<a 
+	class="h-0 col-start-2 col-span-1 row-start-1 row-span-3"
+	href={`/posts/${post.slug}/`}
+>
+	{post.data.coverImage && (
+		<img 
+			class="aspect-video w-[7.5rem] h-16 mt-1 object-cover rounded-sm"
+			aspect-ratio={16/9}
+			src={post.data.coverImage.src.src}
+			alt={post.data.coverImage.alt}
+		/>
+	)}
+</a>
+<!-- src={`https://bartotal.se/og-image/${post.slug}.png/`} -->
