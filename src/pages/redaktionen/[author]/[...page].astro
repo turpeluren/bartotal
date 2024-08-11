@@ -60,7 +60,7 @@ const paginationProps = {
 			<hr>
 			{
 				page.data.map((p) => (
-					<li class="grid gap-x-2 grid-cols-[1fr_auto] sm:[&_q]:col-start-2">
+					<li class="grid gap-x-1 grid-cols-[1fr_auto] sm:[&_q]:col-start-2">
 						<PostPreview as="h2" post={p} withDesc withAuthor={false} />
 					</li>
 					<hr>
