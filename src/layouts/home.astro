@@ -24,7 +24,7 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS);
 			{
 				allPostsByDate.map((p) => (
 					<>
-						<li class="grid gap-2 grid-cols-[1fr_auto] sm:[&_q]:col-start-2">
+						<li class="grid gap-x-1 grid-rows-[auto_1fr] grid-cols-[1fr_auto] sm:[&_q]:col-start-2">
 							<PostPreview post={p} />
 						</li>
 						<hr>
