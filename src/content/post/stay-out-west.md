@@ -15,7 +15,7 @@ coverImage:
 
 **Henrik Palm** 23:30: Tungt dungeon sound. Älskar att de spelade soundtracket till rötmånaden och hade footage från en helt annan konsert med nåt tyskt-liknande svettigt rockband som backdrop. De framstår dock inte som en solo-akt, utan snarare ett autistisk dnd-gäng, så blev besviken att Henrik Palm inte var ett påhittat bandnamn efter nån 80-tals politiker.
 
-**MaidaVale** 00:45: Ser ut som helt vanliga svenska tjejer med adidas-dräkt och är alldeles för fräscha för att ha spelat krautigt och tungt i tio år. Perfekt sound att zona ut till drömmar om Göteborg, punken och universums uppbyggnad. Enligt uppgift spelade Crippa (Attentat, Crippas café) MaidaVale på repeat under hela fredagen & lördagen.
+**MaidaVale** 00:45: Ser ut som helt vanliga svenska tjejer med adidas-dräkt och är alldeles för fräscha för att ha spelat krautigt och tungt i tio år. Perfekt sound att zona ut till drömmar om Göteborg, punken och universums uppbyggnad. Enligt uppgift spelade Crippa (från punkbandet Attentat & Crippas café) MaidaVale på repeat under hela fredagen & lördagen.
 
 Efter artisterna stötte vi på ett roligt gäng britter som inte visste hur de skulle ta sig hem. Den ena tjejen behövde sova för hon skulle spela (keyboard?) dagen efter (kl tolv?). Vilket leder oss till:
 
