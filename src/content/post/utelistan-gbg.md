@@ -2,6 +2,8 @@
 title: Utelistan GBG
 author:
   - Glenn Beck
+  - Demitri
+  - Malicious Matrix
 publishDate: 12 Aug 2024
 description: Bar Total kartlägger lilla Londons största uteprofiler
 tags:
