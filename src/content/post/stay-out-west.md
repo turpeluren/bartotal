@@ -11,7 +11,7 @@ coverImage:
   src: src/assets/img_5453.jpeg
   alt: University på Pustervik
 ---
-###### Way Out är inget utan Stay Out. Långa köer, öl, svett, intressanta brittiska band och gött häng. Här är alla artister jag hade turen att se:
+###### Way Out är inget utan Stay Out. Långa köer, öl, svett, intressanta brittiska band och gött häng. Här följer alla artister jag hade turen att se, ackompanjerade av några jävligt keffa mobilbilder.
 
 ### Musikens hus torsdag
 
