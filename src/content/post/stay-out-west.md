@@ -1,5 +1,5 @@
 ---
-title: Stay out West
+title: Stay out West i revy
 author:
   - Demitri
 publishDate: 12 Aug 2024
@@ -9,7 +9,7 @@ coverImage:
   src: src/assets/img_5453.jpeg
   alt: University på Pustervik
 ---
-###### År 2024:s stay out west i revy. Svett, öl, brittiska band och gött häng. Här är alla artister jag hade turen att se:
+###### Way Out är inget utan Stay Out. Långa köer, öl, svett, intressanta brittiska band och gött häng. Här är alla artister jag hade turen att se:
 
 ### Musikens hus torsdag
 **Henrik Palm** 23:30: Tungt dungeon sound. Älskar att de spelade soundtracket till rötmånaden och hade footage från en helt annan koncert med nåt tyskt-liknande svettigt rockband som backdrop. De framstår dock inte som en solo-akt, utan snarare ett autistisk dnd-gäng, så blev besviken att Henrik Palm inte var ett påhittat bandnamn efter nån 80-tals politiker.
