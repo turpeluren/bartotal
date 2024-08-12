@@ -37,9 +37,13 @@ En äkta uteprofil.
 
 3. Chips.
 
+   ![Chips](src/assets/img_5457.jpeg "Chips")
+
 Dj resident på Flora samt återkommande på Ivans pilsnerbar på ringön. Att säga att denna snubben gillar chips är en underdrift. Han har en keps som det står "chips" på. Spotted på Majornas Bryggeri där han i baren köpte påse lantchips, helt i onödan, då han efter stänging tar upp dillchips ur ryggsäcken. "Du hade fått äta dom, hade inte behövt köpa nya" säger bartendern, "Hade inte känts schysst" ges som svar.
 
 4. Teo & Sebbe.
+
+   ![Teo & Sebbe](src/assets/img_1806.jpeg "Teo & Sebbe")
 
 Dynamisk syskonduo prominenta på andra lång och GBGs stinkande hardcore-scen. Sebbe var stammis på Kellys, enligt [ett reportage i Mitt i Göteborg](https://www.mitti.se/nyheter/kollen-sa-klarar-sig-sunkhaken-i-kristider-6.91.68248.9472769bdc), innan den tragiska stängningen. 
 
