@@ -27,8 +27,6 @@ En äkta uteprofil.
 
 **Hur känns det att vara nummer två på GBG:s utelista?**
 
-**Hur många vardagar i veckan är du inte ute?**
+**Vad gör dig *bra på fest*?**
 
-**Vad behövs för en bra festkväll?**
-
-**Vart ska man gå för att träffa dig ute?**
+**Om man vill prata med dig om man ser dig ute, vad ska man då säga?**
