@@ -32,3 +32,19 @@ En äkta uteprofil.
 **Vad gör dig *bra på fest*?**
 
 **Om man vill prata med dig om man ser dig ute, vad ska man då säga?**
+
+3. Chips.
+
+Dj resident på Flora samt återkommande på Ivans pilsnerbar på ringön. Att säga att denna snubben gillar chips är en underdrift. Han har en keps som det står "chips" på. Spotted på Majornas Bryggeri där han i baren köpte påse lantchips, helt i onödan, då han efter stänging tar upp dillchips ur ryggsäcken. "Du hade fått äta dom, hade inte behövt köpa nya" säger bartendern, "Hade inte känts schysst" ges som svar.
+
+4. Teo & Sebbe.
+
+Dynamisk syskonduo prominenta på andra lång och GBGs stinkande hardcore-scen. Sebbe var stammis på Kellys, enligt [ett reportage i Mitt i Göteborg](https://www.mitti.se/nyheter/kollen-sa-klarar-sig-sunkhaken-i-kristider-6.91.68248.9472769bdc), innan den tragiska stängningen. 
+
+>\[När det är ont om stålar har Sebbe\] exakt samma vanor som alltid:
+>– Jag brukar ändå alltid gå till de billiga ställena och det är inte så ofta jag beställer mat, så det är ingen skillnad. 
+
+Teo har jobbat i andra änden av samma gata och syns ofta till lirande i ett av hans många musikaliska projekt. Sittandes på lokala vattenhål såsom dansken ges han sällan utrymme då han snabbt omringas av de många bekantskaperna från göteborgs både undre- och övre värld. 
+
+Dessa två bröders världar vävs antingen samman på Teos spelningar där det är ingen mindre än Stink Ink aka Sebbe som är in-house tatuerare, eller när de linkar för en bärs på folk efter en utekväll.
+
