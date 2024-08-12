@@ -9,7 +9,7 @@ tags:
 coverImage:
   src: src/assets/img_0372.jpg
 ---
-1. Andra långmannen.
+1. Andralångmannen.
 
 Mannen som ständigt örlar upp och ner för gatornas gata. Har han någonsin varit på ett ställe längre än 20 minuter? 
 
@@ -19,7 +19,7 @@ Ryktet säger att han är gammal journalist förresten, borde Bar Total erbjuda 
 
 Låt mig berätta hur det var att rulla hatt med honom i lördags:
 
-Först möter jag honom på Skanshof (!), där han står med dricka som han såklart inte har betalat för. Där delar han ut band till Lounges. När man kommer dit så står två drinkar färdiga till honom i baren. Han bara plockar upp dem. En delar han generöst med sig av. En kvart senare står jag tomhänt, men utan att ens förstå hur får jag en ny drink placerad i min hand. Vad trollade fram den ifrån vet jag inte, men det verkar inte ha varit någon "biggie".
+Först möter jag honom på Skanshof (!), där han står med dricka som han såklart inte har betalat för. Där delar han ut band till Lounges. När vi kommer dit står två drinkar färdiga till honom i baren. Han bara plockar upp dem. En delar han generöst med sig av. En kvart senare står jag tomhänt, men utan att ens förstå hur, får jag helt plötsligt en ny drink placerad i min hand. Vad han trollade fram den ifrån vet jag inte, men det verkar inte ha varit någon "biggie".
 
 Och för oss som är vänner med den här uteprofilen på Bereal, så går det att se att han mer ofta än inte står och hänger i baren på just Lounges.
 
