@@ -21,6 +21,8 @@ Låt mig berätta hur det var att rulla hatt med honom i lördags:
 
 Först möter jag honom på Skanshof (!), där han står med dricka som han såklart inte har betalat för. Där delar han ut band till Lounges. När vi kommer dit står två drinkar färdiga till honom i baren. Han bara plockar upp dem. En delar han generöst med sig av. En kvart senare står jag tomhänt, men utan att ens förstå hur, får jag helt plötsligt en ny drink placerad i min hand. Vad han trollade fram den ifrån vet jag inte, men det verkar inte ha varit någon "biggie".
 
+Det hela kändes som taget ur en scen i Maffiabröder. Lite EVERTYIME I'M HERE-känsla när vi kom in till klubben.
+
 Och för oss som är vänner med den här uteprofilen på Bereal, så går det att se att han mer ofta än inte står och hänger i baren på just Lounges.
 
 En äkta uteprofil.
@@ -30,7 +32,3 @@ En äkta uteprofil.
 **Vad gör dig *bra på fest*?**
 
 **Om man vill prata med dig om man ser dig ute, vad ska man då säga?**
-
-3. Chips.
-
-Dj resident på Flora samt återkommande på Ivans pilsnerbar på ringön. Att säga att denna snubben gillar chips är en underdrift. Han har en keps som det står "chips" på. Spotted på Majornas Bryggeri där han i baren köpte påse lantchips, helt i onödan, då han efter stänging tar upp dillchips ur ryggsäcken. "Du hade fått äta dom, hade inte behövt köpa nya" säger bartendern, "Hade inte känts schysst" ges som svar.
