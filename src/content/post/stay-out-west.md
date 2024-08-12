@@ -5,6 +5,8 @@ author:
 publishDate: 12 Aug 2024
 description: "Långa köer, öl, svett, intressanta brittiska band och gött häng.
   Här är alla artister som jag hade turen att se:"
+tags:
+  - musik
 coverImage:
   src: src/assets/img_5453.jpeg
   alt: University på Pustervik
