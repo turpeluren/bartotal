@@ -7,7 +7,7 @@ description: Åsikterna är inte nödvändigtvis hela redaktionens.
 tags:
   - Briljas
 coverImage:
-  src: src/assets/62095934820__127b9e59-a5b1-4b54-b503-cf0c5fe9bf07_original.jpg
+  src: ""
 ---
 ”Truls Möregårdh är det finaste vi har”, skriver Victor Malm på X.
 
