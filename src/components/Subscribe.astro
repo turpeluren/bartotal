@@ -1,0 +1,108 @@
+---
+
+const { 
+    name,
+    inputs,
+    textarea,
+    submitMessage = '' 
+} = Astro.props;
+
+
+---
+
+<form
+    id="prenumerera"
+    name="prenumerera"
+    data-netlify="true"
+    netlify-honeypot="bot-field"
+>
+
+  <div class="mb-1 flex">
+    <label for="email" class="sr-only block text-sm">
+      Email
+    </label>
+    <input
+      type='email'
+      name="email"
+      id="email"
+      autocomplete="true"
+      placeholder="Skriv in din email här för att "
+      value=""
+      class="py-2 px-2 block w-full text-md rounded-sm border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900"
+    />
+
+    <!-- honeypot? -->
+    <label class="hidden">Don’t fill this out if you’re human: <input name="bot-field" /></label>
+
+    <input type="hidden" name="date" id="date" value=""/>
+
+    <!--input type="hidden" name="moderationLink" id="moderationLink" value=""/-->
+
+    <div id="submitWrapper" class="transition px-4 grid text-bgColor bg-accent border-r border-t border-b border-gray-200 dark:border-gray-700 rounded-r-xl hover:text-white dark:hover:text-black hover:brightness-110">
+      <button id="submitButton" type="submit">
+        Prenumerera
+      </button>
+    </div>
+  </div>
+</form>
+
+<style>
+  .done input {
+    @apply hidden;
+  }
+  .done #submitWrapper {
+    @apply bg-green-600 px-2 hover:brightness-100;
+  }
+</style>
+
+<!-- Fill from url search params -->
+<script is:inline>
+  const urlSearchParams = new URLSearchParams(window.location.search);
+  document.getElementById("email").value=urlSearchParams.get("email");
+</script>
+
+<script define:vars={{ submitMessage }}>
+
+    const handleSubmit = (event) => {
+      event.preventDefault();
+
+      // Cancel submit
+      if (!document.getElementById("email").value) return;
+      if (document.getElementById("prenumerera").classList.contains("done")) {
+        // Reset
+        document.getElementById("prenumerera").classList.remove("done");
+        document.getElementById("submitButton").innerHTML = "Prenumerera";
+        document.getElementById("email").value="";
+        return;
+      };
+  
+      // Add the date of submit
+      document.getElementById("date").value=new Date().toString().replaceAll("+", "%2B");
+  
+      const myForm = event.target;
+      const formData = new FormData(myForm);
+      
+      // POST
+      fetch("/", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: new URLSearchParams(formData).toString(),
+      })
+        .then(() => {
+          alert(submitMessage);
+          if (window.location.href=="/prenumerera") {
+            window.location.href="/";
+          } else {
+            //document.getElementById("email").value="";
+            document.getElementById("prenumerera").classList.add("done");
+            document.getElementById("submitButton").innerHTML = "Prenumererar &#10003;";
+          }
+        })
+        .catch((error) => alert(error));
+    };
+  
+    document
+      .querySelector("form")
+      .addEventListener("submit", handleSubmit);
+    
+  </script>

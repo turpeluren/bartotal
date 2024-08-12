@@ -1,38 +1,74 @@
 ---
 import img from "/public/logo-small.png";
 import PageLayout from "@/layouts/Base.astro";
-import Form from "@/components/Form.astro";
+import Form from "@/components/Subscribe.astro";
 import { Image } from "astro:assets";
 
+import BaseHead from "@/components/BaseHead.astro";
+import SkipLink from "@/components/SkipLink.astro";
+import ThemeProvider from "@/components/ThemeProvider.astro";
+import Footer from "@/components/layout/Footer.astro";
+import Header from "@/components/layout/Header.astro";
+import { siteConfig } from "@/site-config";
+
 const meta = {
-	description: "Sidan hittas ej",
-	title: "Felkod 404",
+	description: "Missa inget mer inlägg",
+	title: "Prenumerera",
 };
 ---
 
-<PageLayout meta={meta}>
-	<h1 class="title mb-6">Prenumerera på <span class="text-4xl text-gothic">Bar Total</span>!</h1>
-	<p class="mb-8"></p>
+<html lang={siteConfig.lang}>
+	<head>
+		<BaseHead description={meta.description} title={meta.title} />
+	</head>
+	<body>
+		<ThemeProvider />
+		<!--SkipLink /-->
+		<!--Header /-->
 
-	<Form 
-		name="comments"
-		inputs={[
-			{
-				type: 'email',
-				name: 'email',
-				label: 'Email/@',
-			},
-			]}
-		submitMessage="Tack för din kommentar! Syns här på sidan ASAP. (Vi måste godkänna att det ej är SPAM!)"
-	/>
+		<main id="main">
 
-	<div class="my-4 block mx-auto justify-center h-16 w-16">
-		<Image
-			alt="Bar Total logo"
-			class="h-16 w-16 aspect-square"
-			aspect-ratio=1
-			loading="eager"
-			src={img}
-		/>
-	</div>
-</PageLayout>
+			<h1 class="title mb-6 text-center">Prenumerera på <span class="text-4xl text-gothic">Bar Total</span>!</h1>
+			<p class="mb-8 text-center">
+				Bar total är en oberoende digital tidsskrift om ditten och datten. <br> 
+				Fyll i din mail för att aldrig igen missa ett inlägg från bar total. <br>
+				100% gratis.
+			</p>
+
+			<div class="max-w-sm mx-auto">
+				<Form 
+					submitMessage="Välkommen ombord! Nu får du läsa i lugn och ro. Låter det okej?"
+				/>
+			</div>
+
+			<a href="/" class="mt-8 mb-8 block w-max mx-auto p-2 px-3 text-center border border-default rounded-md bg-bgColor hover:brightness-90">
+				Tack för erbjudandet. Jag får desvärre avstå tills vidare.
+			</a>
+
+			<a href="/" class="mt-8 mb-8 block w-max mx-auto p-2 px-3 text-center border border-default rounded-md bg-bgColor hover:brightness-90">
+				Nej tack jag vill inte.
+			</a>
+
+			<a href="/" class="mt-8 mb-8 block w-max mx-auto p-2 px-3 text-center border border-default rounded-md bg-bgColor hover:brightness-90">
+				Jag vägrar.
+			</a>
+
+			<a href="/" class="mt-8 mb-8 block w-max mx-auto p-2 px-3 text-center border border-default rounded-md bg-bgColor hover:brightness-90">
+				Aldrig i livet.
+			</a>
+
+			<div class="mt-16 block mx-auto justify-center h-48 w-48">
+				<Image
+					alt="Bar Total logo"
+					class="aspect-square"
+					aspect-ratio=1
+					loading="eager"
+					src={img}
+				/>
+			</div>
+			
+		</main>
+		<Footer />
+	</body>
+</html>
+<!--/PageLayout-->
