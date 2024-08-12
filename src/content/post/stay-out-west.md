@@ -3,8 +3,8 @@ title: Stay out West i revy
 author:
   - Demitri
 publishDate: 12 Aug 2024
-description: "Svett, öl, brittiska band och gött häng. Här är alla artister jag
-  hade turen att se:"
+description: "Långa köer, öl, svett, intressanta brittiska band och gött häng.
+  Här är alla artister jag hade turen att se:"
 coverImage:
   src: src/assets/img_5453.jpeg
   alt: University på Pustervik
