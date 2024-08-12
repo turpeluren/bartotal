@@ -37,4 +37,4 @@ Efter artisterna stötte vi på ett roligt gäng britter som inte visste hur de 
 
 Hubert skulle såklart vidare, men så avslutades min Way Out West 2024. 
 
-Kära läsare, vad var det bästa som jag missade!?
+Kära läsare, vad var det bästa som jag missade?!
