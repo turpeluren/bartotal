@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /hemligt
+DIsallow: /approveComment
 
-Sitemap: https://astro-cactus.chriswilliams.dev/sitemap-index.xml
+Sitemap: https://bartotal.se/sitemap-index.xml
