@@ -41,10 +41,9 @@ Dj resident på Flora samt återkommande på Ivans pilsnerbar på ringön. Att s
 
 Dynamisk syskonduo prominenta på andra lång och GBGs stinkande hardcore-scen. Sebbe var stammis på Kellys, enligt [ett reportage i Mitt i Göteborg](https://www.mitti.se/nyheter/kollen-sa-klarar-sig-sunkhaken-i-kristider-6.91.68248.9472769bdc), innan den tragiska stängningen. 
 
->\[När det är ont om stålar har Sebbe\] exakt samma vanor som alltid:
->– Jag brukar ändå alltid gå till de billiga ställena och det är inte så ofta jag beställer mat, så det är ingen skillnad. 
+> \[När det är ont om stålar har Sebbe] exakt samma vanor som alltid:
+> – Jag brukar ändå alltid gå till de billiga ställena och det är inte så ofta jag beställer mat, så det är ingen skillnad. 
 
 Teo har jobbat i andra änden av samma gata och syns ofta till lirande i ett av hans många musikaliska projekt. Sittandes på lokala vattenhål såsom dansken ges han sällan utrymme då han snabbt omringas av de många bekantskaperna från göteborgs både undre- och övre värld. 
 
 Dessa två bröders världar vävs antingen samman på Teos spelningar där det är ingen mindre än Stink Ink aka Sebbe som är in-house tatuerare, eller när de linkar för en bärs på folk efter en utekväll.
-
