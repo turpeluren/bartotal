@@ -30,3 +30,7 @@ En äkta uteprofil.
 **Vad gör dig *bra på fest*?**
 
 **Om man vill prata med dig om man ser dig ute, vad ska man då säga?**
+
+3. Chips.
+
+Dj resident på Flora samt återkommande på Ivans pilsnerbar på ringön. Att säga att denna snubben gillar chips är en underdrift. Han har en keps som det står "chips" på. Spotted på Majornas Bryggeri där han i baren köpte påse lantchips, helt i onödan, då han efter stänging tar upp dillchips ur ryggsäcken. "Du hade fått äta dom, hade inte behövt köpa nya" säger bartendern, "Hade inte känts schysst" ges som svar.
