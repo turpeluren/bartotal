@@ -1,11 +1,13 @@
 ---
 title: Vinnare och/eller förlorare
 author:
-  - Sean-Pierre Sinclair
+  - Jean-Pierre Sinclair
 publishDate: 14 Aug 2024
 description: En undersökning
 tags:
   - Undersökning
+coverImage:
+  src: src/assets/winner.jpg
 ---
 Hej kära läsare, jag börjar med en brasklapp! Jag skriver denna text i poänglöst undersökningssyfte. En undersökning av vinnare och förlorare. Inte för gradera människor i två skikt utan för att ta reda på om min verklighetsuppfattning är så skev som jag befarar att den är (men kanske egentligen helt rimligen borde vara som en 22-årig kille från en småstad i Sverige). 
 
