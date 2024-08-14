@@ -11,7 +11,7 @@ Hej kära läsare, jag börjar med en brasklapp! Jag skriver denna text i poäng
 
 Undersökningens grund ligger i detta:
 
-Jag kan ibland känna mig som en vinnare. Om jag tävlar mot någon eller i någonting (skill-based) räknar jag nästan alltid med att det finns en god chans att jag faktiskt vinner. Om jag exempelvis tävlar mot någon i en så kallad ”1v1” är i min värld chansen att jag vinner >50%. Varför? Jag har några alternativ på förklaringar;
+Jag kan ibland känna mig som en vinnare. Om jag tävlar mot någon eller i någonting (skill-based) räknar jag nästan alltid med att det finns en god chans att jag faktiskt vinner. Om jag exempelvis tävlar mot någon i en så kallad ”1v1” är i min värld chansen att jag vinner >50%. Varför? Jag har några alternativ på förklaringar:
 
 1. Jag är en tävlingsmänniska. I erfarenhet av att vara lillebror och allmänt irriterande sportkille är det givetvis ofta jag som initierar tävlingar. Ibland är tävlingarna inte ens uttalade men i mitt huvud är det ofta viktigt att vara bäst. Därför lider det en stor risk att mitt motstånd inte alls bryr sig på samma plan som jag gör och jag vinner på någon slags psykologisk walk-over.
 2. Jag är en röv. Detta alternativ är ytterligare en konsekvens av att jag ofta är den som initierar tävlingarna.  Pågrund av det kan det därför vara så hemskt att jag, ibland medvetet, ibland omedvetet, tävlar i sådant som jag redan sen innan vet att jag är bra på och kan/kommer vinna inom. Jag tävlar och vinner därför bara på något sätt för att bevisa för mig själv att jag kan…som värsta sköna bönan.
