@@ -1,14 +1,16 @@
 ---
 import { getEntry } from 'astro:content';
 import FormattedDate from '../FormattedDate.astro';
-
-console.log(Astro.url.toString());
+import { getAllPosts, sortMDByDate } from "@/data/post";
+import { Icon } from "astro-icon/components";
 
 const slug = Astro.url.toString().split('/posts/')[1].split("/")[0] as string;
 const commentsEntry = await getEntry('comments', slug);
 const comments = commentsEntry?.data?.comments || [];
 const parentId = null;
-console.log(slug);
+
+const allPosts = await getAllPosts();
+const thePost = allPosts.filter(post=>(encodeURIComponent(post.slug)==slug))[0];
 
 comments
   .filter((comment: any) => comment.parentId === parentId)
@@ -16,9 +18,6 @@ comments
     return Math.floor(new Date(a.createdAt).getTime() / 1000) -
            Math.floor(new Date(b.createdAt).getTime() / 1000);
   });
-
-console.log(slug+" comments: ");
-console.log(comments);
 
 const dateTimeOptions: Intl.DateTimeFormatOptions = {
 	month: "short",
@@ -31,11 +30,23 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
     )}
     <ul class="p-0">
         
-        {comments.map((data: { id: string | null | undefined; createdBy: { fullName: unknown; }; createdAt: Date; email: unknown; html: any; }, i: number) => (
+        {comments.map((data: { id: string | null | undefined; createdBy: { fullName: string; }; createdAt: Date; email: unknown; html: any; }, i: number) => (
             <>
+            
             <div class="line"></div>
-            <div class="comment" id={data.id}>
-                <span><h4 id="name" class="inline text-textColor">{data.createdBy.fullName}</h4>
+            <div class="comment relative" id={data.id}>
+                <span>
+                {thePost && thePost.data.author.includes(data.createdBy.fullName) ? (
+                    <span title="Author">
+                        <Icon aria-hidden="true" class="inline text-accent mb-1" focusable="false" name="mdi:account-tie" />
+                        <div class="inline-block ml-[-0.5rem] mb-[-0.25rem] w-[0.5rem] h-[0.5rem] bg-bgColor rounded-full"></div>
+                        <Icon aria-hidden="true" class="inline text-accent mt-1 ml-[-0.75rem]" focusable="false" name="mdi:feather" />
+                        <!-- mdi:card-account-details-star -->
+                    </span>
+                    <h4 id="name" class="inline text-accent">{data.createdBy.fullName}</h4>
+                ):(
+                    <h4 id="name" class="inline text-textColor">{data.createdBy.fullName}</h4>
+                )}
                 <FormattedDate class="text-sm date inline" date={data.createdAt} dateTimeOptions={dateTimeOptions}/></span>
                 {data.email && (<span id="email">{data.email}</span>)}
                 <hr class="m-0 mb-3 dark:border-gray-800" />
