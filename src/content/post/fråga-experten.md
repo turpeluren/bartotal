@@ -1,7 +1,7 @@
 ---
 title: Fråga experten
 author:
-  - Demitri
+  - Paulí Perdu
 publishDate: 17 Aug 2024
 description: Arbetar jag bättre när jag är kissnödig?
 tags:
