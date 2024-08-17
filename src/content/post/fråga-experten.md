@@ -5,8 +5,8 @@ author:
 publishDate: 17 Aug 2024
 description: Arbetar jag bättre när jag är kissnödig?
 coverImage:
-  src: src/assets/fråga-mikael.jpeg
-  alt: Experten från Bar total svarar på dina frågor
+  src: src/assets/charles-burchfield-the-coming-of-spring.jpeg
+  alt: Charles Burchfield, "The Coming of Spring"
 ---
 **Frågan vi alla ställt oss blir idag besvarad av redaktionens egen produktivitetsexpert:**
 
