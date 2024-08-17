@@ -16,12 +16,12 @@ coverImage:
 
 Christina Goldkuhl, överläkare vid Sahlgrenska Universitetssjukhuset har två gånger åkt tur och retur över Atlanten utan att kissa *en enda gång*:
 
-— Folk med en ostyrig arbetsstil kan göra gott i att hålla inne de första två kopparna kaffe så länge det går. Att lätta svagt på trycket efter den första och på så vis dela upp arbetet i två ”spurter” kan för vissa förlänga den effektiva tiden kissnödigarbete.
+> ##### "Folk med en ostyrig arbetsstil kan göra gott i att hålla inne de första två kopparna kaffe så länge det går. Att lätta svagt på trycket efter den första och på så vis dela upp arbetet i två ”spurter” kan för vissa förlänga den effektiva tiden kissnödigarbete."
 
-Mitt råd till läsaren är att att bygga upp till kulmen av nödighet genom att göra det viktigaste, övergripande, planerande arbetet först för att sedan genom grovjobbet, de slentrianmässiga arbetsuppgifterna, dundra fram som ett ånglok — Rusa, skena, glömma bort världen. Trängas i helvetet, sväva genom paradiset, innan ventilen slutligen måste öppnas och visslan ljuda:
+Mitt råd till läsaren, baserat på empiri och fakta, är att att bygga upp till kulmen av nödighet genom att göra det viktigaste, övergripande, planerande arbetet först för att sedan genom grovjobbet, de slentrianmässiga arbetsuppgifterna, dundra fram som ett ånglok — Rusa, skena, glömma bort världen. Trängas i helvetet, sväva genom paradiset, innan ventilen slutligen måste öppnas och visslan ljuda:
 
 *\*\*Phiieeeeeeep*\*\*
 
 ![Skenande ånglok](src/assets/skenande-ånglok.jpeg "Skenande ånglok")
 
-*\*Alla referenser i texten till att kissa handlar egentligen om någonting annat*
+*\*Alla referenser i texten till att kissa handlar egentligen om någonting annat.*
