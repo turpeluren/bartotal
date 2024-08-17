@@ -5,7 +5,7 @@ author:
 publishDate: 14 Jul 2024
 description: Den sanna historien om baksidan av bartotal.se.
 tags:
-  - interna-strider
+  - interna strider
 coverImage:
   alt: En digital frihetskämpe arresteras i sitt hem
   src: src/assets/img_5040.jpeg
