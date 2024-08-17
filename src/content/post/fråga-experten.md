@@ -4,13 +4,13 @@ author:
   - Demitri
 publishDate: 17 Aug 2024
 description: Arbetar jag bättre när jag är kissnödig?
+tags:
+  - fråga experten
 coverImage:
   src: src/assets/charles-burchfield-the-coming-of-spring.jpeg
   alt: Charles Burchfield, "The Coming of Spring"
 ---
-**Frågan vi alla ställt oss blir idag besvarad av redaktionens egen produktivitetsexpert:**
-
-**Arbetar jag bättre när jag är kissnödig?**
+**Frågan vi alla ställt oss blir idag besvarad av redaktionens egen produktivitetsexpert: Arbetar jag bättre när jag är kissnödig?**
 
 ###### Kort svar: nej. …*Men* en full blåsa sätter liksom fart på tankarna och skapar en påtagande omedelbarhetskänsla — inget kan vänta för snart är det för sent. Tömmer man blåsan klarnar tillvaron upp såpass mycket att det är väldigt lätt att gå vidare till nästa sak, kissnödar man så gräver man verkligen ner sig till roten av problemet och släpper den ej. De kissnödigpräglade resultaten är inte de bästa, men, saker blir gjorda.
 
