@@ -12,119 +12,104 @@ coverImage:
   src: src/assets/hamous.jpeg
 ---
 
-
 ###### När jag var fem
 
+fick jag besök av skorvvännen
 
-fick jag för första gången 
+för första gången.
 
-besök av skorvvännen. 
+Hans vita, feta händer,
 
-<br>
-
-Hans vita, bestämda händer,
-
-
-rispiga   varma.
-
+rispiga varma.
 
 Varaktiga .
 
-
->> ##### Skorvmannen är alltså vännen som kommer på natten och med varsamt lite lim limmar på skorv på de sovande barnens hud. På gamla sårskorpor och på hårskorpan. Så lite lim använder han att det lätt trillar av när man kliar sig där.
-
-<br>
+> ##### Skorvmannen är alltså vännen som kommer på natten och med varsamt lite lim limmar på skorv på barnens hud. På gamla sårskorpor och på hårskorpan. Så lite lim använder han att det lätt trillar av när man kliar sig där.
 
 Det som står kvar efter det blåst hårt
 
+länge
 
-& länge
+länge & hårt
 
-Lääääääääääääääääääääääääääääæængee & ***HÅRT***, hårt, Oj så hårt
-
-Oj så länge 
-
+Lääääääääänge lääääääääääääääääææææææ&&&nge & ***HÅRT.*** hårt, oj så hårt
 
 är det som är kvar
 
-
 När allt kommer till kritan.
 
-
 \---
-
 
 ###### Skårmannen har stått kvar längst av alla
 
-
 Alltid längst bak, står han där
 
+han står där bak han står. där.
 
-han står där bak han står. där. hela tiden
+vakande
 
+övervakande
 
-Vakande
-
-
-Övervakande
-
-
-Aldrig övergivande
-
+aldrig övergivande
 
 Där det är som mörkast
 
-
 kan man känna sig som värst
-
 
 Skorv
 
-
 Skorv på tal
 
-
 \---
 
+På tal om skorv så hörde jag en gång Hampus Hedström hålla en hel standup routine om sitt mjäll
 
-På tal om skorv så hörde jag en gång youtuber Hampus Hedström hålla en hel standup routine om sitt mjäll
+Mjäll vitt som kritan, vit som snö
 
+sånt man testat i kön till wandas
+
+Där kvinnorna låter sig efter männens begär
+
+> ## THIS IS NOT A STRIP CLUB
+> ##### (Sammet 2023) ((Sammetsfinnen) (2023))
+
+Sas det
+
+SaaS - software as a service
+
+sass - all that
+
+all that SaaS. Skorv som software?
+
+Skorv till spyware? Skorv all that??
 
 \---
-
 
 Shades inomhus? du ser ut som en douchebag
 
+Vem lärde dig att dansa sådär?
 
-Vem lärde dig att dansa sådär
+E.
 
+E det det det är?
 
-Svar: ingen
+E d d d e?
 
+D e d.
 
-du har inte lärt dig dansa. Bara imiterar de andra på dansgolvet
+Delicious Én Dungeons.
 
-Man kan inte dansa så
+En E?
 
-och 
+NE
 
-&nbsp;\*måste bara säga\*
-
-
-Jag kan inte alls dansa på afrobeats/latino-golvet
-
-
-känslan i mig är för obekväm
-
+NationalEncyklopedin
 
 jag kan inte dansa när jag tänker på de andra som är där
 
-
 och att de också är där och dansar
 
-
 och tänker på de andra som också är där och dansar
-
 
 *Armar,*
 
@@ -140,11 +125,12 @@ och tänker på de andra som också är där och dansar
 
 *bra utseende.*
 
+Skorv på plattan
 
-När jag dansar kan jag bara inte tänka på det,
+Eller en tjuga i foten
 
-
-då kan jag inte dansa. Punkt.
+Den som kan ordspråken kan inte vara genom-ond.
+<br><br>
 
 |No more beating around the bush| |
 |---|---|
