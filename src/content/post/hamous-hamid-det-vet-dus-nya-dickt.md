@@ -1,14 +1,14 @@
 ---
-title: Innan världen fanns Skår
+title: All that skorv
 author:
-  - turpelurpeluren
+  - Paulí Perdu
 publishDate: 9 Jul 2024
-description: dikt
+description: En dikt om Skorvvännen, obetalda skulder & software as a service.
 tags:
   - dikt
 ogImage: src/assets/hamous.jpeg
 coverImage:
-  alt: hamous hedström
+  alt: hampus hedström
   src: src/assets/hamous.jpeg
 ---
 
@@ -130,7 +130,10 @@ Skorv på plattan
 Eller en tjuga i foten
 
 Den som kan ordspråken kan inte vara genom-ond.
-<br><br>
+
+<br>
+
+Men med livet på krita
 
 |No more beating around the bush| |
 |---|---|
