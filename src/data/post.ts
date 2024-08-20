@@ -21,7 +21,7 @@ export function sortMDByDate(posts: CollectionEntry<"post">[]) {
 		const aDate = getPostSortDate(a).valueOf();
 		const bDate = getPostSortDate(b).valueOf();
 		return bDate - aDate;
-	});
+	}).filter(post=>!post.data.hidden); /* Filter out hidden posts from the feeds */
 }
 
 /** groups posts by year (based on option siteConfig.sortPostsByUpdatedDate), using the year as the key
