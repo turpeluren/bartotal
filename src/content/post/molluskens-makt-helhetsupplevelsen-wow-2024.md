@@ -10,6 +10,7 @@ tags:
   - WoW
 coverImage:
   src: src/assets/eaa28ef7-9a0a-4bc8-8bb4-2b598ff3233c.jpg
+  alt: Till frukost fick Partridge en hel burk bönor i tomatsås.
 ---
 12 ostron på göteborgskrogen Skanshof kostar 335 kronor (+20% dricks), och det måste anses som overkligt billigt givet hur förtjust Glenn Beck blir över situationen.
 
