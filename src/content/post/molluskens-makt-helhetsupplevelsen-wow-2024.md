@@ -3,8 +3,9 @@ title: Molluskens makt (helhetsupplevelsen wow 2024)
 author:
   - Patridge
 publishDate: 20 Aug 2024
-description: Har fått läsarmejl om att det saknas några WoW-perspektiv. Kan vi
-  få pressackreditering nästa år förresten.
+description: Vi har fått otlaliga läsarmejl om att det saknas några
+  WoW-perspektiv. Därför har vi bjudit in en gästskribent. Kan vi kanske få
+  pressackreditering nästa år förresten?
 tags:
   - WoW
 coverImage:
