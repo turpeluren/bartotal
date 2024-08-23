@@ -21,4 +21,4 @@ Det jag dock tycker borde förtjäna lite luft i debatten är att dessa ungdomar
 
 Lyssna på: Romance (nytt album av Fontaines D.C.!!!)
 
-Sätt dig in i: något. Det är bra för dig.
+Gör: *något*
