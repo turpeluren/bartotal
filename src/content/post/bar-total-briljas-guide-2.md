@@ -17,7 +17,7 @@ Det senaste veckorna har det pågått en kulturdebatt om de unga poeterna i Stoc
 
 Det jag dock tycker borde förtjäna lite luft i debatten är att dessa ungdomar *faktiskt gör något*. Det behövs. 
 
-Här kommer tre veckomåsten:
+Hur som helst. Här är mina tre veckomåsten:
 
 **Ät:** en smarrig Salade niçoise
 
