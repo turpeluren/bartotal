@@ -8,17 +8,19 @@ description: "Ännu en vecka där Bar Total inte nämns i poesidebatten på
 tags:
   - Briljas
 ---
-I sommar har jag läst två musikböcker. *Freak*, boken om Freddie Wadling, och *In the jingle jangle jungle*, av Joel Gion, tamburinspelaren i The Brian Jonestown Massacre.
+I sommar har jag läst två musikböcker. *Freak: boken om Freddie Wadling*, och *In the jingle jangle jungle* av Joel Gion, tamburinspelaren i The Brian Jonestown Massacre.
 
 \
-Något jag har tagit med mig från båda böcker är ungdomar som *gör något*. Oerfarna ungdomar skapar konst på sitt sätt, så gott det går. Förutom bandhistoria berättar *Freak* också historien om skivbolaget Radium, som bildades av snubbar som ville starta ett fanzine, och helt plötsligt drev skivbolag och filmklubb m.m. 
+Något jag har tagit med mig från båda böcker – och som får mig att känna mig keff – är ungdomar som *gör något*. De skapar konst på sitt sätt, så gott det går.
 
-De senaste veckorna har det pågått en kulturdebatt om de unga poeterna i Stockholm.  Och ja, man kan ha åsikter om det interna runkandet, och nej man behöver inte tycka att det är högkvalitativt. Jag vet inte ens vad jag tycker, jag är ingen högkonsument av poesi. Vissa grejer jag får i min mejlbox av Babo gillar jag dock. 
+Det senaste veckorna har det pågått en kulturdebatt om de unga poeterna i Stockholm. Och ja, man kan ha åsikter om det interna runkandet, och nej man behöver inte tycka att det är högkvalitativt. Jag vet inte ens vad jag tycker, jag är ingen högkonsument av poesi. Vissa grejer jag får i min mejlinkorg av Babo gillar jag. 
 
-Det jag dock tycker borde förtjäna lite luft i debatten är att dessa ungdomar *faktiskt gör något*. Det behövs. Låter jag platt nu? Eventuellt gör jag det, så här kommer tre helgmåsten i stället:
+Det jag dock tycker borde förtjäna lite luft i debatten är att dessa ungdomar *faktiskt gör något*. Det behövs. 
 
-Ät: en smarrig Salade niçoise
+Här kommer tre veckomåsten:
 
-Lyssna på: Romance (nytt album av Fontaines D.C.!!!)
+**Ät:** en smarrig Salade niçoise
 
-Gör: *något*
+**Tänk:** på Sven-Göran Eriksson
+
+**Gör:** *något*
