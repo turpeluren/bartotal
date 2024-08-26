@@ -15,7 +15,7 @@ Något jag har tagit med mig från båda böcker är ungdomar som *gör något*
 
 De senaste veckorna har det pågått en kulturdebatt om de unga poeterna i Stockholm.  Och ja, man kan ha åsikter om det interna runkandet, och nej man behöver inte tycka att det är högkvalitativt. Jag vet inte ens vad jag tycker, jag är ingen högkonsument av poesi. Vissa grejer jag får i min mejlbox av Babo gillar jag dock. 
 
-Det jag dock tycker borde förtjäna lite luft i debatten är att dessa ungdomar fakt*iskt gör något*. Det behövs. Låter jag platt nu? Eventuellt gör jag det, så här kommer tre helgmåsten i stället:
+Det jag dock tycker borde förtjäna lite luft i debatten är att dessa ungdomar *faktiskt gör något*. Det behövs. Låter jag platt nu? Eventuellt gör jag det, så här kommer tre helgmåsten i stället:
 
 Ät: en smarrig Salade niçoise
 
