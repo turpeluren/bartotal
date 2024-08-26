@@ -13,7 +13,7 @@ I sommar har jag läst två musikböcker. *Freak: boken om Freddie Wadling*, och
 \
 Något jag har tagit med mig från båda böcker – och som får mig att känna mig keff – är ungdomar som *gör något*. De skapar konst på sitt sätt, så gott det går.
 
-Det senaste veckorna har det pågått en kulturdebatt om de unga poeterna i Stockholm. Och ja, man kan ha åsikter om det interna runkandet, och nej man behöver inte tycka att det är högkvalitativt. Jag vet inte ens vad jag tycker, jag är ingen högkonsument av poesi. Vissa grejer jag får i min mejlinkorg av Babo gillar jag. 
+Det har fått mig att tänka på de senaste veckornas kulturdebatt om de unga poeterna i Stockholm. Och ja, man kan ha åsikter om det interna runkandet, och nej man behöver inte tycka att det är högkvalitativt. Jag vet inte ens vad jag tycker, jag är ingen högkonsument av poesi. Vissa grejer jag får i min mejlinkorg av Babo gillar jag. 
 
 Det jag dock tycker borde förtjäna lite luft i debatten är att dessa ungdomar *faktiskt gör något*. Det behövs. 
 
