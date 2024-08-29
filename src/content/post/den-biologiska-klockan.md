@@ -1,7 +1,8 @@
 ---
 title: "Den biologiska klockan "
 author:
-  - Hilda, Amanda
+  - Hilda
+  - Amanda
 publishDate: 29 Aug 2024
 description: Late night thoughts
 tags:
