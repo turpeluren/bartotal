@@ -9,6 +9,7 @@ tags:
   - "latenightthoughts "
 coverImage:
   src: src/assets/download.jpg
+  alt: Gravid kvinna
 ---
 ###### Idag har vi haft ångest över framtiden. Hur ska vi bli miljonärer till 30? Jämnåriga Wilma sparar 20 000 i månaden och odlar egna grönsaker för att lyckas. Själva går vi knappt runt. 
 
