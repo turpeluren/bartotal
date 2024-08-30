@@ -6,9 +6,10 @@ publishDate: 30 Aug 2024
 description: Berätta om era tuppjuck
 tags:
   - Tuppjuck
-ogImage: Ibland blir man bara HELT TOKIG
+ogImage: ""
 coverImage:
   src: src/assets/_f17c0804-f6e6-4397-9431-96cd5a7938ab.jpeg
+  alt: Ibland blir man bara HELT TOKIG
 ---
 Jag såg precis den vackra dokumentären "[Tuppjuck"](https://www.svtplay.se/video/Kk9kZWe/tuppjuck). En lättsam och rolig, men också lite rörande film. Så här beskriver SVT Play dokumentären: ”För tjugo år sedan kom filmaren Jesper Larand hem till en man som hade en massa hål i garderoben. Mannen hade fått tuppjuck och slagit näven hårt i dörren. Jesper kände igen sig och blev nyfiken. Han satte in en annons i tidningen: "Har du fått tuppjuck nyligen? Ring, jag gör en film". Folk ringde och denna film blev till.”
 
