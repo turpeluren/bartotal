@@ -11,7 +11,7 @@ coverImage:
   src: src/assets/download.jpg
   alt: Gravid kvinna
 ---
-###### Idag har vi haft ångest över framtiden. Hur ska vi bli miljonärer till 30? Jämnåriga Wilma sparar 20 000 i månaden och odlar egna grönsaker för att lyckas. Själva går vi knappt runt. 
+###### Idag har vi haft ångest över framtiden. Hur ska vi bli miljonärer till 30? Jämnåriga [Wilma](https://www.tv4.se/artikel/7nyernU0La1CNXuEmfBth2/wilma-22-sparar-20-000-i-manaden-bor-i-torp) sparar 20 000 i månaden och odlar egna grönsaker för att lyckas. Själva går vi knappt runt.
 
 Dock kommer det kanske inget bra av att jämföra sig med jämnåriga, det kommer alltid att finnas de som både är yngre och mer lyckade. Nej, den enda tidsramen man har att åstadkomma något är ju faktiskt döden. Detta innebär att vi har minst 50 år, och det är snålt räknat i dessa tider. Jag kan bli miljonär vid 60, än är det ingen stress. Men som Bar Totals enda kvinnliga alibis måste vi tyvärr meddela att inte heller tiden är jämlik. Vi har inte alls döden att förhålla oss till, utan vår biologiska klocka, som dessvärre är mycket snål. 
 
