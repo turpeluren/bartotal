@@ -25,7 +25,7 @@ collections:
           hint: "Frivillig storbild i toppen",
           fields: [
             { label: "Bild", name: "src", widget: "image", required: false },
-            { label: "Alternativ text", name: "alt", widget: "string", required: true }
+            { label: "Alternativ text", name: "alt", widget: "string", default: "" }
             ],
         }
       - { label: Draft (slå på för att avpublicera från sidan), name: draft, widget: 'boolean', default: false }
