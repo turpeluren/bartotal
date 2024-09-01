@@ -19,13 +19,17 @@ collections:
       - {
           label: "Cover Image",
           name: "coverImage",
-          widget: "object",
+          widget: "list",
+          allow_add: true,
+          min: 0,
+          max: 1,
           required: false,
           collapsed: true,
+          minimize_collapsed: true,
           hint: "Frivillig storbild i toppen",
           fields: [
-            { label: "Bild", name: "src", widget: "image", required: false },
-            { label: "Alternativ text", name: "alt", widget: "string", default: "", required: false }
+            { label: "Bild", name: "src", widget: "image", required: true, default: "" },
+            { label: "Alternativ text", name: "alt", widget: "string", default: "", required: true }
             ],
         }
       - { label: Draft (slå på för att avpublicera från sidan), name: draft, widget: 'boolean', default: false }
