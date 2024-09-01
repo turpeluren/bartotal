@@ -26,8 +26,8 @@ collections:
           #minimize_collapsed: true,
           hint: "Frivillig storbild i toppen",
           fields: [
-            { label: "Bild", name: "src", widget: "image", required: false, default: "" },
-            { label: "Alternativ text", name: "alt", widget: "string", default: "", required: false }
+            { label: "Bild", name: "src", widget: "image", required: false },
+            { label: "Alternativ text", name: "alt", widget: "string", required: false }
             ],
         }
       - { label: Draft (slå på för att avpublicera från sidan), name: draft, widget: 'boolean', default: false, required: false }
