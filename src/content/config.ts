@@ -12,7 +12,7 @@ const post = defineCollection({
 		z.object({
 			coverImage: z
 				.object({
-					alt: z.string(),
+					alt: z.string().default("bar total"),
 					src: image(),
 				})
 				.optional(),
