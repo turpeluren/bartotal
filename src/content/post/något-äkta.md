@@ -1,11 +1,12 @@
 ---
 title: Något äkta
 author:
-  - Kungkarro, Amanda
+  - Kungkarro
+  - Amanda
 publishDate: 14 Sep 2024
 description: Late night thoughts
 tags:
-  - "#latenightthoughts"
+  - latenightthoughts
 draft: false
 ---
 Tittar på klockan
