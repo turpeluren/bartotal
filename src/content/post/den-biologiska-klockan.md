@@ -6,7 +6,7 @@ author:
 publishDate: 29 Aug 2024
 description: Late night thoughts
 tags:
-  - "latenightthoughts "
+  - latenightthoughts
 coverImage:
   src: src/assets/download.jpg
   alt: Gravid kvinna
