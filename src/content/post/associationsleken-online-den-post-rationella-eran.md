@@ -14,7 +14,7 @@ draft: false
 ---
 **Av att läsa kommentarerna till den närmast smärtsamt chronically online [intervjun av Hegelian E-girl Council](https://www.youtube.com/watch?v=zqtbdLrLpT4&list=WL&index=1&t=2569s) med ingen mindre än anti-centristen Jreg som värd, fick jag nästan fatt i en diffus tanke jag haft tidigare:**
 
-###### Det verkar som att för gen z, s.k. zoomers, finns inget annat än associationer. Objektiv fakta finns inte, idéer har inte ett tydligt ursprung utan har ryckts bort från sin originella kontext och det är fritt fram att bara plocka hejvilt ur en oändlig pool referenser. Allt handlar bara om vad som associeras till vad. Att dröja vid ett ämne tillräckligt länge för att nå dess kärna är omöjligt för zoomern vars erratiska fokus måste fly vidare genom en association. Världen är ett enda stort kollage, mediet är din hjärna och den formas med hjälp av internet. Och på internet associerar alla ungefär likadant. Åtminstone flödar många mindre kluster av associationer åt samma håll.
+###### Det verkar som att det för gen z, så kallade zoomers, inte finns något annat än associationer. Objektiv fakta finns inte. Idéer har inte ett tydligt ursprung, utan har ryckts bort från sin originella kontext och det är fritt fram att bara plocka hejvilt ur en oändlig pool referenser. Allt handlar bara om vad som associeras till vad. Att dröja vid ett ämne tillräckligt länge för att nå dess kärna är omöjligt för zoomern vars erratiska fokus måste fly vidare genom en association. Världen är ett enda stort kollage, mediet är din hjärna och den formas med hjälp av internet. Och på internet associerar alla ungefär likadant. Åtminstone flödar många mindre kluster av associationer åt samma håll.
 
 ![Ett vektorfält](src/assets/vector-field.png "Metaforisk karta över associationsflödet online.")
 
@@ -34,6 +34,6 @@ Ett sökfält kan numera dyka upp i kommentarsfältet på Tiktok med en rekommen
 
 *En målning av min favorit-associativa-konstnär [Craig Boagey](https://www.instagram.com/craigboagey/) (som även målat omslagsbilden).*
 
-Slutsatsen är att vi håller på att tappa insynen i och till och med kontrollen över vårt eget tänkande. Kommer förblindandet av tankeprocessen och förlorandet av reson att bli det som slutligen förslavar mänskligheten under maskinernas våld eller blir associationsleken ett högre spel som kommer leda till en ny nivå av instinktivt tänkande och äntligen göra mänskligheten till ett hive-mind kapabelt till att samexistera ekologiskt här på jorden?
+Slutsatsen är att vi håller på att tappa insynen i och till och med kontrollen över vårt eget tänkande. Kommer förblindandet av tankeprocessen och förlorandet av reson att bli det som slutligen förslavar mänskligheten under maskinernas våld, eller blir associationsleken ett högre spel som kommer leda till en ny nivå av instinktivt tänkande och äntligen göra mänskligheten till en hive-mind kapabel till att samexistera ekologiskt här på jorden?
 
 *Uppenbar men meta disclaimer: Jag lider själv över en osäkerhet över vad som är common ground och denna text associerar starkt utifrån mitt eget perspektiv e.x. hippievegan till konservativ köttätare pipelinen.*
