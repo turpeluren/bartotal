@@ -28,7 +28,7 @@ GUL BIL!
 
 Helvete!
 
-Jag måste släppa taget får att slå min närmsta vän.
+Jag måste släppa taget för att slå min närmsta vän.
 
 Samla mod.
 
