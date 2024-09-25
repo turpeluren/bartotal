@@ -35,4 +35,22 @@ const post = defineCollection({
 	type: "content",
 });
 
-export const collections = { post };
+const bios = defineCollection({
+	schema: ({ image }) =>
+		z.object({
+			name: z.string(),
+			photo: z
+				.object({
+					alt: z.string().default("bar total"),
+					src: image(),
+				})
+				.optional(),
+			bio: z.string().optional(),
+			links: z
+				.array(z.object({name: z.string(), href: z.string()}))
+                .optional(),
+		}),
+	type: "content",
+});
+
+export const collections = { post, bios };

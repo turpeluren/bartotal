@@ -7,6 +7,7 @@ import PostPreview from "@/components/blog/PostPreview.astro";
 import { getAllPosts, getAuthorBios, getUniqueAuthors, sortMDByDate } from "@/data/post";
 import PageLayout from "@/layouts/Base.astro";
 import type { DataEntryMap } from "astro:content";
+import { getPathByLocale } from "astro:i18n";
 
 export const getStaticPaths: GetStaticPaths = async ({ paginate }) => {
 	const allPosts = await getAllPosts();
@@ -52,9 +53,10 @@ const paginationProps = {
 /* === Get bio === */
 const bios = await getAuthorBios();
 const authorBio = bios.filter((bio) => bio.data.name == author);
-console.log(authorBio);
 var bio: any;
 if (authorBio.length == 1) bio = authorBio[0];
+console.log(bio.data.photo.src);
+
 ---
 
 <PageLayout meta={meta}>
@@ -68,7 +70,7 @@ if (authorBio.length == 1) bio = authorBio[0];
         <div class="flex flex-row gap-4">
             { bio.data.photo && (
                 <img 
-                    src={bio.data.photo.src} 
+                    src={bio.data.photo.src.src} 
                     alt={bio.data.photo.alt ? bio.data.photo.alt : author}
                     class="rounded-full h-48 w-48 aspect-square object-cover pb-4"
                 >
