@@ -46,7 +46,7 @@ collections:
       - { label: "Namn", name: "name", widget: "string", hint: 'Skriv EXAKT samma som ditt author namn' }
       - { label: "Bio", name: bio, widget: text, required: false }
       - { label: "Bild", name: photo, widget: object, fields: [{label: "Bild", name: src, widget: image, required: false}, {label: "Alternativ text", name: alt, widget: string, required: false}]}
-      - { label: "Länkar", name: links, widget: list, field: { label: Namn, name: name, widget: string}, {label: Länk, name: href, widget: string}, required: false}
+      - { label: "Länkar", name: links, widget: list, fields: [{ label: Namn, name: name, widget: object}, {label: Länk, name: href, widget: string}], required: false}
 
 media_folder: "src/assets" # Location where files will be stored in the repo
 public_folder: "src/assets" # The src attribute for uploaded media
