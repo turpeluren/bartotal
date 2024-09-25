@@ -68,7 +68,7 @@ console.log(bio.data.photo.src);
     <section aria-label="Author bio">
         { bio && (
         <div class="flex flex-row gap-4">
-            { bio.data.photo && (
+            { bio.data.photo.src && (
                 <img 
                     src={bio.data.photo.src.src} 
                     alt={bio.data.photo.alt ? bio.data.photo.alt : author}
