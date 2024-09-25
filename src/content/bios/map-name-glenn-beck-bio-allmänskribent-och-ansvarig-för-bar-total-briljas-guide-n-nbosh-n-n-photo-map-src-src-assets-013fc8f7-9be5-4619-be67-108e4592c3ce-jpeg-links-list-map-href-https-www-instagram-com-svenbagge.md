@@ -7,6 +7,7 @@ bio: |+
 
 photo:
   src: src/assets/013fc8f7-9be5-4619-be67-108e4592c3ce.jpeg
+  alt: Glenn Beck
 links:
   - href: https://www.instagram.com/svenbagge/
     name: Instagram
