@@ -55,25 +55,25 @@ const bios = await getAuthorBios();
 const authorBio = bios.filter((bio) => bio.data.name == author);
 var bio: any;
 if (authorBio.length == 1) bio = authorBio[0];
-console.log(bio.data.photo.src);
-
 ---
 
 <PageLayout meta={meta}>
 	<h1 class="title mb-6 flex items-center">
 		<a class="text-accent sm:hover:underline" href="/redaktionen/">Redaktionen</a>
 		<span class="me-3 ms-2">→</span>
-		<span class="text-xl">{author}</span>
+		<span class="">{author}</span>
 	</h1>
     <section aria-label="Author bio">
-        { bio && (
-        <div class="flex flex-row gap-4">
-            { bio.data.photo.src && (
+        { bio && ( <>
+        <div class="flex flex-col sm:flex-row gap-4 items-center sm:items-start">
+            { bio.data.photo && (
+                <>
                 <img 
                     src={bio.data.photo.src.src} 
                     alt={bio.data.photo.alt ? bio.data.photo.alt : author}
                     class="rounded-full h-48 w-48 aspect-square object-cover pb-4"
                 >
+                </>
             )}
             <div>
                 { bio.data.bio && (
@@ -82,20 +82,20 @@ console.log(bio.data.photo.src);
                     </p>
                 )}
                 { bio.data.links && (
-                    <ul class="pt-2">
-                        <!--p class="prose font-semibold text-textColor">{author}s länkar:</p-->
+                    <ul class="pt-2 pb-4">
+                        <span class="prose font-normal text-textColor">{author}s länkar:</span>
                         { bio.data.links.map((l: any) => (
                             <>
-                            <a class="text-accent"href={l.href}>{l.name}</a>{l != bio.data.links[bio.data.links.length-1] && (<span>, </span>)}
+                            <a class="text-accent prose" href={l.href}>{l.name}</a>{l != bio.data.links[bio.data.links.length-1] && (<span>, </span>)}
                             </>
                         )) }
                     </ul>
                 )}
             </div>
         </div>
-        )}
+        </>)}
     </section>
-	<section aria-label="Blog post list">
+	<section aria-label="Blog post list" class="mt-2">
 		<ul class="space-y-6">
 			<hr>
 			{
