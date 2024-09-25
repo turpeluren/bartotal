@@ -89,3 +89,10 @@ export function getUniqueAuthorsWithCount(posts: CollectionEntry<"post">[]): [st
 		),
 	].sort((a, b) => b[1] - a[1]);
 }
+
+/* ========= Bar Total functions ============ */
+
+/** Return all author bios */
+export async function getAuthorBios() {
+	return await getCollection("bios");
+}

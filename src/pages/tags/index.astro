@@ -6,8 +6,8 @@ const allPosts = await getAllPosts();
 const allTags = getUniqueTagsWithCount(allPosts);
 
 const meta = {
-	description: "A list of all the topics We've written about",
-	title: "All Tags",
+	description: "Lista över alla ämnen Bar Total skrivit om",
+	title: "Alla taggar",
 };
 ---
 
@@ -26,7 +26,7 @@ const meta = {
 						&#35;{tag}
 					</a>
 					<span class="inline-block">
-						- {val} Post{val > 1 && "s"}
+						- {val} inlägg
 					</span>
 				</li>
 			))

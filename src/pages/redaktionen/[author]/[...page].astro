@@ -4,8 +4,9 @@ import type { CollectionEntry } from "astro:content";
 
 import Pagination from "@/components/Paginator.astro";
 import PostPreview from "@/components/blog/PostPreview.astro";
-import { getAllPosts, getUniqueAuthors, sortMDByDate } from "@/data/post";
+import { getAllPosts, getAuthorBios, getUniqueAuthors, sortMDByDate } from "@/data/post";
 import PageLayout from "@/layouts/Base.astro";
+import type { DataEntryMap } from "astro:content";
 
 export const getStaticPaths: GetStaticPaths = async ({ paginate }) => {
 	const allPosts = await getAllPosts();
@@ -29,24 +30,31 @@ const { page } = Astro.props;
 const { author } = Astro.params;
 
 const meta = {
-	description: `View all posts by - ${author}`,
-	title: `Author: ${author}`,
+	description: `Alla inlägg av - ${author}`,
+	title: `Skribent: ${author}`,
 };
 
 const paginationProps = {
 	...(page.url.prev && {
 		prevUrl: {
-			text: `← Previous`,
+			text: `← Föregående`,
 			url: page.url.prev,
 		},
 	}),
 	...(page.url.next && {
 		nextUrl: {
-			text: `Next →`,
+			text: `Nästa →`,
 			url: page.url.next,
 		},
 	}),
 };
+
+/* === Get bio === */
+const bios = await getAuthorBios();
+const authorBio = bios.filter((bio) => bio.data.name == author);
+console.log(authorBio);
+var bio: any;
+if (authorBio.length == 1) bio = authorBio[0];
 ---
 
 <PageLayout meta={meta}>
@@ -55,6 +63,36 @@ const paginationProps = {
 		<span class="me-3 ms-2">→</span>
 		<span class="text-xl">{author}</span>
 	</h1>
+    <section aria-label="Author bio">
+        { bio && (
+        <div class="flex flex-row gap-4">
+            { bio.data.photo && (
+                <img 
+                    src={bio.data.photo.src} 
+                    alt={bio.data.photo.alt ? bio.data.photo.alt : author}
+                    class="rounded-full h-48 w-48 aspect-square object-cover pb-4"
+                >
+            )}
+            <div>
+                { bio.data.bio && (
+                    <p class="prose text-textColor">
+                        {bio.data.bio}
+                    </p>
+                )}
+                { bio.data.links && (
+                    <ul class="pt-2">
+                        <!--p class="prose font-semibold text-textColor">{author}s länkar:</p-->
+                        { bio.data.links.map((l: any) => (
+                            <>
+                            <a class="text-accent"href={l.href}>{l.name}</a>{l != bio.data.links[bio.data.links.length-1] && (<span>, </span>)}
+                            </>
+                        )) }
+                    </ul>
+                )}
+            </div>
+        </div>
+        )}
+    </section>
 	<section aria-label="Blog post list">
 		<ul class="space-y-6">
 			<hr>
