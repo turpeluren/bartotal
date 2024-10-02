@@ -23,7 +23,6 @@ Det är dags. Dags att ta ner den stora hatten från hatthyllan. Dags att ta lit
 * Adam Carlén
 * Börek
 * The Streets
-* Globen
 * Clint Eastwood
 * Gamla stan
 * Brasilien
@@ -39,9 +38,10 @@ Det är dags. Dags att ta ner den stora hatten från hatthyllan. Dags att ta lit
 * Nirvana (bandet)
 * Skånegatan
 * Tjeckisk öl i hemmet
+* Matthew McConaughey
 * GAIS
 * Att sjunga Shallow på karaoke
 
 Så. Nu vet ni hur ni ska leva era liv.
 
-Känner du dig påhoppad eller att något saknas? Låt höra!
+Känner du dig påhoppad eller saknar du något? Låt höra!
