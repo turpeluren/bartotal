@@ -24,18 +24,22 @@ Det är dags. Dags att ta ner den största hatten från hatthyllan. Dags att ta 
 
 \- Läsk
 
-\- Thomas Muller
-
 \- Nirvana (platsen)
 
 \- Adam Carlén
 
+\- London memes
+
 **Ocoolt:**
+
+\- Soho beer house, Andra Långgatan
 
 \- Gin
 
 \- Skavlan (personen)
 
-\- Soho beer house, andra långgatan
+\- Jude Bellingham
 
 \- Nirvana (bandet)
+
+\- Skånegatan
