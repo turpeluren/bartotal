@@ -28,7 +28,6 @@ Det är dags. Dags att ta ner den stora hatten från hatthyllan. Dags att ta lit
 * Börek
 * Brasilien
 * USApodden
-* Shotbricka
 
 *Bubblare:*
 
