@@ -10,13 +10,7 @@ tags:
   - Ocoolt
 draft: false
 ---
-
-
-
-
 Det är dags. Dags att ta ner den största hatten från hatthyllan. Dags att ta lite samhälleligt ansvar. Dags för Bar Total att berätta för dig vad som är coolt och ocoolt oktober 2024. Så här ligger det till.
-
-
 
 **Coolt:** 
 
@@ -36,15 +30,11 @@ Det är dags. Dags att ta ner den största hatten från hatthyllan. Dags att ta 
 
 \- Adam Carlén
 
-
-
 **Ocoolt:**
 
 \- Gin
 
 \- Skavlan (personen)
-
-\- Vardagsslips om man inte bär kostym. Vardagskostym är  såklart positivt.
 
 \- Soho beer house, andra långgatan
 
