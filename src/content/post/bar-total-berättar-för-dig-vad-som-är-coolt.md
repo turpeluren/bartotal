@@ -41,6 +41,7 @@ Det är dags. Dags att ta ner den stora hatten från hatthyllan. Dags att ta lit
 * Tjeckisk öl i hemmet
 * GAIS
 * Att sjunga Shallow på karaoke
+* Alvvays
 
 Så. Nu vet ni hur ni ska leva era liv.
 
