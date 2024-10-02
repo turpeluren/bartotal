@@ -28,6 +28,7 @@ Det är dags. Dags att ta ner den stora hatten från hatthyllan. Dags att ta lit
 * Gamla stan
 * Brasilien
 * En jävligt bra TV
+* USA-podden
 
 **Ocoolt:**
 
