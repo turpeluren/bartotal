@@ -13,7 +13,7 @@ coverImage:
   alt: Coolhetsrådet
 draft: false
 ---
-Det är dags. Dags att ta ner den stora hatten från hatthyllan. Dags att ta lite samhälleligt ansvar. Dags för Bar Total att berätta för dig vad som är coolt och ocoolt just nu. Så här ligger det till.
+Det är dags. Dags att ta ner den stora hatten från hatthyllan. Dags att ta lite samhälleligt ansvar. Dags för mig att berätta för dig vad som är coolt och ocoolt just nu. Så här ligger det till.
 
 **Coolt:** 
 
@@ -26,20 +26,26 @@ Det är dags. Dags att ta ner den stora hatten från hatthyllan. Dags att ta lit
 * Adam Carlén
 * The Streets
 * Börek
-* Clint Eastwood
 * Brasilien
 * USApodden
+* Att beställa en shotrunda
+
+*Bubblare:*
+
+* *Clint Eastwood*
 
 **Ocoolt:**
 
 * Soho beer house, Andra Långgatan
 * Jude Bellingham 
-* Skavlan (personen)
-* Nirvana (bandet)
-* Skånegatan
 * Tjeckisk öl i hemmet
 * Matthew McConaughey
 * Att sjunga Shallow på karaoke
+* Bra tarmflora
+
+*Bubblare:*
+
+* Nirvana (bandet)
 
 Så. Nu vet du hur du ska leva dit liv.
 
