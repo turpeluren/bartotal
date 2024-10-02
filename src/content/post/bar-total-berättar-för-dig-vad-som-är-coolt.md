@@ -3,7 +3,7 @@ title: Bar Total berättar vad som är coolt
 author:
   - Glenn Beck
 publishDate: 3 Oct 2024
-description: Bar Total berättar informerar om vad som är coolt oktober 2024.
+description: Bar Total berättar slår fast vad som är coolt.
 tags:
   - Lista
   - Coolt
