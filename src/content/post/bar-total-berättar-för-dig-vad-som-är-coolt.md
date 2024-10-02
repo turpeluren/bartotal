@@ -10,7 +10,7 @@ tags:
   - Ocoolt
 draft: false
 ---
-Det är dags. Dags att ta ner den största hatten från hatthyllan. Dags att ta lite samhälleligt ansvar. Dags för Bar Total att berätta för dig vad som är coolt och ocoolt oktober 2024. Så här ligger det till.
+Det är dags. Dags att ta ner den stora hatten från hatthyllan. Dags att ta lite samhälleligt ansvar. Dags för Bar Total att berätta för dig vad som är coolt och ocoolt just nu. Så här ligger det till.
 
 **Coolt:** 
 
@@ -26,6 +26,8 @@ Det är dags. Dags att ta ner den största hatten från hatthyllan. Dags att ta 
 * Globen
 * Clint Eastwood
 * Gamla stan
+* Brasilien
+* En jävligt bra TV
 
 **Ocoolt:**
 
@@ -36,6 +38,8 @@ Det är dags. Dags att ta ner den största hatten från hatthyllan. Dags att ta 
 * Nirvana (bandet)
 * Skånegatan
 * Tjeckisk öl i hemmet
+* GAIS
+* Att sjunga Shallow på karaoke
 
 Så. Nu vet ni hur ni ska leva era liv.
 
