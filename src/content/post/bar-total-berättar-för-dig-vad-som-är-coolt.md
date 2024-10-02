@@ -24,27 +24,23 @@ Det är dags. Dags att ta ner den stora hatten från hatthyllan. Dags att ta lit
 * Läsk
 * Nirvana (platsen)
 * Adam Carlén
-* Börek
 * The Streets
+* Börek
 * Clint Eastwood
-* Gamla stan
 * Brasilien
-* En jävligt bra TV
 * USApodden
 
 **Ocoolt:**
 
 * Soho beer house, Andra Långgatan
-* Gin
+* Jude Bellingham 
 * Skavlan (personen)
-* Jude Bellingham
 * Nirvana (bandet)
 * Skånegatan
 * Tjeckisk öl i hemmet
 * Matthew McConaughey
-* GAIS
 * Att sjunga Shallow på karaoke
 
-Så. Nu vet ni hur ni ska leva era liv.
+Så. Nu vet du hur du ska leva dit liv.
 
-Känner du dig påhoppad eller saknar du något? Låt höra!
+ Känner du dig påhoppad eller saknar du något? Låt höra!
