@@ -41,7 +41,6 @@ Det är dags. Dags att ta ner den stora hatten från hatthyllan. Dags att ta lit
 * Tjeckisk öl i hemmet
 * Matthew McConaughey
 * Att sjunga Shallow på karaoke
-* Bra tarmflora
 
 *Bubblare:*
 
