@@ -14,32 +14,29 @@ Det är dags. Dags att ta ner den största hatten från hatthyllan. Dags att ta 
 
 **Coolt:** 
 
-\- Skavlan (bandet)
-
-\- Brun sprit
-
-\- Röd curry
-
-\- The Cures nya singel *Alone*
-
-\- Läsk
-
-\- Nirvana (platsen)
-
-\- Adam Carlén
-
-\- London memes
+* Skavlan (bandet)
+* Brun sprit
+* Röd curry
+* The Cures nya singel *Alone*
+* Läsk
+* Nirvana (platsen)
+* Adam Carlén
+* Börek
+* The Streets
+* Globen
+* Clint Eastwood
+* Gamla stan
 
 **Ocoolt:**
 
-\- Soho beer house, Andra Långgatan
+* Soho beer house, Andra Långgatan
+* Gin
+* Skavlan (personen)
+* Jude Bellingham
+* Nirvana (bandet)
+* Skånegatan
+* Tjeckisk öl i hemmet
 
-\- Gin
+Så. Nu vet ni hur ni ska leva era liv.
 
-\- Skavlan (personen)
-
-\- Jude Bellingham
-
-\- Nirvana (bandet)
-
-\- Skånegatan
+Väl mött.
