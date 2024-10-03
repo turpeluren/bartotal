@@ -12,4 +12,6 @@ links:
     href: https://www.instagram.com/turpelurpeluren/
   - name: Xwitter
     href: https://x.com/turpeluren
+  - name: Letterboxd
+    href: https://letterboxd.com/turpeluren/
 ---
