@@ -1,5 +1,5 @@
 ---
-title: Det här är coolt
+title: Vad som är coolt
 author:
   - Glenn Beck
 publishDate: 3 Oct 2024
@@ -27,7 +27,6 @@ Det är dags. Dags att ta ner den stora hatten från hatthyllan. Dags att ta lit
 * The Streets
 * Börek
 * Brasilien
-* USApodden
 
 *Bubblare:*
 
