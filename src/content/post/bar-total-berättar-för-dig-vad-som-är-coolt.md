@@ -13,7 +13,7 @@ coverImage:
   alt: Coolhetsrådet
 draft: false
 ---
-Det är dags. Dags att ta ner den stora hatten från hatthyllan. Dags att ta lite samhälleligt ansvar. Dags för mig att berätta för dig vad som är coolt och ocoolt just nu. Så här ska du leva ditt liv.
+Det är dags. Dags att ta ner den stora hatten från hatthyllan. Dags att ta lite samhälleligt ansvar. Dags för mig att berätta för dig vad som är coolt och ocoolt just nu. 
 
 **Coolt:** 
 
