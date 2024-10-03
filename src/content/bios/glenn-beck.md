@@ -9,4 +9,6 @@ photo:
 links:
   - name: Instagram (KOM DM)
     href: https://www.instagram.com/svenbagge/
+  - name: Letterboxd
+    href: https://letterboxd.com/SvenBagge/
 ---
