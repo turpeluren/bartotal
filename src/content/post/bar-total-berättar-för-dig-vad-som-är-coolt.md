@@ -42,7 +42,7 @@ Det är dags. Dags att ta ner den stora hatten från hatthyllan. Dags att ta lit
 
 *Bubblare:*
 
-* Nirvana (bandet)
+* *Nirvana (bandet)*
 
 Så. Nu vet du hur du ska leva dit liv.
 
