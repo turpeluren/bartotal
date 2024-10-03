@@ -1,5 +1,5 @@
 ---
-title: Bar Total berättar vad som är coolt
+title: Det här är coolt
 author:
   - Glenn Beck
 publishDate: 3 Oct 2024
