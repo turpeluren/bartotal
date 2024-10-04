@@ -1,5 +1,5 @@
 ---
-title: Vad som är coolt
+title: Så här ligger det till
 author:
   - Glenn Beck
 publishDate: 3 Oct 2024
