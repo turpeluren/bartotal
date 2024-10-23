@@ -17,7 +17,7 @@ När jag (tillsammans med en till Bar total-skribent) såg bandet hösten 2022 v
 
 Det som bakgrund tillsammans med att de inte släppt något särskilt spännande sedan 90-talet kanske (jag ska dock erkänna att jag inte djupdykt alls i deras deras skivor från 00-talet), gör att ny The Cure-musik inte direkt varit något som jag har gått runt och drömt om.
 
-Men nu när *Romance*-besvikelsen har lagt sig (syftar på Fontaines album som skulle vara höstens anthem, men som jag tycker är deras sämsta album (bra ändå!)), och The Cure har släppt två mycket fräscha singlar är jag faktiskt taggad. Så att säga. Ni kanske minns att singeln *Alone* letade sig in på coolhetslistan.
+Men nu när *Romance*-besvikelsen har lagt sig (syftar på Fontaines album som skulle vara höstens anthem, men som jag tycker är deras sämsta album (bra ändå!)), och The Cure har släppt två mycket fräscha singlar är jag faktiskt taggad. Så att säga. Ni kanske minns att singeln *Alone* letade sig in på [coolhetslistan](https://bartotal.se/posts/bar-total-berättar-för-dig-vad-som-är-coolt/).
 
 Aja, nu till det viktiga. Här är dina veckomåsten:
 
