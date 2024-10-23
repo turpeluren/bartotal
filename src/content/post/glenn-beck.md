@@ -1,5 +1,5 @@
 ---
-title: Glenn Beck
+title: Bar Total Briljas Guide
 author:
   - Glenn Beck
 publishDate: 23 Oct 2024
