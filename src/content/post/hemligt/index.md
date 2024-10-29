@@ -1,8 +1,7 @@
 ---
 #layout: ../../layouts/Base.astro
 title: "All that Skorv"
-author:
-  - Paulí Perdu
+author: []
 publishDate: 8 Jul 2024
 description: Dikt om Skorvvännen, obetalda skulder & software as a service.
 tags:
