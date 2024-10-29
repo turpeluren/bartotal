@@ -22,6 +22,21 @@ const {
 		<BaseHead articleDate={articleDate} description={description} ogImage={ogImage} title={title} />
 	</head>
 	<body>
+        <div class="absolute left-0 top-0 w-full h-screen pointer-events-none">
+            <div class="relative z-[-2] h-full w-full /*max-w-3xl*/ m-auto rounded-sm h-full">
+            <div class="absolute /*mix-blend-overlay*/ w-full h-full m-auto  bg-gradient-to-b from-accent via-20% via-link to-bgColor rounded-md"></div>
+            <div class="absolute mix-blend-hard-light w-full h-full m-auto /*skew-x-12*/ bg-gradient-to-r from-accent via-60% via-link to-bgColor-600 "></div>
+            <div class="absolute mix-blend-soft-light w-full h-full m-auto /*skew-x-[8deg]*/ bg-gradient-to-l from-accent via-10% via-link to-bgColor-600"></div>
+            <div class="absolute mix-blend-difference w-full h-full m-auto  /*skew-x-[-7deg]*/ bg-gradient-to-b from-accent via-10% via-link to-bgColor-600"></div>
+            <div class="absolute mix-blend-saturation w-full h-full m-auto /*skew-x-[10deg]*/ bg-gradient-to-r from-link via-10% via-accent to-bgColor-600"></div>
+            <div class="absolute mix-blend-plus-lighter w-full h-full m-auto /*skew-x-[-6deg]*/ bg-gradient-to-l from-link via-80% via-accent to-bgColor-600"></div>
+            <div class="absolute w-full h-full m-auto bg-gradient-to-t from-bgColor via-30% via-transparent"></div>
+            <div class="absolute w-full h-full m-auto bg-gradient-to-t from-bgColor via-80% via-transparent"></div>
+        </div>
+        <div class="fixed left-0 z-[-1] top-0 w-full mx-auto h-screen pointer-events-none">
+            <div class=" mt-8 mx-auto rounded-t-[70%] max-w-[100%] w-full h-[125%] translate-y-[-2rem] m-auto bg-bgColor blur-3xl"></div>
+            <!--div class="absolute mt-20 mx-auto rounded-t-full max-w-[64rem] w-full h-full max-h-[96rem] translate-y-[-2rem] m-auto bg-bgColor blur-3xl"></div-->
+        </div></div>
 		<ThemeProvider />
 		<SkipLink />
 		<Header />
