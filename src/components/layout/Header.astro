@@ -9,7 +9,7 @@ import textLogo from "@/assets/BarTotal-accent-small.png";
 const url = new URL(Astro.request.url);
 ---
 
-<header class="group relative mb-24 flex items-center sm:items-start sm:pt-1 sm:ps-[4.5rem]" id="main-header">
+<header class="group relative /*mb-24*/ pb-2 sm:pb-1 pt-8 sm:pt-8 sm:ps-[4.5rem] flex items-center sm:items-start bg-gradient-to-b from-purple-300 via-40% via-transparent rounded-sm" id="main-header">
 	<div class="flex sm:flex-col">
 		<a
 			aria-current={url.pathname === "/" ? "page" : false}
@@ -36,29 +36,32 @@ const url = new URL(Astro.request.url);
 					fill="#53C68C"></path>
 				<path d="M45.334 240 0 213.334v120L45.334 360V240Z" fill="#B04304"></path>
 			</svg-->
-            <img class="me-1 sm:me-3 h-10 w-10 sm:absolute sm:start-[-4.5rem] sm:me-0 sm:h-16 sm:w-16"
+            <img class="me-1 sm:me-3 h-10 w-10 sm:absolute sm:start-[-4.5rem] sm:me-0 sm:h-16 sm:w-16 mix-blend-multiply dark:mix-blend-screen hover:blur-[2048px] transition-all /*duration-500 hover:*/ duration-1000 hover:delay-100 delay-[2000ms] ease-in-out"
                 src="/logo-small.png"
             >
             <!--span class="text-4xl font-bold sm:text-4xl text-gothic">Bar Total</span-->
-            <Image class="h-8 w-32 aspDect-video sm:h-12 sm:w-48 grayscale hover:dark:grayscale-0 hover:dark:brightness-100 brightness-50 dark:invert hover:filter-none"
+            <Image class="h-8 w-32 aspDect-video sm:h-12 sm:w-48 grayscale hover:dark:grayscale-0 hover:dark:brightness-200 brightness-50 hover:dark:invert-0 dark:invert /*hover:filter-none*/ hover:grayscale-0 hover:brightness-100 transition transition-all"
                 alt="logo"
                 src={textLogo}
             >
 		</a>
 		<nav
 			aria-label="Main menu"
-			class="absolute -inset-x-4 top-14 hidden flex-col items-end gap-y-4 rounded-md bg-bgColor/[.85] py-4 text-accent shadow backdrop-blur group-[.menu-open]:z-50 group-[.menu-open]:flex sm:static sm:z-auto sm:-ms-4 sm:mt-1 sm:flex sm:flex-row sm:items-center sm:divide-x sm:divide-dashed sm:divide-accent sm:rounded-none sm:bg-transparent sm:py-0 sm:shadow-none sm:backdrop-blur-none"
+			class="absolute -inset-x-4 sm:pl-4 top-20 hidden flex-col items-end gap-y-4 rounded-sm /*bg-bgColor/[.85]*/ inverted bg-gradient-to-l from-textColor /*via-60% via-transparent*/ sm:bg-none 
+                py-4 text-accent shadow backdrop-blur
+                group-[.menu-open]:z-50 group-[.menu-open]:flex sm:static sm:z-auto sm:-ms-4 sm:mt-1 sm:flex sm:flex-row sm:items-center
+                sm:divide-x sm:divide-dashed sm:divide-accent sm:rounded-none sm:bg-transparent sm:py-0 sm:shadow-none sm:backdrop-blur-none"
 			id="navigation-menu"
 		>
 			{
 				menuLinks.map((link) => (
 					<a
 						aria-current={url.pathname === link.path ? "page" : false}
-						class="px-4 py-4 underline-offset-2 sm:py-0 sm:hover:underline"
+						class="px-4 sm:px-2 py-4 underline-offset-2 sm:py-0 sm:hover:underline peer /**:hover:blur-[2px] *:transition-all*/ font-serif"
 						data-astro-prefetch
 						href={link.path}
 					>
-						{link.title}
+						<span class="font-semibold">{link.title}</span>
 					</a>
 				))
 			}
@@ -106,6 +109,12 @@ const url = new URL(Astro.request.url);
 		</button>
 	</mobile-button>
 </header>
+
+<!-- Bottom border -->
+<div class="/*sm:ml-[4.5rem] sm:mr-48*/ h-24 /*mb-24*/ /*border-b-[1px] border-accent border-dashed*/ /*bg-gradient-to-t from-purple-400 via-80% via-transparent*/"></div>
+<!--div class="relative">
+    <div class="absolute w-full z-[-1] /*sm:ml-[4.5rem] sm:mr-48*/ h-24 /*mb-24*/ /*border-b-[1px] border-accent border-dashed*/ bg-gradient-to-b from-purple-400 via-80% via-transparent"></div>
+</div-->
 
 <script>
 	import { toggleClass } from "@/utils";

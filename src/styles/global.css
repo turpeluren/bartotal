@@ -8,7 +8,7 @@
 		color-scheme: light;
 		/* https://tailwindcss.com/docs/customizing-colors#using-css-variables */
 		--theme-bg: 0deg 0% 98%;
-		--theme-link: 172deg 18% 41%;
+		--theme-link: 330deg 49% 67%;
 		--theme-text: 203deg 11% 15%;
 		--theme-accent: 351deg 66% 48%;
 		--theme-accent-2: 0deg 0% 7%;
@@ -20,17 +20,38 @@
 		--theme-bg: 210deg 6% 12%;
 		--theme-link: 330deg 49% 67%;
 		--theme-text: 220deg 3% 79%;
-		--theme-accent: 159deg 64% 45%;
+		--theme-accent: 330deg 49% 67%;
 		--theme-accent-2: 0deg 0% 93%;
-		--theme-quote: 102deg 100% 86%;
+		--theme-quote: 330deg 49% 67%;
 	}
+
+    .colorLab {
+		background: hsl(351, 100%, 73%);
+		background: hsl(351deg 66% 48%);
+    }
+
+    .originalColors {
+		background: hsl(0deg 0% 98%);
+		background: hsl(172deg 18% 41%);
+		background: hsl(203deg 11% 15%);
+		background: hsl(351deg 66% 48%);
+		background: hsl(0deg 0% 7%);
+		background: hsl(351deg 66% 48%);
+
+		background: hsl(210deg 6% 12%);
+		background: hsl(330deg 49% 67%);
+		background: hsl(220deg 3% 79%);
+		background: hsl(159deg 64% 45%);
+		background: hsl(0deg 0% 93%);
+		background: hsl(102deg 100% 86%);
+    }
 
 	html {
 		@apply scroll-smooth;
 	}
 
 	body {
-		@apply mx-auto flex min-h-screen max-w-3xl flex-col bg-bgColor px-8 pt-16 /*font-mono*/ text-sm font-normal text-textColor antialiased;
+		@apply mx-auto flex min-h-screen max-w-3xl flex-col bg-bgColor px-8 pt-8 /*font-mono*/ text-sm font-normal text-textColor antialiased;
 		font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 		font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 		font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
