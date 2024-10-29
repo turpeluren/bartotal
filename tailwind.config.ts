@@ -112,6 +112,9 @@ export default {
 							borderBottom: "1px dashed #666",
 							fontWeight: "700",
 						},
+                        maxWidth: {
+                            maxWidth: "100%",
+                        },
 					},
 				},
 				cactus: {
