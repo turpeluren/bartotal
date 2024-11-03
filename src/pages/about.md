@@ -10,7 +10,7 @@ Med tiden kommer vi förstå.
 
 hemsidan är gjord av [tur(pelur)²en](https://turpelurpeluren.online).
 
-<pre class="bg-bgColor leading-4">
+<pre class="bg-bgColor leading-4 text-textColor">
  /$$$$$$$                              /$$                 /$$               /$$
 | $$__  $$                            | $$                | $$              | $$
 | $$  \ $$  /$$$$$$   /$$$$$$        /$$$$$$    /$$$$$$  /$$$$$$    /$$$$$$ | $$
