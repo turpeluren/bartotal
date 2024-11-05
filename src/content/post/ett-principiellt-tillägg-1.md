@@ -7,7 +7,7 @@ description: Die amerikanische Wahl
 tags:
   - usa
 ogImage: ""
-draft: false
+draft: true
 ---
 **Det amerikanska presidentvalet stundar och Bar Total är din vän i stålstormen. Det är dött lopp i opinionsundersökningarna. Men viktigast av allt: vem ska Bar Total "endorsa".**
 
