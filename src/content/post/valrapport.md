@@ -1,5 +1,5 @@
 ---
-title: Valrapport
+title: Kort valrapport
 author:
   - Glenn Beck
 publishDate: 5 Nov 2024
@@ -20,10 +20,10 @@ That's about it. Förutom vid Vita huset och Kapitolium var inte polisnärvaron 
 
 ![]()
 
-Faktum är att Halloween var mer påtagligt än valet. Radhus var utsmyckade med meterhöga spöken, dockor i människostorlek och rökmaskiner. Under torsdagkvällen var det såklart traditionsenlig bus-eller godisrunda.
+Faktum är att Halloween var mer påtagligt än valet. Radhus var utsmyckade med meterhöga spöken, dockor i människostorlek och rökmaskiner, och under torsdagkvällen var det såklart traditionsenlig bus-eller godisrunda.
 
 ![](src/assets/img_1184.jpeg)
 
-Jag trodde att det skulle gå att ta på valstämningen, men det gjorde det inte. Jag antar att det beror på att Washington D.C. är så supergivet superdemokratisk.
+Jag trodde att det skulle gå att ta på valstämningen, men det gjorde det inte. Jag antar att det beror på att Washington D.C. är så supergivet superdemokratisk. Det är min lilla analys.
 
 *Bar Total har tyvärr inte resurser för att ha kvar sin korrespondent i USA över valet, så Glenn Beck är nu hemma igen och kommer inte rapportera mer om valet.*
