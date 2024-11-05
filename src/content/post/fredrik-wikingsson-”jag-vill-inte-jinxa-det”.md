@@ -15,26 +15,18 @@ draft: false
 
 – Det måste nog ändå vara Reagan.
 
-
-
 ***Favoritpresident med initial i namnet?***
 
 – Warren. G. Harding, en något bortglömd man.
-
-
 
 ***Om du fick vara PR-ansvarig åt en presidentkandidats valkampanj, vem hade du valt?***
 
 –Michael Dukakis.
 
-
-
 ***Om du fick göra ett filmatiserat personporträtt av en president, vem hade du valt?***
 
 –Gerald Ford, han känns ändå lite underskattad. Det finns nåt att hämta hos den mannen.
 
-
-
-***Vem vinner valet den 5e november 2024?***
+***Vem vinner valet den 5 november 2024?***
 
 –Det lutar åt Trump men hoppas på Kamela Harris, men jag vill inte jinxa så det är nog därför.
