@@ -2,11 +2,10 @@
 title: Ett principiellt tillägg
 author:
   - Otto Antonsson
-publishDate: 5 Nov 2024
+publishDate: 2024-11-05T21:39:00+01:00
 description: Die amerikanische Wahl
 tags:
   - usa
-ogImage: ""
 draft: false
 ---
 **Det amerikanska presidentvalet stundar och Bar Total är din vän i stålstormen. Det är dött lopp i opinionsundersökningarna. Men viktigast av allt: vem ska Bar Total "endorsa"?**
