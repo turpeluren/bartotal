@@ -12,13 +12,11 @@ coverImage:
   alt: Valtishor m.m.
 draft: false
 ---
-**USA går till val idag och självklart har Bar Total haft en korrespondent på plats de sensate dagarna. Glenn Beck for till Washington D.C och är förvånad över hur lite ödesvalet gör sig påmint i huvudstaden.**
-
-Jag hade förväntat mig stor polisnärvaro och folk som skrek om världens undergång. Så har det dock inte sett ut.
+**USA går till val idag och självklart har Bar Total haft en korrespondent på plats de senaste dagarna. Glenn Beck for till Washington D.C och är förvånad över hur lite ödesvalet gör sig påmint i huvudstaden.**
 
 En man sprang varv runt Kapitolium och drog en vagn efter sig med budskap om att stötta Ukraina och alla världens barn, på vissa lyktstolpar och i några få trädgårdar satt det valaffischer- och skyltar, och utanför både Kapitolium och Vita huset höll läktare på att byggas inför presidentinstallationen. 
 
-That's about it. Det var gles trafik och metron var aldrig ens halvfull. Utanför vallokalerna gick det lugnt till.
+That's about it. Det var gles trafik och metron var aldrig ens halvfull. Utanför den vallokal jag såg gick det lugnt till.
 
 ![]()
 
