@@ -14,13 +14,13 @@ draft: false
 ---
 **USA går till val idag och självklart har Bar Total haft en korrespondent på plats de senaste dagarna. Glenn Beck for till Washington D.C och är förvånad över hur lite ödesvalet gör sig påmint i huvudstaden.**
 
-En man sprang varv runt Kapitolium och drog en vagn efter sig med budskap om att stötta Ukraina och alla världens barn, på vissa lyktstolpar och i några få trädgårdar satt det valaffischer- och skyltar, och utanför både Kapitolium och Vita huset höll läktare på att byggas inför presidentinstallationen. 
+En man sprang varv runt Kapitolium och drog en vagn efter sig med budskap om att stötta Ukraina och alla världens barn. På vissa lyktstolpar och i några få trädgårdar satt det valaffischer- och skyltar. Utanför Kapitolium och Vita huset höll läktare på att byggas inför presidentinstallationen. 
 
-That's about it. Förutom vid Vita huset och Kapitolium var inte polisnärvaron påtaglig och Vid den vallokal jag såg gick det väldigt lugnt till. Det var gles trafik och metron var aldrig ens halvfull. 
+That's about it. Förutom vid Vita huset och Kapitolium var inte polisnärvaron påtaglig och vid den vallokal jag såg gick det väldigt lugnt till. Det var gles trafik och metron var aldrig ens halvfull. 
 
 ![]()
 
-Faktum är att Halloween var mer påtagligt än valet. Radhus var utsmyckade med meterhöga spöken, dockor i människostorlek och rökmaskiner, och under torsdagkvällen var det såklart traditionsenlig bus-eller godisrunda.
+Faktum är att Halloween var mer påtagligt än valet. Radhus var utsmyckade med meterhöga spöken, dockor i människostorlek och rökmaskiner. Under torsdagkvällen var det såklart traditionsenlig bus-eller godisrunda.
 
 ![](src/assets/img_1184.jpeg)
 
