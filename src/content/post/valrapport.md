@@ -16,7 +16,7 @@ draft: false
 
 En man sprang varv runt Kapitolium och drog en vagn efter sig med budskap om att stötta Ukraina och alla världens barn, på vissa lyktstolpar och i några få trädgårdar satt det valaffischer- och skyltar, och utanför både Kapitolium och Vita huset höll läktare på att byggas inför presidentinstallationen. 
 
-That's about it. Det var gles trafik och metron var aldrig ens halvfull. Utanför den vallokal jag såg gick det lugnt till.
+That's about it. Förutom vid Vita huset och Kapitolium var inte polisnärvaron påtaglig och Vid den vallokal jag såg gick det väldigt lugnt till. Det var gles trafik och metron var aldrig ens halvfull. 
 
 ![]()
 
