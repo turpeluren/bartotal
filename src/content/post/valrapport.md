@@ -20,10 +20,10 @@ That's about it. Det märktes knappt att det är dags för ett historiskt jämnt
 
 ![]()
 
-Faktum är att Halloween var mer påtagligt än valet. Radhus var utsmyckade med meterhöga spöken, dockor i människostorlek och rökmaskiner. Under torsdagkvällen var det såklart traditionsenlig bus-eller godisrunda.
+Faktum är att Halloween var mer påtagligt än valet. På vår gata var det meterhöga spöken, spindelnät, pumpor, dockor i människostorlek och rökmaskiner. Under torsdagkvällen var det såklart traditionsenlig bus- eller godisrunda.
 
 ![](src/assets/img_1184.jpeg)
 
-Jag trodde att det skulle gå att ta på valstämningen, men det gjorde det inte. Min enkla amatöranlys är att det beror på att Washington D.C. är så supergivet superdemokratisk. 
+Jag trodde att det skulle gå att ta på valstämningen, men det gjorde det inte. Min snabba amatöranlys är att det beror på att Washington D.C. är så supergivet superdemokratisk. 
 
 *Bar Total har tyvärr inte resurser för att ha kvar sin korrespondent i USA över valet, så Glenn Beck är nu hemma igen och kommer inte rapportera mer om valet.*
