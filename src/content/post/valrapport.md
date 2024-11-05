@@ -3,7 +3,7 @@ title: Valrapport
 author:
   - Glenn Beck
 publishDate: 5 Nov 2024
-description: Valrapport från USA
+description: En kort valrapport från USA
 tags:
   - USA
   - Val
@@ -20,10 +20,10 @@ That's about it. Det var gles trafik och metron var aldrig ens halvfull. Utanfö
 
 ![]()
 
-Faktiskt var Halloween mer påtagligt än valet. Radhus var utsmyckade med meterhöga spöken, rökmaskiner och dockor i människostorlek. På torsdagkvällen var det dessutom traditionsenlig bus-eller godisrunda.
+Faktum är att Halloween var mer påtagligt än valet. Radhus var utsmyckade med meterhöga spöken, dockor i människostorlek och rökmaskiner. Under torsdagkvällen var det såklart traditionsenlig bus-eller godisrunda.
 
 ![](src/assets/img_1184.jpeg)
 
-Jag trodde att det skulle gå att ta på valstämningen, men att se mediehus rigga upp sina studior i ett höghus bakom Vita huset var så mycket valpuls jag fick. Jag antar att det är så enkelt som att Washington D.C. är givet superdemokratisk.
+Jag trodde att det skulle gå att ta på valstämningen, men det gjorde det inte. Jag antar att det beror på att Washington D.C. är så supergivet superdemokratisk.
 
-*Bar Total har tyvärr inte resurser för att ha kvar sin korrespondent i USA över valet så Glenn Beck är nu hemma igen och kommer inte rapportera mer om valet.*
+*Bar Total har tyvärr inte resurser för att ha kvar sin korrespondent i USA över valet, så Glenn Beck är nu hemma igen och kommer inte rapportera mer om valet.*
