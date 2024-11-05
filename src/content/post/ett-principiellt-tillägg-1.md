@@ -4,6 +4,8 @@ author:
   - Otto Antonsson
 publishDate: 5 Nov 2024
 description: Die amerikanische Wahl
+tags:
+  - usa
 ogImage: ""
 draft: false
 ---
