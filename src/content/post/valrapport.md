@@ -2,7 +2,7 @@
 title: Kort valrapport
 author:
   - Glenn Beck
-publishDate: 5 Nov 2024
+publishDate: 2024-11-05T16:39:00+01:00
 description: En kort valrapport från USA
 tags:
   - USA

@@ -2,7 +2,7 @@
 title: "Dokument inifrån "
 author:
   - Amanda
-publishDate: 5 Nov 2024
+publishDate: 2024-11-05T15:39:00+01:00
 description: Journalistik som påverkar och gör skillnad
 coverImage:
   src: src/assets/trott-pa-dejtingappar-sa-tar-du-paus-fran-onlinedejting.jpg

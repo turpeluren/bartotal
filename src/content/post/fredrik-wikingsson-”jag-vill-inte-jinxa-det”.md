@@ -2,7 +2,7 @@
 title: "Fredrik Wikingsson: ”Jag vill inte jinxa det”"
 author:
   - Lady Palmer
-publishDate: 5 Nov 2024
+publishDate: 2024-11-05T17:39:00+01:00
 description: 5 snabba med Fredrik Wikingsson
 tags:
   - USA
