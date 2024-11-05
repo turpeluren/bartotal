@@ -12,7 +12,7 @@ draft: false
 
 Som ett journalistisk gräv har jag använt appen med en anonym källa, för att ni, pöbeln, ska få en inblick i denna exklusiva värd där eliten dejtar. Här kommer några godbitar swipeandet.
 
-
+<br>
 
 Landon Barker, son till Travis Barker, känd från Keeping up with the Kardashians och Kylie Jenners Snapstory.  Min källa matchade med honom. Hon uppger att han ser  lite läskig ut, men annars inget tillägga. Snyggt ansikte men ser liten ut, ett barn på en strippklubb. Kul matchning för att han var känd. Betyg: 6/10. 
 
@@ -27,7 +27,7 @@ Ludvig, känd som Zara Larssons ex. Matchade tyvärr inte. Källan tycker mer om
 Noel, känd från Hov1. Inte lika rolig men ändå med i Hov1. Betyg: 7/10 
 
 
+<br>
 
 
-
-Där har ni det! Dream on att få ett medlemskap - detta är det närmsta ni kommer.
+Där har ni det! Dream on att få ett medlemskap – detta är det närmsta ni kommer.
