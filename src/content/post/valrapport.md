@@ -24,6 +24,6 @@ Faktum är att Halloween var mer påtagligt än valet. På vår gata var det met
 
 ![](src/assets/img_1184.jpeg)
 
-Jag trodde att det skulle gå att ta på valstämningen, men det gjorde det inte. Min snabba amatöranlys är att det beror på att Washington D.C. är så supergivet superdemokratisk. 
+Jag trodde att det skulle gå att ta på valstämningen, men det gjorde det inte. Min snabba amatöranlys är att det beror på att Washington D.C. är så supergivet superdemokratisk och att fokuset ligger någon annanstans. Men vad vet jag. Jag är bara en enkel skribent på Bar Total.
 
 *Bar Total har tyvärr inte resurser för att ha kvar sin korrespondent i USA över valet, så Glenn Beck är nu hemma igen och kommer inte rapportera mer om valet.*
