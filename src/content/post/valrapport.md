@@ -18,7 +18,7 @@ En man sprang varv runt Kapitolium och drog en vagn efter sig med budskap om att
 
 That's about it. Det märktes knappt att det är dags för ett historiskt jämnt val i en av världens största demokratier. Ingen gapade om världens undergång och förutom vid Vita huset och Kapitolium var inte polisnärvaron påtaglig. Vid den vallokal jag såg gick det väldigt lugnt till.
 
-![]()
+![](src/assets/img_1209.jpeg)
 
 Faktum är att Halloween var mer påtagligt än valet. På vår gata var det meterhöga spöken, spindelnät, pumpor, dockor i människostorlek och rökmaskiner. Under torsdagkvällen var det såklart traditionsenlig bus- eller godisrunda.
 
