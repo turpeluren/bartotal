@@ -2,7 +2,7 @@
 title: Leve Demokratin
 author:
   - Jordäpplet Johansson
-publishDate: 6 Nov 2024
+publishDate: 2024-11-06T22:39:00+01:00
 description: En dikt om samtiden
 tags:
   - Dikt

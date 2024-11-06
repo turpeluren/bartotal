@@ -2,7 +2,7 @@
 title: En skräckupplevelse
 author:
   - Slobodan
-publishDate: 6 Nov 2024
+publishDate: 2024-11-06T4:39:00+01:00
 description: Die amerikanische Wahl
 tags:
   - usa
