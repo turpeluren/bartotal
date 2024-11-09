@@ -22,15 +22,43 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
 
 {
 	data.coverImage && (
-		<div class="aspect-h-9 aspect-w-16 mb-6">
-			<Image
-				alt={data.coverImage.alt}
-				class="object-cover"
-				fetchpriority="high"
-				loading="eager"
-				src={data.coverImage.src}
-			/>
-		</div>
+        <>
+        <div class="lg:hidden customHeight mb-4">
+            <div class="absolute w-full left-0 aspect-h-9 aspect-w-16">
+                <Image
+                    alt={data.coverImage.alt}
+                    class="object-cover"
+                    fetchpriority="high"
+                    loading="eager"
+                    src={data.coverImage.src}
+                />
+            </div>
+        </div>
+        {
+        data.largeCoverImage ? (
+            <div class="hidden lg:block mb-6 h-[36rem] aspect-h-9 aspect-w-16">
+                <div class="absolute translate-x-[-10rem] w-[64rem] max-w-[64rem] aspect-h-9 aspect-w-16">
+                    <Image
+                        alt={data.coverImage.alt}
+                        class="object-cover"
+                        fetchpriority="high"
+                        loading="eager"
+                        src={data.coverImage.src}
+                    />
+                </div>
+            </div>
+        ) : (
+            <div class="hidden lg:block mb-6 aspect-h-9 aspect-w-16">
+                <Image
+                    alt={data.coverImage.alt}
+                    class="object-cover"
+                    fetchpriority="high"
+                    loading="eager"
+                    src={data.coverImage.src}
+                />
+            </div>
+        )}
+        </>
 	)
 }
 {data.draft ? <span class="text-base text-red-500">(Draft)</span> : null}
@@ -106,3 +134,9 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
 		</div>
 	)
 }
+
+<style>
+    .customHeight {
+        height: calc(100vw / 16 * 9);
+    }
+</style>

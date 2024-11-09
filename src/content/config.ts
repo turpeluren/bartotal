@@ -16,6 +16,7 @@ const post = defineCollection({
 					src: image(),
 				})
 				.optional(),
+            largeCoverImage: z.boolean().default(false),
 			description: z.string().min(0).max(1600),
 			draft: z.boolean().default(false),
 			hidden: z.boolean().default(false),
