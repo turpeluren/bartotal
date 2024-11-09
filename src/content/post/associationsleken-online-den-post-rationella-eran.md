@@ -10,7 +10,9 @@ tags:
 ogImage: https://bartotal.se/_astro/craig-boagey-muppet-war.BOk4i3De_ZYPGpf.webp
 coverImage:
   src: src/assets/craig-boagey-muppet-war.jpg
+  #src: src/assets/skenande-ånglok.jpeg
   alt: Kermit och Yoda i krig av Craig Boagey
+largeCoverImage: true
 draft: false
 ---
 **Av att läsa kommentarerna till den närmast smärtsamt chronically online [intervjun av Hegelian E-girl Council](https://www.youtube.com/watch?v=zqtbdLrLpT4&list=WL&index=1&t=2569s) med ingen mindre än anti-centristen Jreg som värd, fick jag nästan fatt i en diffus tanke jag haft tidigare:**

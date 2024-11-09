@@ -11,7 +11,6 @@ tags:
 coverImage:
   src: src/assets/img_0201.jpg
   alt: Coolhetsrådet
-largeCoverImage: true
 draft: false
 ---
 Det är dags. Dags att ta ner den stora hatten från hatthyllan. Dags att ta lite samhälleligt ansvar. Dags för mig att berätta för dig vad som är coolt och ocoolt just nu. 
