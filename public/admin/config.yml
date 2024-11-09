@@ -30,7 +30,7 @@ collections:
             { label: "Alternativ text", name: "alt", widget: "string", required: false }
             ],
         }
-      - { label: "Stor Cover Image", name: largeCoverImage, widget: boolean, default: false, required: false }
+      - { label: "Stor Cover Image", name: largeCoverImage, widget: boolean, default: false, required: false, hint: "Slå på för större cover bild" }
       - { label: Draft (slå på för att avpublicera från sidan), name: draft, widget: 'boolean', default: false, required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
