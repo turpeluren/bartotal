@@ -26,19 +26,19 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
         
         {
         data.largeCoverImage ? (
-            <div class="hidden lg:block ">
-                <div class="absolute translate-x-[-10rem] w-[64rem]">
-                    <div class="flex justify-center items-start h-[64rem]">
+            <div class="pointer-events-none hidden lg:block ">
+                <div class=" absolute translate-x-[-10rem] w-[64rem]">
+                    <div class=" flex justify-center items-start h-[64rem]">
                     <Image
                         alt={data.coverImage.alt}
-                        class="object-contain"
+                        class="object-contain pointer-events-auto"
                         fetchpriority="high"
                         loading="eager"
                         src={data.coverImage.src}
                     />
                     </div>
                 </div>
-                <div class={`opacity-0 w-full `} style={`margin-bottom: `+data.coverImage.src.height/data.coverImage.src.width*365+`px;`}> 
+                <div class={`pointer-events-none opacity-0 w-full `} style={`margin-bottom: `+data.coverImage.src.height/data.coverImage.src.width*365+`px;`}> 
                     <Image
                         alt={data.coverImage.alt}
                         class="object-contain"
@@ -48,20 +48,20 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
                     />
                 </div>
             </div>
-            <div class="lg:hidden mb-4">
-                <div class="absolute w-full left-0 aspect-h-1 aspect-w-1">
+            <div class="pointer-events-none lg:hidden mb-4">
+                <div class=" absolute w-full left-0 aspect-h-1 aspect-w-1">
                     <div class="flex items-start justify-center h-[100vw]">
                         <div class="max-w-3xl">
                     <Image
                         alt={data.coverImage.alt}
-                        class="object-contain"
+                        class="object-contain pointer-events-auto"
                         fetchpriority="high"
                         loading="eager"
                         src={data.coverImage.src}
                     /></div>
                 </div>
                 </div>
-                <div class="opacity-0 flex items-start w-full mb-24">
+                <div class="pointer-events-none opacity-0 flex items-start w-full mb-24">
                     <Image
                         alt={data.coverImage.alt}
                         class="object-contain"
