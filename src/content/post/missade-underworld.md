@@ -1,5 +1,5 @@
 ---
-title: M̴̅i͝s͈s̸ad̷e̫̩͊ U̧͞n͚de͚r̶̼̻w̕or͕͡ļͯd͉̦̑
+title: ₘᵢₛₛₐᴰₑ ᵤₙᴰₑᵣᵂₒᵣₗᴰ
 author:
   - Deimitri
 publishDate: 10 nov 2024
