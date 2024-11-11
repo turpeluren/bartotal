@@ -14,7 +14,7 @@ draft: false
 ---
 **I hopp om att folkbilda har Bar Total handplockat historiska händelser från den 12 november.**
 
-**År 1139:** Magnus den synskadade (så väljer Bar total att namnge honom) stupar under inbördesstriderna om makten i slaget vid Holmengrå.
+**År 1139:** Magnus den synskadade (så väljer Bar Total att namnge honom) stupar under inbördesstriderna om makten i slaget vid Holmengrå.
 
 **År 1425:** Benedictus XIV blir utnämnd till motpåve (antipåve).
 
