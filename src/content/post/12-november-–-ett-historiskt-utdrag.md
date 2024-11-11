@@ -16,7 +16,7 @@ I hopp om att folkbilda, har Bar Total handplockat historiska händelser från d
 
 **År 1139:** Magnus den synskadade (så väljer Bar total att namnge honom) stupar under inbördesstriderna om makten i slaget vid Holmengrå.
 
-**År 1425:** Benidictus XIV blir utnämnd till motpåve (antipåve).
+**År 1425:** Benedictus XIV blir utnämnd till motpåve (antipåve).
 
 **År 1918:** Republiken Tysk-Österrike utropas (i dag splittrat).                                                                                                
 
