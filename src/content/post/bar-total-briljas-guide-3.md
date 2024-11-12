@@ -21,3 +21,5 @@ Här kommer veckans helgmåsten.
 **Ät:** Irish spice bag
 
 **Dröm:** dig bort
+
+**Kärleksbomba:** Paulos Abraham
