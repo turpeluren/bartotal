@@ -2,7 +2,7 @@
 title: Bar Total Briljas Guide
 author:
   - Glenn Beck
-publishDate: 12 Nov 2024
+publishDate: 22 Nov 2024
 description: Bar Total Briljas Guide
 tags:
   - briljas
