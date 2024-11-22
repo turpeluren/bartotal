@@ -12,7 +12,7 @@ draft: false
 ---
 Jag läste nyligen i [Time](https://time.com/7081181/beetlejuice-agatha-all-along-goth-nostalgia/) och [brittiska Vogue](https://www.vogue.co.uk/gallery/goth-fashion-trend-vmas-2024) om goth girl autumn och det gjorde mig avundsjuk. Varför finns det tjejteman för olika årstider, men inte för killar?
 
-Christian girl autumn, hot girl summer och tidigare nämnda goth girl autumn, men jag kan inte komma på något motsvarande för snubbar. Självklart är jag tillåtande och tycker det är OK att som kille anta något av dessa tjejteman, men det är inte det jag är ute efter. Jag vill att det ska etableras något liknande för mig att omfamna som inte är typ ”laga en mustig gryta”. 
+Christian girl autumn, hot girl summer och tidigare nämnda goth girl autumn – men jag kan inte komma på något motsvarande för snubbar. Självklart är jag tillåtande och tycker det är OK att som kille anta något av dessa tjejteman, men det är inte det jag är ute efter. Jag vill att det ska etableras något liknande för mig att omfamna som inte är typ \~laga en mustig gryta\~. 
 
 Här kommer därför ett par vinterförslag nu när hösten med stormsteg (pun självklart intented) rör sig mot vinterstatus.
 
