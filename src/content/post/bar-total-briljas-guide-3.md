@@ -22,7 +22,9 @@ Här kommer därför ett par vinterförslag nu när hösten med stormsteg (pun s
 
 Mer kommer jag inte på. Glenn Beck har aldrig varit känd som stilipionjär, trots att jag är en agendasättare när det kommer till coolhet. Därför ber jag om DIN hjälp. Kom med förslag! Snälla! Hjälp!
 
-Här kommer veckans helgmåsten.
+
+
+Här är veckans helgmåsten:
 
 **Ät:** Irish spice bag
 
