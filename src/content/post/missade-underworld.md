@@ -16,6 +16,7 @@ largeCoverImage: true
 Tb till kvällen då redaktionen önskade en låt av Underworld och en snubbe i baren hade vart security på deras konsert (vars ägande av rum var ny info för redaktionen) tidigare samma dag.
 
 <audio controls style="width: 100%">
+  <source type="audio/mp3" src="/assets/audio/Underworld-Born_Slippy_Nuxx.mp3"></source>
   <source type="audio/ogg" src="/assets/audio/Underworld-Born_Slippy_Nuxx.ogg"></source>
   <!--p>Your browser does not support the audio element.</p-->
 </audio>
