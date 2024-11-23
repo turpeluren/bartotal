@@ -13,7 +13,7 @@ coverImage:
 largeCoverImage: true
 ---
 
-Tb till kvällen då redaktionen önskade en låt av Underworld och en snubbe i baren hade vart security på deras konsert (vars ägande av rum var ny info för redaktionen) tidigare samma dag.
+Tb till kvällen då redaktionen önskade en låt av Underworld, varpå en annan bargäst sa att han hade varit security på deras konsert tidigare samma dag (vars ägande av rum var ny info för redaktionen).
 
 <audio controls style="width: 100%">
   <source type="audio/mp3" src="/assets/audio/Underworld-Born_Slippy_Nuxx.mp3"></source>
