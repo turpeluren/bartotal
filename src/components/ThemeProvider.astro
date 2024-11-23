@@ -1,5 +1,7 @@
 {/* Inlined to avoid FOUC. */}
 <script is:inline>
+import Header from "./layout/Header.astro";
+
 	const lightModePref = window.matchMedia("(prefers-color-scheme: light)");
 
 	function getUserPref() {
@@ -22,6 +24,8 @@
 		}
 
 		root.setAttribute("data-theme", newTheme);
+        //Header.setAttribute("theme-color", "#cb2a42");
+        //document.head.colorThemeMetaTag
 
 		const colorThemeMetaTag = document.querySelector("meta[name='theme-color']");
 		const bgColour = getComputedStyle(document.body).getPropertyValue("--theme-bg");

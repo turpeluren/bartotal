@@ -33,7 +33,8 @@ const socialImageURL = new URL(ogImage ? ogImage : "/social-card.png", Astro.url
 <meta content={siteConfig.author} name="author" />
 
 {/* Theme Colour */}
-<meta content="" name="theme-color" />
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#cb2a42" />
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#29bc89" />
 
 {/* Open Graph / Facebook */}
 <meta content={articleDate ? "article" : "website"} property="og:type" />
