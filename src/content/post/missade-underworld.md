@@ -20,11 +20,11 @@ Tb till kvällen då redaktionen önskade en låt av Underworld, varpå en annan
   <source type="audio/ogg" src="/assets/audio/Underworld-Born_Slippy_Nuxx.ogg"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
-<i style="float: right;">Underworld - Born Slippy</i>
+<i style="float: right;">Underworld - Born Slippy (Nuxx)</i>
 
 <br>
 
-Så lät det då. [*👇👇Spana in vad som spelas i baren just nu*](https://open.spotify.com/playlist/2XZZ1u1GoPJQWw8hXMaeKD?si=cb5349c35ec64f32)
+Så lät det då. [*👇👇Spana in vad som spelas i baren just nu.*](https://open.spotify.com/playlist/2XZZ1u1GoPJQWw8hXMaeKD?si=cb5349c35ec64f32)
 
 <br>
 
