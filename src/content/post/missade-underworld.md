@@ -28,7 +28,6 @@ Så lät det då. [*👇👇Spana in vad som spelas i baren just nu.*](https://o
 
 <br>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2XZZ1u1GoPJQWw8hXMaeKD?utm_source=generator" width="100%" height="512" frameBorder="0" allowfullscreen="" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5SNp7eSCJgc1vTmIRFSXxZ?utm_source=generator" width="100%" height="512" frameBorder="0" allowfullscreen="" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <span class="flex flex-row flex-wrap items-baseline max-w-full"><img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84776cd6d91e97bbc995653ad9">&nbsp;xoxo</span>
