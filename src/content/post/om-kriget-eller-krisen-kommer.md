@@ -5,6 +5,8 @@ author:
   - Anemi Anderson
 publishDate: 25 Nov 2024
 description: v
+tags:
+  - folkbildning
 largeCoverImage: false
 draft: false
 ---
