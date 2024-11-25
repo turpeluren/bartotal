@@ -12,7 +12,7 @@ draft: false
   
 Förutom att pendla mellan ett prepper mindset och förlikelse med döden fick läsningen oss att ställa en fråga: Hur skulle egentligen Svensson reagera [ifall kriget eller krisen kommer](https://vollerwiek.net/ifall-kriget-kommer)?
 
-Det första vi tänker på är hur mycket vi kommer behöva interagera med varandra.
+Det första vi tänker på är hur onormalt mycket vi skulle behöva interagera med varandra.
 - prata ihop dig med din bostadsförening om hur ni ska stärka er gemensamma beredskap (stelt)
 
 - Kontanter, viktiga telefonnummer på papper, försäkringsbevis
