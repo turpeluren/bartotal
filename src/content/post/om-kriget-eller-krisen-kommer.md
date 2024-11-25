@@ -12,7 +12,8 @@ draft: false
   
 Förutom att pendla mellan ett prepper mindset och förlikelse med döden fick läsningen oss att ställa en fråga: Hur skulle egentligen Svensson reagera [ifall kriget eller krisen kommer](https://vollerwiek.net/ifall-kriget-kommer)?
 
-Det första vi tänker på är hur onormalt mycket vi skulle behöva interagera med varandra.
+Det första vi tänker på är hur onormalt mycket vi skulle behöva interagera med varandra. Redan nu ska man tydligen prata ihop sig med sin bostadsförening om hur vi ska stärka vår gemensamma beredskap. Hur startar man den konversationen? "Hej Britt! Skitväder vi har va? Ja, jo du jag tänkte på en sak... ähm Hur är det egentligen med vår gemensamma beredskap?" "Kom gärna hem till mig om larmet går, så bjuder jag på kaffe och du kan ta med din fina radio." 
+
 - prata ihop dig med din bostadsförening om hur ni ska stärka er gemensamma beredskap (stelt)
 
 - Kontanter, viktiga telefonnummer på papper, försäkringsbevis
