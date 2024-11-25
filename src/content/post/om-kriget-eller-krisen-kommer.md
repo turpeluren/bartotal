@@ -25,6 +25,8 @@ Fikat kommer ju inte sluta vara viktigt bara för att det faller bomber. [Kaffe]
 - Kontanter, viktiga telefonnummer på papper, försäkringsbevis
 - Tortilla. Fruktkräm, choklad, Kaffe, te, chokladpulver, nyponsoppa (fika är alltid viktigt)
 
+- Fortsätt gå till ditt vanliga arbete
+
 - Friluftssemester: Alla drar på sig sina Fjällrävenbyxor. Stormkök, karta och kompass
 
 - "För att minska dålig lukt bör du undvika att urin och avföring blandas."
