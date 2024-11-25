@@ -27,7 +27,7 @@ Fikat kommer ju inte sluta vara viktigt bara för att det faller bomber. [Kaffe]
 
 - Fortsätt gå till ditt vanliga arbete
 
-- Friluftssemester: Alla drar på sig sina Fjällrävenbyxor. Stormkök, karta och kompass
+- Friluftssemester: Alla drar på sig sina Fjällrävenbyxor. Stormkök, torkad och energirik mat, karta och kompass
 
 - "För att minska dålig lukt bör du undvika att urin och avföring blandas."
 
