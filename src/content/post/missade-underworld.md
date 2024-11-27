@@ -7,6 +7,7 @@ description: Redaktionen på bar i Berlin
 tags:
   - konst
   - musik
+ogImage: https://bartotal.se/_astro/bar-web-noborder.ZTmKiwyz_1K8qk7.webp
 coverImage:
   alt: Redaktionen på bar
   src: src/assets/bar-web-noborder.png
