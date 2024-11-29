@@ -1,7 +1,7 @@
 ---
 title: ₘᵢₛₛₐᴰₑ ᵤₙᴰₑᵣᵂₒᵣₗᴰ
 author:
-  - Deimitri
+  - Demitri
 publishDate: 23 nov 2024
 description: Redaktionen på bar i Berlin
 tags:
