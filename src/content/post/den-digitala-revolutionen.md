@@ -1,7 +1,7 @@
 ---
 title: Den digitala revolutionen
 author:
-  - anonym
+  - Demitri
 publishDate: 14 Jul 2024
 description: Den sanna historien om baksidan av bartotal.se.
 tags:
@@ -29,3 +29,7 @@ En av de ledande i kuppen där de svenska toppdomänalisterna tillskansande sig 
 Nya vindar blåser och det ryktas bland annat om pengar som är påväg in till bar total digital från nära kontakter i silicon valley, Kalifornien. 
 
 Kära läsare, begrunda ditt sinne. Står du bakom digitaliseringen är det tid att träda fram ur källaren. Tiden att handla är nu. Vi står enade i kampen!
+
+<br>
+
+<i class="text-link">Redaktörens anteckning 2024-11-29:</i> *[Demitri](https://bartotal.digital/redaktionen/demitri/) har tagit på sig skrivandet av texten.*
