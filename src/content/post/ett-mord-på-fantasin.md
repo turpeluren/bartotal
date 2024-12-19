@@ -1,5 +1,5 @@
 ---
-title: '"Ett mord på fantasin"'
+title: Ett mord på fantasin
 author:
   - Ivan
 publishDate: 19 Dec 2024
