@@ -38,9 +38,9 @@ Det anses närmast sjukligt att för det första tolka fågelkvittret som ett me
 
 Men det är modigt. För det kan vara skämmigt såväl att uppleva som att berätta om uppenbarelser. Vem är jag att få ett tecken från ovan? Ändå hände det ju – pappa vinkade verkligen genom den där köksluckan, det är jag säker på. Och då, när jag ska berätta om det, hur kan jag få någon att tro mig?
 
-Man kan då vilja krydda sitt återgivande. En kall pust läggs till, och en radio börjar plötsligt spraka. Om det låter tillräckligt spöklikt måste det ju vara ett tecken. Gåshud
+Man kan då vilja krydda sitt återgivande. En kall pust läggs till, och en radio börjar plötsligt spraka. Om det låter tillräckligt spöklikt måste det ju vara ett tecken. Gåshud.
 
-Men det är ändå svårt att undvika att väcka skepticism hos åhöraren. Tecken och uppenbarelser ska kunna underbyggas och bevisas för att rättfärdigas. Det krävs kvitto på att de kommit från the man upstairs för att de ska anses legitima. 
+Men det är ändå svårt att undvika att väcka skepticism hos åhöraren. Tecken och uppenbarelser ska kunna underbyggas och bevisas för att rättfärdigas. Det krävs kvitto på att de kommit från the man upstairs för att de ska anses legitima. [Till och med Vatikanen skärper sina regler.](https://www.bbc.com/news/articles/cekl9jd883yo.amp) 
 
 Det är synd. Det är ett mord på fantasin, ett hämmande av vår förmåga att utvinna symbolvärde ur vår omgivning. Oavsett om Gud haft en hand i spelet, eller om upplevda tecken och uppenbarelser kommit inifrån, är de bevis på vår förmåga att uttyda symbolik ur vad som ofta kan kännas som en uttryckslös värld.
 
