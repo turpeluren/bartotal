@@ -18,6 +18,4 @@ Fritz står tyst med händerna i fickan och försöker se postironisk ut. Han be
 
 När småkusinerna öppnat sin julklappar och tomten vänder sig till Fritz, är Fritz nära att spy. Fyra sorters sill, två tunga julöl och ett stort lass av Janssons frestelse möter motstånd. Det är militärkuppläge i magen och regimen söker flyktväg.
 
-Tomten spänner blicken i Fritz, stoppar ner handen i sin säck och drar fram ett två meter långt paket. Presentappret är guldigt och på en lapp står det "God jul Fritz". Paketet är tungt och Fritz river upp pappret med samma entusiasm som sina kusiner. 
-
-Julklappen består av en öppen dörr, ett par fotbollsskor och ett anställningsavtal. Fritz allra största önskan är uppfylld.
+Tomten spänner blicken i Fritz, stoppar ner handen i sin säck och drar fram ett två meter långt paket. Presentappret är guldigt och på en lapp står det "God jul Fritz". Paketet är tungt och Fritz river upp pappret med samma entusiasm som sina kusiner. Han kan inte tro sina ögon. Julklappen består av en öppen dörr, ett par fotbollsskor och ett anställningsavtal. Fritz allra största önskan är uppfylld.
