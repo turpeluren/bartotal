@@ -10,9 +10,7 @@ tags:
 largeCoverImage: false
 draft: false
 ---
-**Det här är en historia. En väldigt speciell historia. Den handlar om Fritz.**
-
-*Fritz hade länge drömt om att bli krönikör. Han manifesterade varje kväll. Bad till gud. Bad till tomten.* 
+**Det här är en historia. En väldigt speciell historia. Den handlar om Fritz som länge drömt om att bli krönikör. Han manifesterade varje kväll. Bad till gud. Bad till tomten.** 
 
 **Julafton**. Farbror Isak hade precis lämnat skutan för att köpa tidningen, då det plötsligt knackar på altandörren. Där står tomten i sin vanliga skrud. Indy – kusinernas aggressiva och ej rumsrena bulldog – börjar genast skälla och rusa mot dörren, tätt följd av Fritz småkusiner.
 
