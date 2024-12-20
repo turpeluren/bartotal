@@ -14,9 +14,7 @@ draft: false
 
 **Julafton**. Farbror Isak hade precis lämnat skutan för att köpa tidningen, då det plötsligt knackar på altandörren. Där står tomten i sin vanliga skrud. Indy – kusinernas aggressiva och ej rumsrena bulldog – börjar genast skälla och rusa mot dörren, tätt följd av Fritz småkusiner.
 
-Fritz står tyst med händerna i fickan och försöker se postironisk ut. Han ber till högre makter att ingen ska lägga märke till hans rodnande kinder. Om någon skulle fråga så tror han inte på tomten, hur fan skulle det se ut liksom? 
-
-Inombords bubblar det dock. Fritz har ju ätit sin spenat var dag och inte ”split the G” på sex månader. Han har varit duktig och han vågar hoppas på en belöning.
+Fritz står tyst med händerna i fickan och försöker se postironisk ut. Han ber till högre makter att ingen ska lägga märke till hans rodnande kinder. Om någon skulle fråga så tror han inte på tomten, hur fan skulle det se ut liksom? Inombords bubblar det dock. Fritz har ju ätit sin spenat var dag och inte ”split the G” på sex månader. Han har varit duktig och han vågar hoppas på en belöning.
 
 När småkusinerna öppnat sin julklappar och tomten vänder sig till Fritz, är Fritz nära på att spy. Fyra sorters sill, två tunga julöl och ett stort lass av Janssons frestelse gör revolt. Det är militärkuppläge i magen och regimen söker flyktväg.
 
