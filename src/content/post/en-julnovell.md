@@ -14,7 +14,7 @@ draft: false
 
 *Fritz hade länge drömt om att bli krönikör. Han manifesterade varje kväll. Bad till gud. Bad till tomten.* 
 
-**Julafton, kväll**. Farbror Isak hade precis lämnat skutan för att köpa tidningen, då det plötsligt knackar på altandörren. Där står tomten i sin vanliga skrud. Indy – kusinernas aggressiva och ej rumsrena bulldog – börjar genast skälla och rusa mot dörren, tätt följd av Fritz småkusiner.
+**Julafton**. Farbror Isak hade precis lämnat skutan för att köpa tidningen, då det plötsligt knackar på altandörren. Där står tomten i sin vanliga skrud. Indy – kusinernas aggressiva och ej rumsrena bulldog – börjar genast skälla och rusa mot dörren, tätt följd av Fritz småkusiner.
 
 Fritz står tyst med händerna i fickan och försöker se postironisk ut. Han ber till högre makter att ingen ska lägga märke till hans rodnande kinder. Om någon skulle fråga så tror han inte på tomten, hur fan skulle det se ut liksom? 
 
