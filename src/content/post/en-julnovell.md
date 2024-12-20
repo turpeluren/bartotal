@@ -16,7 +16,7 @@ draft: false
 
 Fritz står tyst med händerna i fickan och försöker se postironisk ut. Han ber till högre makter att ingen ska lägga märke till hans rodnande kinder. Om någon skulle fråga så tror han inte på tomten, hur fan skulle det se ut liksom? Inombords bubblar det dock. Fritz har ju ätit sin spenat var dag och inte ”split the G” på sex månader. Han har varit duktig och han vågar hoppas på en belöning.
 
-När småkusinerna öppnat sin julklappar och tomten vänder sig till Fritz, är Fritz nära på att spy. Fyra sorters sill, två tunga julöl och ett stort lass av Janssons frestelse gör revolt. Det är militärkuppläge i magen och regimen söker flyktväg.
+När småkusinerna öppnat sin julklappar och tomten vänder sig till Fritz, är Fritz nära att spy. Fyra sorters sill, två tunga julöl och ett stort lass av Janssons frestelse gör revolt. Det är militärkuppläge i magen och regimen söker flyktväg.
 
 Tomten spänner blicken i Fritz, stoppar ner handen i sin säck och drar fram ett två meter långt paket. Presentappret är guldigt och på en lapp står det "God jul Fritz". Paketet är tungt och Fritz river upp pappret med samma entusiasm som sina kusiner. 
 
