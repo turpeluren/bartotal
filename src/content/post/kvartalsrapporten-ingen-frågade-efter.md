@@ -15,7 +15,7 @@ draft: false
 ---
 **Öresundståg 1090 i riktning Göteborg strax utanför Helsingborg 17:10/20-12-24.** 
 
-Min femte termin i Lund tog slut idag och i början av terminen gjorde jag mig till (självutnämnd) Lundakorrespondent. Tänkte då att jag skulle dela med mig av de svettiga nationsgolven och allt som hör till, för visst låter det intressant. Idéerna var många men texterna få. Så tillslut är det väl dags, strukturen på denna text är enbart kronologisk och liknar en kvartalsrapport lika dålig som Northvolts. Här gäller det att hänga med för stycken hänger inte alltid ihop. Huruvida detta är en text som hör hemma på Baren är oklart, men hoppas den kan fylla ett icke existerande tomrum. 
+Min femte termin i Lund tog slut idag och i början av terminen blev jag (självutnämnd) Lundakorrespondent. Tänkte då att jag skulle dela med mig av de svettiga nationsgolven och allt som hör till, för visst låter det intressant. Idéerna var många men texterna få. Så tillslut är det väl dags, strukturen på denna text är enbart kronologisk och liknar en kvartalsrapport lika dålig som Northvolts. Här gäller det att hänga med för stycken hänger inte alltid ihop. Huruvida detta är en text som hör hemma på Baren är oklart, men hoppas den kan fylla ett icke existerande tomrum. 
 
 ***09-09-2024***
 
