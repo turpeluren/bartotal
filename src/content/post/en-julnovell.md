@@ -24,4 +24,4 @@ När småkusinerna öppnat sin julklappar och tomten vänder sig till Fritz, är
 
 Tomten spänner blicken i Fritz, stoppar ner handen i sin säck och drar fram ett två meter långt paket. Presentappret är guldigt och på en lapp står det "God jul Fritz, önskar mediasverige". Paketet är tungt och Fritz river upp pappret med samma entusiasm som sina kusiner. 
 
-Paketet visar sig innehålla en öppen dörr, ett par kicking boots och ett anställningsavtal. Fritz största önskan är uppfylld.
+Julklappen består av en öppen dörr, ett par fotbollsskor och ett anställningsavtal. Fritz allra största önskan är uppfylld.
