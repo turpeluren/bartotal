@@ -7,8 +7,8 @@ description: Bar Total Briljas guide
 tags:
   - Briljas
 coverImage:
-  src: src/assets/0d249b43-a04d-4b2a-8288-b0988463d501.jpeg
-  alt: Robert Smith
+  src: ""
+  alt: ""
 draft: false
 ---
 När jag gick in i den här hösten trodde jag inte att jag skulle vara exalterad inför ett skivsläpp från The Cure. Men här står vi.
