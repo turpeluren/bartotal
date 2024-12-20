@@ -12,7 +12,7 @@ draft: false
 ---
 **Det här är en historia. En väldigt speciell historia. Den handlar om Fritz.**
 
-Fritz hade länge drömt om att bli kolumnist. Han manifesterade varje kväll. Bad till gud. Bad till tomten. Åt sin spenat var dag. 
+*Fritz hade länge drömt om att bli kolumnist. Han manifesterade varje kväll. Bad till gud. Bad till tomten. Åt sin spenat var dag.* 
 
 **Julafton**. Fritz farbror hade precis lämnat skutan för att köpa tidningen då det plötsligt knackar på altandörren. Där står tomten. Indy – kusinernas bulldog – börjar genast skälla och rusa mot dörren, tätt följd av Fritz småkusiner.
 
