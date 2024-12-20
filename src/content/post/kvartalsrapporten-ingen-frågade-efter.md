@@ -31,7 +31,7 @@ Ofta hör jag mig själv referera till Lund som en bubbla när jag får den otro
 
 Vad gör man åt en dålig granne?
 
-I augusti flyttade jag till en ny lägenhet, blev sambo, dubblerade min area och får numera solljus in genom mitt fönster. Grädden på moset har även varit att mina grannar varit någon form av djur som gått i ide, helt knäpptyst. Nu har det dock flyttat in ett par som inte kan hålla ljudnivån nere, möbeltassar verkar också vara icke existerande. (14-11-2024 visar sig att jag pluggar tillsammans med en av de berörda grannarna, var bara att klistra på ett glatt leende när hon sa “vi har ju blivit grannar, hur kul!”)
+I augusti flyttade jag till en ny lägenhet, blev sambo, dubblerade min area och får numera solljus in genom mitt fönster. Grädden på moset har även varit att mina grannar varit någon form av djur som gått i ide, helt knäpptyst. Nu har det dock flyttat in ett par som inte kan hålla ljudnivån nere, möbeltassar verkar också vara icke existerande.
 
 ***1-11-2024*** *(23.40, Nørre Bodega, Köpenhamn, J-dagen)*
 
@@ -44,6 +44,12 @@ Låter det som en dröm, troligtvis inte? Har min vardag förändrats undrar du,
 ***8-11-2024*** *(00.38)*
 
 Jag springer upp för trapporna på lunds nation. En torsdag. Ifrågasätter min existens. Samtidigt är….?*(här tog det slut och tänker inte ens chansa på vad jag hade tänkt att skriva).* 
+
+
+***14-11-2024***
+
+Visar sig att jag pluggar tillsammans med en av de berörda grannarna, var bara att klistra på ett glatt leende när hon sa “vi har ju blivit grannar, hur kul!”)
+
 
 ***24-11-2024*** 
 
