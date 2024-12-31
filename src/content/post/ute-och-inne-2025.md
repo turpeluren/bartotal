@@ -3,11 +3,13 @@ title: Ute och inne 2025
 author:
   - REDAKTIONEN
 publishDate: 31 Dec 2024
-description: Det här gäller 2025
+description: Bar Total om 25
 largeCoverImage: false
 draft: false
 ---
-**Ute**
+**Redaktionen har tyckt till om 2025. Vi alla håller inte med om allt. Men vi är en samling smarta tyckare.**
+
+**Ute:**
 
 * läsa nyheter
 * Slips
