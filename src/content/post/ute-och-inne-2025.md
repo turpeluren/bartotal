@@ -1,7 +1,7 @@
 ---
 title: Ute och inne 2025
 author:
-  - REDAKTIONEN
+  - Delar av redaktionen
 publishDate: 31 Dec 2024
 description: Bar Total om 25
 largeCoverImage: false
