@@ -81,7 +81,7 @@ Den är rund och liten luden typ. 
 
 Den är konstig men ser ändå ganska god ut.
 
-Jag kanske borde smakar.
+Jag kanske borde smaka.
 
 Äta lite medan för att fördriva tiden.
 
