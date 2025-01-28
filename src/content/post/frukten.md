@@ -7,14 +7,11 @@ description: Novell
 tags:
   - Novell
 coverImage:
-  src: src/assets/img_3320.jpeg
+  src: src/assets/äpple.jpg
 largeCoverImage: false
 draft: false
 ---
-
-
-
-###### Varför tog jag persikan? 
+Varför tog jag persikan? 
 
 Den är ju så kladdig och jävlig att äta.
 
