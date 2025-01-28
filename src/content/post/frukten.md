@@ -83,7 +83,7 @@ Den är konstig men ser ändå ganska god ut.
 
 Jag kanske borde smaka.
 
-Äta lite medan för att fördriva tiden.
+Äta lite för att fördriva tiden.
 
 Medan jag väntar här med frukten.
 
