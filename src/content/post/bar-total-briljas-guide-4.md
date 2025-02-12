@@ -11,11 +11,17 @@ tags:
 largeCoverImage: false
 draft: false
 ---
-De senaste veckorna har jag och skribenten Ivan – två trogna reels scrollare – diskuterat ett fenomen. Vi har märkt att våra reels är fyllda av indier som gör konstiga saker. Det kan vara någon som lagar mat med smutsiga fötter på gatan, kör en tokig bil eller snubbar som dansar med fula kläder. Detta har fått oss att undra: pågår det en planerad anti-Indien-kampanj? 
+De senaste veckorna har jag och skribenten Ivan – två trogna reels scrollare – diskuterat ett möjligen oroande fenomen. Vi har nämligen märkt att våra reels är fyllda av indier som gör konstiga saker. Det kan vara någon som lagar mat med smutsiga fötter på gatan, någon som kör en tokig bil eller snubbar som dansar med fula kläder. 
+
+Detta har fått oss att undra: pågår det en planerad anti-Indien-kampanj? 
 
 Det är som om våra algoritmer (som vi såklart är delvis ansvariga för) försöker påverka våra åsikter om Indien. Få oss att tycka att de är ofräscha, tokiga och har dålig smak. 
 
-Men jag lovar följande till mina fellow indier: Jag ska inte låta mina reels korrumpera min hjärna; jag tror fortfarande gott om om ert land! 
+Men till alla indier där ute kan jag lova följande: Jag ska inte låta mina reels korrumpera min hjärna; jag tror fortfarande gott om om ert land! 
+
+आपका बुधवार मंगलमय हो!
+
+Här kommer *dina* veckomåsten!
 
 **Laga:** Palak paneer
 
