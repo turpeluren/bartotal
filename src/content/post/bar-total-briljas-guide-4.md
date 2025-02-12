@@ -17,7 +17,7 @@ Vi har börjat undra om det pågår en planerad, och planterad, anti-Indien-kamp
 
 Men! Till alla indier där ute kan jag lova följande: Jag ska **inte** låta mina reels korrumpera min hjärna; jag tror fortfarande gott om om er! 
 
-Slutligen, jag ska självklart inte skicka in er kära läsare i den sista veckohalvan utan några måsten. आपका बुधवार मंगलमय हो!
+Slutligen, jag ska självklart inte skicka in er kära läsare i den sista veckohalvan utan några tips (läs: måsten). आपका बुधवार मंगलमय हो!
 
 **Laga:** Palak paneer
 
