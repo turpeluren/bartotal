@@ -11,7 +11,7 @@ tags:
 largeCoverImage: false
 draft: false
 ---
-De senaste veckorna har jag och den eminente skribenten [Ivan](https://bartotal.se/redaktionen/ivan/) – två trogna reels scrollare – diskuterat ett möjligen oroande fenomen. Vi har nämligen märkt att våra reels är fyllda av indier som gör konstiga saker. Det kan vara någon som lagar mat med smutsiga fötter på gatan, någon som kör en tokig bil eller snubbar som dansar med fula kläder. 
+De senaste veckorna har jag och den eminente skribenten [Ivan](https://bartotal.se/redaktionen/ivan/) – två trogna Instagram reels scrollare – diskuterat ett möjligen oroande fenomen. Vi har nämligen märkt att våra reels är fyllda av indier som gör konstiga saker. Det kan vara någon som lagar mat med smutsiga fötter på gatan, någon som kör en tokig bil eller snubbar som dansar med fula kläder. 
 
 Vi har börjat undra om det pågår en planerad, och planterad, anti-Indien-kampanj. Om någon med uppsåt sprider osmickrande videor på indier, för att få oss att tycka att de är ofräscha, tokiga och dumma. 
 
