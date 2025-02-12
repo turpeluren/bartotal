@@ -13,9 +13,9 @@ draft: false
 ---
 De senaste veckorna har jag och den eminente skribenten [Ivan](https://bartotal.se/redaktionen/ivan/) diskuterat ett möjligen oroande fenomen. Våra flöden flödar nämligen av videor där indier ställs i dålig dager, och vi misstänker nästan att det pågår en medveten smutskastningskampanj. På reels framställs de som ofrsächa och dumma. De lagar mat med fötterna och råttor springer i köken.
 
-Vi har spekulerar i om det pågår en avancerad, planerad och planterad anti-Indien-kampanj. Osmickrande videor på indier sprids för att få oss att tycka att de är just ofräscha och dumma. 
+Vi spekulerar i om det pågår en avancerad, planerad och planterad anti-Indien-kampanj. Osmickrande videor på indier sprids för att få oss att tycka att de är just ofräscha och dumma. 
 
-Men! Till alla indier där ute kan jag lova följande: Jag ska **inte** låta mina reels korrumpera min hjärna; jag tror gott om om er! 
+Men! Till alla indier där ute kan jag lova följande: Jag ska **inte** låta mina reels korrumpera min hjärna; jag tror gott om er! 
 
 Slutligen, jag ska självklart inte skicka in er kära läsare i den sista veckohalvan utan några tips (läs: måsten). आपका बुधवार मंगलमय हो!
 
