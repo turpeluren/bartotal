@@ -3,6 +3,15 @@
     {
       "id": null,
       "parentId": null,
+      "createdAt": "Thu Feb 13 2025 10:37:10 GMT+0100 (centraleuropeisk normaltid)",
+      "createdBy": {
+        "fullName": "Till indiers försvar "
+      },
+      "html": "Algoritmen är som hjärnan - den kommer aktivt leta efter sånt som överensstämmer med den världsbild och de fördomar vi redan har…"
+    },
+    {
+      "id": null,
+      "parentId": null,
       "createdAt": "Thu Feb 13 2025 10:09:20 GMT+0100 (centraleuropeisk normaltid)",
       "createdBy": {
         "fullName": "Demitri"
