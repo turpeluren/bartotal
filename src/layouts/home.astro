@@ -23,8 +23,16 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS);
 			/>
 		</div>
         <!-- Spotify embed -->
-        <p class="prose prose-md prose-cactus"><br>Läslyssning:<br><br></p>
-        <iframe style="border-radius:12px;" src="https://open.spotify.com/embed/playlist/5SNp7eSCJgc1vTmIRFSXxZ?utm_source=generator" width="100%" height="152" allowfullscreen="" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <div class="dropdown">
+            <button id="dropdownBtn" class="pb-0 mt-4 text-lg flex items-center w-auto">
+                <span class="pb-1 prose prose-cactus underline underline-offset-2 hover:decoration-2 ">Spelas i baren</span>
+            </button>
+            <div class="dropdownContent relative transition-all overflow-hidden h-0">
+                <iframe style="border-radius:12px;" src="https://open.spotify.com/embed/playlist/5SNp7eSCJgc1vTmIRFSXxZ?utm_source=generator" width="100%" height="512" allowfullscreen="" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+                </iframe>
+            </div>
+        </div>
+
 	</section>
 	<section aria-label="Blog post list" class="mt-16">
 		<h2 class="title mb-4 text-xl">Det senaste från redaktionen</h2>
@@ -66,3 +74,30 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS);
 		}
 	</script>
 </PageLayout>
+
+<style>
+    #dropdownBtn.active::before {
+        content: '▾';
+    }
+    #dropdownBtn::before {
+        content: '▸';
+        @apply pr-1;
+    }
+    #dropdownBtn.active span {
+        @apply decoration-accent decoration-2;
+    }
+</style>
+
+<script is:inline>
+    function dropdown(e) {
+        document
+            .getElementsByClassName("dropdownContent")[0]
+            .classList.toggle("h-auto");
+        document
+            .getElementById("dropdownBtn").classList.toggle("active");
+    }
+
+    document
+        .getElementById("dropdownBtn")
+        .addEventListener("click", dropdown);
+</script>
