@@ -18,12 +18,16 @@ const {
         content: '▸';
         @apply pr-2;
     }
+    #dropdownBtn.active span {
+        @apply decoration-accent;
+    }
 </style>
 
 <div class="mt-24 prose max-w-full text-textColor">
   <hr class="dark:border-gray-800">
   <div class="dropdown">
-  <button id="dropdownBtn" class="pb-1 mb-2 font-semibold underline text-gray-600 dark:text-gray-400 hover:text-textColor dark:hover:text-textColor text-lg flex justify-between w-auto">Lämna en kommentar:</button>
+  <button id="dropdownBtn" class="pb-1 mb-2 font-semibold text-gray-600 dark:text-gray-400 hover:text-textColor dark:hover:text-textColor text-lg flex justify-between items-center w-auto">
+    <span class="pb-1 underline decoration-2 hover:decoration-accent">Lämna en kommentar:</span></button>
   <div class="dropdownContent relative transition-all overflow-hidden h-0 mb-6 mt-4 px-1">
 <form
     id="commentForm"
@@ -144,7 +148,9 @@ const {
     document
         .getElementsByClassName("dropdownContent")[0]
         .classList.toggle("h-auto");
-    e.target.classList.toggle("active");
+    document
+        .getElementById("dropdownBtn")
+        .classList.toggle("active");
   }
 
   document
