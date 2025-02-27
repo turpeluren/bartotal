@@ -2,18 +2,21 @@
 title: VampLife Ume 2025
 author:
   - Paulí Perdu
-publishDate: 26 Feb 2025
+publishDate: 27 Feb 2025
 description: Lite om livet som vampyr i Umeå
 tags:
   - vampyrer
   - goth
   - indien
+  - umeå
 coverImage:
   src: src/assets/vampyrer.jpg
   alt: En bild på oss
 largeCoverImage: false
 draft: false
 ---
+*En bild på oss.*
+
 ###### Jag och min flickvän är vampyrer. Eftersom vi inte ser ut att åldras måste vi bryta upp och starta ett nytt liv för oss med jämna mellanrum. Nu senast har vi hamnat som studenter i Umeå. Livet i norr passar oss bra då solen inte når så högt på himlen under vintern och man blir inte tvingad till sociala interaktioner lika flitigt som söderöver.
 
 Det är nästan man kan tro att en del andra studenter också är vampyrer – de är bleka, har mörka ringar under ögonen, går inte ut och äter knappt. De driver omkring i en drömlös vakenhet på gränsen till sömn, precis som vi. Men vid närmare inspektion rinner blodet ännu motvilligt i deras ådror.
