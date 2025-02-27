@@ -11,7 +11,7 @@ tags:
   - umeå
 ogImage: ""
 coverImage:
-  src: src/assets/jpeg2.jpeg
+  src: src/assets/jpeg2upscaled.jpeg
   alt: En bild på oss
 largeCoverImage: false
 draft: false
