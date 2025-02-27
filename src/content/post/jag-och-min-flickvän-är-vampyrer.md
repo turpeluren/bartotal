@@ -9,7 +9,7 @@ tags:
   - goth
   - indien
   - umeå
-ogImage: https://bartotal.digital/_astro/jpeg2.BiFfCcEZ_Z23Sqid.webp
+ogImage: https://bartotal.se/_astro/jpeg2.BiFfCcEZ_Z23Sqid.webp
 coverImage:
   src: src/assets/jpeg2.jpeg
   alt: En bild på oss
