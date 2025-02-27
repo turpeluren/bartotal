@@ -1,5 +1,5 @@
 ---
-title: Jag och min flickvän är vampyrer
+title: VampLife Ume 2025
 author:
   - Paulí Perdu
 publishDate: 26 Feb 2025
