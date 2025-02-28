@@ -50,4 +50,9 @@
 	code::before, code::after {
 		@apply !content-none;
 	}
+
+    figcaption {
+        font-style: italic;
+        text-align: center;
+    }
 }

@@ -38,7 +38,7 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
                     />
                     </div>
                 </div>
-                <div class={`pointer-events-none opacity-0 w-full `} style={`margin-bottom: `+data.coverImage.src.height/data.coverImage.src.width*365+`px;`}> 
+                <div class={`pointer-events-none opacity-0 w-full `} style={`margin-bottom: `+(data.coverImage.src.height/data.coverImage.src.width*365-32)+`px;`}> 
                     <Image
                         alt={data.coverImage.alt}
                         class="object-contain"
@@ -48,7 +48,7 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
                     />
                 </div>
             </div>
-            <div class="pointer-events-none lg:hidden mb-4">
+            <div class="pointer-events-none lg:hidden mb-0">
                 <div class=" absolute w-full left-0 aspect-h-1 aspect-w-1">
                     <div class="flex items-start justify-center h-[100vw]">
                         <div class="max-w-3xl">
@@ -61,7 +61,7 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
                     /></div>
                 </div>
                 </div>
-                <div class="pointer-events-none opacity-0 flex items-start w-full mb-24">
+                <div class="pointer-events-none opacity-0 flex items-start w-full mb-16">
                     <Image
                         alt={data.coverImage.alt}
                         class="object-contain"
@@ -72,7 +72,7 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
                 </div>
             </div>
         ) : (
-            <div class="hidden lg:block mb-6 aspect-h-9 aspect-w-16">
+            <div class="hidden lg:block mb-0 aspect-h-9 aspect-w-16">
                 <Image
                     alt={data.coverImage.alt}
                     class="object-cover"
@@ -81,7 +81,7 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
                     src={data.coverImage.src}
                 />
             </div>
-            <div class="lg:hidden customHeight mb-4">
+            <div class="lg:hidden customHeight mb-0">
                 <div class="absolute w-full left-0 aspect-h-9 aspect-w-16">
                     <Image
                         alt={data.coverImage.alt}
@@ -96,6 +96,10 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
         </>
 	)
 }
+<div class="mb-4 lg:mb-6">
+    {data.coverCaption && (<figcaption>{data.coverCaption}</figcaption>)}
+</div>
+
 {data.draft ? <span class="text-base text-red-500">(Draft)</span> : null}
 
 <!-- Title -->
