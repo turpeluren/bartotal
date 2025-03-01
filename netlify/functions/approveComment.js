@@ -158,6 +158,9 @@ const getApproveVars = params => {
 
   const url = params.url || "";
 
+  const id = params.id;
+  const parentId = params.parentId;
+
   const comment = params.comment;
   if (!comment) {
     return { err: { statusCode: 400, body: "Missing comment" } };
@@ -173,6 +176,8 @@ const getApproveVars = params => {
       name,
       email,
       url,
+      id,
+      parentId,
       comment,
     }
   };
@@ -322,6 +327,7 @@ const approveComment = async (
   githubRepo,
   netlifyToken,
   id,
+  parentId,
   slug,
   date,
   name,
@@ -347,7 +353,7 @@ const approveComment = async (
       existingComments = [];
     }
     
-    const newComments = getNewComments(existingComments, date, name, url, id, comment);
+    const newComments = getNewComments(existingComments, date, name, url, id, parentId, comment);
     const newJson = getNewJson(existingJson, newComments);
 
     try {
@@ -384,7 +390,7 @@ exports.handler = async (event, context) => {
     return commonVars.err;
   }
 
-  const { netlifyToken, params, token, action, id } = commonVars.vars;
+  const { netlifyToken, params, token, action/*, id*/ } = commonVars.vars;
 
   if (action === "approve") {
     const approveVars = getApproveVars(params);
@@ -402,6 +408,8 @@ exports.handler = async (event, context) => {
       name,
       email,
       url,
+      id,
+      parentId,
       comment,
     } = approveVars.vars;
 
@@ -410,12 +418,13 @@ exports.handler = async (event, context) => {
       githubUser,
       githubRepo,
       netlifyToken,
-      id,
       slug,
       date,
       name,
       email,
       url,
+      id,
+      parentId,
       comment,
     );
   }

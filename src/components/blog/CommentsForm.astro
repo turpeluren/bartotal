@@ -4,7 +4,8 @@ const {
     name,
     inputs,
     textarea,
-    submitMessage = '' 
+    submitMessage = '',
+    parentId=null
 } = Astro.props;
 
 
@@ -92,6 +93,9 @@ const {
   }
 
   <input type="hidden" name="date" id="date" value=""/>
+  
+  <input type="hidden" name="parentId" id="parentId" value={parentId}/>
+  <input type="hidden" name="id" id="id" value=""/>
 
   <input type="hidden" name="moderationLink" id="moderationLink" value=""/>
 
@@ -122,12 +126,13 @@ const {
     moderationLink += "&email=" + document.getElementById("email").value;
     moderationLink += "&date=" + document.getElementById("date").value;
     moderationLink += "&comment=" + document.getElementById("comment").value;
+    moderationLink += "&parentId=" + + document.getElementById("parentId").value; // add parent id
+    moderationLink += "&id=" + stringToHash(moderationLink); //add hashed id
+
     moderationLink = moderationLink.replaceAll("+", "%20");
     moderationLink = moderationLink.replaceAll(" ", "%20");
     moderationLink = new URL(moderationLink);
-    console.log(moderationLink.toString());
     document.getElementById("moderationLink").value = moderationLink;
-    //console.log(document.getElementById("moderationLink").value);
 
     const myForm = event.target;
     const formData = new FormData(myForm);
@@ -143,6 +148,12 @@ const {
       document.getElementById("moderationLink").value = '')
       .catch((error) => alert(error));
   };
+
+  function stringToHash(string) {
+    return string.split('').reduce((hash, char) => {
+        return char.charCodeAt(0) + (hash << 6) + (hash << 16) - hash;
+    }, 0);
+  }
 
   function dropdown(e) {
     document

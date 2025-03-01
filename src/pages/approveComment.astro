@@ -16,6 +16,10 @@ const meta = {
     action="/.netlify/functions/approveComment"
     method="POST"
 >
+
+    <input class="hidden" type="text" name="parentId" id="parentId" value="" />
+    <input class="hidden" type="text" name="id" id="id" value="" />
+
     <div class="mb-1">
         <label for="slug" class="block text-sm">
             Post
@@ -116,6 +120,10 @@ const meta = {
 
 <script is:inline>
     const urlSearchParams = new URLSearchParams(window.location.search);
+    const idField = document.getElementById("id");
+    if (idField) idField.value=urlSearchParams.get("id");
+    const parentIdField = document.getElementById("name");
+    if (parentIdField) parentIdField.value=urlSearchParams.get("parentId");
     const nameField = document.getElementById("name");
     if (nameField) nameField.value=urlSearchParams.get("name");
     const emailField = document.getElementById("email");
