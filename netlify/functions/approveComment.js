@@ -266,6 +266,7 @@ const getNewComments = (existingComments, date, name, url, id, parentId, comment
     parentId: parentId,
     createdAt: date,
     createdBy: { fullName: name },
+    answers: [],
   };
 
   if (url) {
@@ -273,6 +274,16 @@ const getNewComments = (existingComments, date, name, url, id, parentId, comment
   }
 
   newComment.html = comment;
+
+  if (parentId) {
+    // Add answer comments under their parent
+    for (let x in existingComments) {
+        if (existingComments[x].id == parentId) {
+            existingComments[x].answers = [...existingComments[x].answers, newComment];
+            return existingComments;
+        }
+    }
+  }
 
   return [newComment, ...existingComments];
 };
