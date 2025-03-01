@@ -1,6 +1,15 @@
 {
   "comments": [
     {
+      "id": "-34778566849",
+      "parentId": "2",
+      "createdAt": "Sat Mar 01 2025 22:55:27 GMT+0100 (centraleuropeisk normaltid)",
+      "createdBy": {
+        "fullName": "hej en glad banen"
+      },
+      "html": "bar total"
+    },
+    {
       "id": 5,
       "parentId": null,
       "createdAt": "Fri Feb 21 2025 13:00:01 GMT+0100 (centraleuropeisk normaltid)",
