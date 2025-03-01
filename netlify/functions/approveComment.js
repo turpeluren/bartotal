@@ -158,8 +158,8 @@ const getApproveVars = params => {
 
   const url = params.url || "";
 
-  const id = params.id;
-  const parentId = params.parentId;
+  const id = params.id || "";
+  const parentId = params.parentId || "";
 
   const comment = params.comment;
   if (!comment) {
