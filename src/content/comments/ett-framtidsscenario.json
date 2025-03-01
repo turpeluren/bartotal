@@ -1,7 +1,7 @@
 {
   "comments": [
     {
-      "id": null,
+      "id": 5,
       "parentId": null,
       "createdAt": "Fri Feb 21 2025 13:00:01 GMT+0100 (centraleuropeisk normaltid)",
       "createdBy": {
@@ -10,7 +10,7 @@
       "html": "Hur står sig krypton 2040?"
     },
     {
-      "id": null,
+      "id": 4,
       "parentId": null,
       "createdAt": "Fri Feb 21 2025 23:51:01 GMT+0100 (centraleuropeisk normaltid)",
       "createdBy": {
@@ -19,7 +19,7 @@
       "html": "Fan va nice, håller tummarna!!"
     },
     {
-      "id": null,
+      "id": 3,
       "parentId": null,
       "createdAt": "Fri Feb 21 2025 12:27:49 GMT+0100 (centraleuropeisk normaltid)",
       "createdBy": {
@@ -28,7 +28,7 @@
       "html": "Precis såhär var det när jag var ung "
     },
     {
-      "id": null,
+      "id": 2,
       "parentId": null,
       "createdAt": "Thu Feb 20 2025 20:37:10 GMT+0100 (centraleuropeisk normaltid)",
       "createdBy": {
@@ -37,7 +37,7 @@
       "html": "Låter som ett mycket möjligt framtidsscenario, <i>men</i> funkade fattig fattig man-tricket fyra gånger?! Måste veta namnet på denna bar"
     },
     {
-      "id": null,
+      "id": 1,
       "parentId": null,
       "createdAt": "Thu Feb 20 2025 19:37:10 GMT+0100 (centraleuropeisk normaltid)",
       "createdBy": {

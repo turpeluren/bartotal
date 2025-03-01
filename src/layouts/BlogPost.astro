@@ -4,7 +4,7 @@ import type { CollectionEntry } from "astro:content";
 import BlogHero from "@/components/blog/Hero.astro";
 import TOC from "@/components/blog/TOC.astro";
 import WebMentions from "@/components/blog/webmentions/index.astro";
-import Form from "@/components/blog/CommentsForm.astro";
+import NewCommentForm from "@/components/blog/CommentsDropdown.astro";
 import Comments from "@/components/blog/Comments.astro";
 
 import BaseLayout from "./Base.astro";
@@ -57,7 +57,7 @@ const { headings } = await post.render();
 			<path d="M4.5 15.75l7.5-7.5 7.5 7.5" stroke-linecap="round" stroke-linejoin="round"></path>
 		</svg>
 	</button>
-	<Form
+	<NewCommentForm
 		name="comments"
 		inputs={[
 			{

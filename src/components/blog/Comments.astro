@@ -3,6 +3,7 @@ import { getEntry } from 'astro:content';
 import FormattedDate from '../FormattedDate.astro';
 import { getAllPosts, sortMDByDate } from "@/data/post";
 import { Icon } from "astro-icon/components";
+import AnswerForm from "@/components/blog/CommentAnswer.astro";
 
 const slug = Astro.url.toString().split('/posts/')[1].split("/")[0] as string;
 const commentsEntry = await getEntry('comments', slug);
@@ -56,8 +57,29 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
                     />
                 </div>
             </div>
-            <div class="mt-12 mb-4">
-                <a class="hidden text-sm p-0">svara</a>
+            
+            <AnswerForm
+                name="comments"
+                inputs={[
+                    {
+                        type: 'text',
+                        name: 'name',
+                        label: 'Namn',
+                    },
+                    {
+                        type: 'text',
+                        name: 'email',
+                        label: 'Email/@',
+                    },
+                    ]}
+                textarea={{
+                    label: 'Kommentar',
+                    name: 'comment',
+                }}
+                submitMessage="Tack för ditt svar på tal! Syns här på sidan ASAP. (Vi måste godkänna att det ej är SPAM!)"
+                parentId={data.id}
+            />
+            <div class="mt-4 mb-4">
                 {(i < comments.length-1) && (
                     <hr class="m-0 border-gray-300 dark:border-gray-700 border-solid"/>
                 )}
