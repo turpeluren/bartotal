@@ -152,9 +152,9 @@ const getApproveVars = params => {
   }
 
   const email = params.email;
-  if (!email) {
+  /*if (!email) {
     return { err: { statusCode: 400, body: "Missing email" } };
-  }
+  }*/
 
   const url = params.url || "";
 
@@ -255,10 +255,10 @@ const getExistingComments = existingJson => {
   return [...existingJson.comments];
 };
 
-const getNewComments = (existingComments, date, name, url, comment) => {
+const getNewComments = (existingComments, date, name, url, id, parentId, comment) => {
   let newComment = {
-    id: null,
-    parentId: null,
+    id: id,
+    parentId: parentId,
     createdAt: date,
     createdBy: { fullName: name },
   };
@@ -347,7 +347,7 @@ const approveComment = async (
       existingComments = [];
     }
     
-    const newComments = getNewComments(existingComments, date, name, url, comment);
+    const newComments = getNewComments(existingComments, date, name, url, id, comment);
     const newJson = getNewJson(existingJson, newComments);
 
     try {
