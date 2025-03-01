@@ -93,23 +93,27 @@ console.log(parentId);
   const handleSubmit = (event) => {
     event.preventDefault();
 
+    const formId = "#commentForm"+((parentId!=null)?parentId.toString():"");
+
     // Add the date of submit
-    document.getElementById("date").value=new Date().toString().replaceAll("+", "%2B");
+    document.querySelector(formId+" #date").value=new Date().toString().replaceAll("+", "%2B");
 
     // Append moderation data
     var moderationLink = "https://bartotal.digital/approveComment?";
-    moderationLink += "slug=" + document.getElementById("slug").value;
-    moderationLink += "&name=" + document.getElementById("name").value;
-    moderationLink += "&email=" + document.getElementById("email").value;
-    moderationLink += "&date=" + document.getElementById("date").value;
-    moderationLink += "&comment=" + document.getElementById("comment").value;
-    moderationLink += "&parentId=" + + document.getElementById("parentId").value; // add parent id
+    moderationLink += "slug=" + document.querySelector(formId+" #slug").value;
+    moderationLink += "&name=" + document.querySelector(formId+" #name").value;
+    moderationLink += "&email=" + document.querySelector(formId+" #email").value;
+    moderationLink += "&date=" + document.querySelector(formId+" #date").value;
+    moderationLink += "&comment=" + document.querySelector(formId+" #comment").value;
+    moderationLink += "&parentId=" + + document.querySelector(formId+" #parentId").value; // add parent id
     moderationLink += "&id=" + stringToHash(moderationLink); //add hashed id
 
     moderationLink = moderationLink.replaceAll("+", "%20");
     moderationLink = moderationLink.replaceAll(" ", "%20");
     moderationLink = new URL(moderationLink);
-    document.getElementById("moderationLink").value = moderationLink;
+    document.querySelector(formId+" #moderationLink").value = moderationLink;
+
+    console.log(moderationLink);
 
     const myForm = event.target;
     const formData = new FormData(myForm);
@@ -121,8 +125,8 @@ console.log(parentId);
       body: new URLSearchParams(formData).toString(),
     })
       .then(() => alert(submitMessage),
-      document.getElementById("comment").value = '',
-      document.getElementById("moderationLink").value = '')
+      document.querySelector(formId+" #comment").value = '',
+      document.querySelector(formId+" #moderationLink").value = '')
       .catch((error) => alert(error));
   };
 
