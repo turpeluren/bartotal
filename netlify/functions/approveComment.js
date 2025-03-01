@@ -326,13 +326,13 @@ const approveComment = async (
   githubUser,
   githubRepo,
   netlifyToken,
-  id,
-  parentId,
   slug,
   date,
   name,
   email,
   url,
+  id,
+  parentId,
   comment,
 ) => {
   try {
