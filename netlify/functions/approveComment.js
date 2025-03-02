@@ -278,7 +278,9 @@ const getNewComments = (existingComments, date, name, url, id, parentId, comment
   if (parentId) {
     // Add answer comments under their parent
     for (let x in existingComments) {
+        console.log(existingComments[x].id == parentId);
         if (existingComments[x].id == parentId) {
+            if(!existingComments[x].answers) existingComments[x].answers = [];
             existingComments[x].answers = [...existingComments[x].answers, newComment];
             return existingComments;
         }

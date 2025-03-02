@@ -24,17 +24,17 @@ const {
     }
 </style>
 
-<div class="mt-0 prose max-w-full text-textColor">
-  <hr class="dark:border-gray-800">
+<div class="mt-4 prose max-w-full text-textColor">
+  <!--hr class="dark:border-gray-800"-->
   <div class="dropdown">
   <button 
     id="dropdownBtn"
-    class="pb-1 mb-2 font-semibold text-gray-600 dark:text-gray-400 hover:text-textColor dark:hover:text-textColor text-sm flex justify-between items-center w-auto"
+    class="pb-1 mb-0 text-gray-600 dark:text-gray-400 hover:text-textColor dark:hover:text-textColor text-sm flex justify-between items-center w-auto"
     onclick="dropdown(this)"
   >
-    <span class="pb-1 underline decoration-2 hover:decoration-accent">svara 💬</span>
+    <span class="pb-1 hover:underline hover:decoration-accent">svara 💬</span>
   </button>
-  <div class="dropdownContent relative transition-all overflow-hidden h-0 mb-6 mt-4 px-1">
+  <div class="dropdownContent relative transition-all overflow-hidden h-0 mb-0 mt-0 px-1">
   <Form 
     name={name}
     inputs={inputs}
