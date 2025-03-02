@@ -34,7 +34,19 @@
       "createdBy": {
         "fullName": "En glad banan"
       },
-      "html": "Låter som ett mycket möjligt framtidsscenario, <i>men</i> funkade fattig fattig man-tricket fyra gånger?! Måste veta namnet på denna bar"
+      "html": "Låter som ett mycket möjligt framtidsscenario, <i>men</i> funkade fattig fattig man-tricket fyra gånger?! Måste veta namnet på denna bar",
+      "answers": [
+        {
+          "id": "-2160672275",
+          "parentId": "2",
+          "createdAt": "Sun Mar 02 2025 01:19:14 GMT+0100 (centraleuropeisk normaltid)",
+          "createdBy": {
+            "fullName": "hej en glad banen"
+          },
+          "answers": [],
+          "html": "bar total"
+        }
+      ]
     },
     {
       "id": 1,
