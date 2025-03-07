@@ -5,17 +5,18 @@ export default async (req: Request, context: Context) => {
   try {
     const urlParams = new URLSearchParams(req.url.split('?')[1]);
     const page = urlParams.get('page');
+    if (page == null) throw new Error("Missing page URL param");
     const view = getStore("view");
     const dateTime = new Date();
 
     let entry = await view.get(page);
 
     if (!entry) {
-      await view.set(page, 1, {
+      await view.set(page, "1", {
         metadata: { last_modified: dateTime, previous_count: 0 },
       });
     } else {
-      await view.set(page, parseInt(entry) + 1, {
+      await view.set(page, String(parseInt(entry) + 1), {
         metadata: { last_modified: dateTime, previous_count: parseInt(entry) },
       });
     }
