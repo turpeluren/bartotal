@@ -21,11 +21,23 @@ comments
 const dateTimeOptions: Intl.DateTimeFormatOptions = {
 	month: "short",
 };
+
+// sum the nr of answers
+let nrAnswers = 0;
+calcAnswers(comments);
+function calcAnswers(obj: any) {
+    for (let i in obj) {
+        if (obj[i].answers) {
+            nrAnswers+=obj[i].answers.length;
+            calcAnswers(obj[i].answers);
+        }
+    }
+}
 ---
 
 <div class="prose max-w-full m-0 mt-6 text-textColor">
     {comments.length > 0 && (
-        <h2 class="mb-12 text-textColor">{comments.length} Kommentar{(comments.length > 1 ? "er:" : ":")}</h2>
+        <h2 class="mb-12 text-textColor">{comments.length+nrAnswers} Kommentar{(comments.length > 1 ? "er:" : ":")}</h2>
     )}
     <ul class="p-0">
         {comments.map((data: { id: string | null | undefined; parentId: number | null | undefined; createdBy: { fullName: string; }; createdAt: Date; email: unknown; html: any; answers: any | null | undefined}, i: number) => (
