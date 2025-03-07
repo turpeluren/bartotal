@@ -107,6 +107,9 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
 	{data.title}
 </h1>
 
+<!-- Page Views -->
+<p class="float-right" id="viewCountText"></p>
+
 <!-- Date -->
 <span class="items-center gap-x-3 gap-y-2">
 	<span class="font-semibold right">
@@ -179,3 +182,23 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
         height: calc(100vw / 16 * 9);
     }
 </style>
+
+<!-- JavaScript to fetch and update view count -->
+<script is:inline>
+    var current_page = window.location.href;
+    fetch("/.netlify/functions/pageViewCounter?page=" + encodeURIComponent(current_page), {
+      method: "GET",
+      headers: {
+        "Content-Type": "application/x-www-form-urlencoded",
+      },
+    })
+      .then((response) => response.json())
+      .then((data) => {
+        // Extract view_count from response
+        var viewCount = data.data.view_count;
+
+        // Update viewCount text content
+        document.getElementById("viewCountText").textContent = viewCount+" 👀";
+      })
+      .catch((error) => console.error("Error:", error));
+</script>

@@ -9,7 +9,6 @@ const meta = {
 ---
 
 <PageLayout meta={meta}>
-<div class="border border-accent p-4"><p id="viewCountText">0</p></div>
 <form
     id="commentForm"
     name="approveComment"
@@ -140,24 +139,4 @@ const meta = {
         console.error(e);
     }
     /*if (slugField) slugField.value=urlSearchParams.get("slug");*/
-</script>
-
-<!-- JavaScript to fetch and update view count -->
-<script is:inline>
-    var current_page = window.location.href;
-    fetch("/.netlify/functions/pageViewCounter?page=" + encodeURIComponent(current_page), {
-      method: "GET",
-      headers: {
-        "Content-Type": "application/x-www-form-urlencoded",
-      },
-    })
-      .then((response) => response.json())
-      .then((data) => {
-        // Extract view_count from response
-        var viewCount = data.data.view_count;
-
-        // Update viewCount text content
-        document.getElementById("viewCountText").textContent = viewCount;
-      })
-      .catch((error) => console.error("Error:", error));
 </script>
