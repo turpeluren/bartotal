@@ -106,7 +106,19 @@
           "createdBy": {
             "fullName": "Kattismålass"
           },
-          "html": "Blev pirrig av att läsa din kommentar"
+          "html": "Blev pirrig av att läsa din kommentar",
+          "answers": [
+            {
+              "id": "-16054646979",
+              "parentId": "216067227512",
+              "createdAt": "Fri Mar 07 2025 17:24:38 GMT+0100 (centraleuropeisk normaltid)",
+              "createdBy": {
+                "fullName": "katt"
+              },
+              "answers": [],
+              "html": "hej katt"
+            }
+          ]
         }
       ]
     },
