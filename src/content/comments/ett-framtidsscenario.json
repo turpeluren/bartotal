@@ -115,7 +115,18 @@
               "createdBy": {
                 "fullName": "katt"
               },
-              "answers": [],
+              "answers": [
+                {
+                  "id": "10467860369",
+                  "parentId": "-16054646979",
+                  "createdAt": "Fri Mar 07 2025 17:27:26 GMT+0100 (centraleuropeisk normaltid)",
+                  "createdBy": {
+                    "fullName": "hej i andra led"
+                  },
+                  "answers": [],
+                  "html": "jed"
+                }
+              ],
               "html": "hej katt"
             }
           ]
