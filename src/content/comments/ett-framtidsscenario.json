@@ -70,7 +70,18 @@
                   "createdBy": {
                     "fullName": "HannaKatt"
                   },
-                  "answers": [],
+                  "answers": [
+                    {
+                      "id": "-1458212101",
+                      "parentId": "-21606732275",
+                      "createdAt": "Fri Mar 07 2025 16:45:30 GMT+0100 (centraleuropeisk normaltid)",
+                      "createdBy": {
+                        "fullName": "hej en glad banen"
+                      },
+                      "answers": [],
+                      "html": "Ja dåså! :)"
+                    }
+                  ],
                   "html": "bar total"
                 }
               ]
