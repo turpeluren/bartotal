@@ -277,18 +277,28 @@ const getNewComments = (existingComments, date, name, url, id, parentId, comment
 
   if (parentId) {
     // Add answer comments under their parent
-    for (let x in existingComments) {
-        console.log(existingComments[x].id == parentId);
-        if (existingComments[x].id == parentId) {
-            if(!existingComments[x].answers) existingComments[x].answers = [];
-            existingComments[x].answers = [...existingComments[x].answers, newComment];
-            return existingComments;
-        }
-    }
+    existingComments = addAnswerUnderParentComment(existingComments, parentId);
   }
 
   return [newComment, ...existingComments];
 };
+
+function addAnswerUnderParentComment(commentsArr, parentId) {
+    for (let x in commentsArr) {
+        if (commentsArr[x].id == parentId) {
+            // Found the parent comment
+            if (!commentsArr[x].answers) commentsArr[x].answers = [];
+
+            commentsArr[x].answers = [...commentsArr[x].answers, newComment];
+            return commentsArr;
+        }
+        else if (commentsArr[x].answers) {
+            // Check answers recursively
+            commentsArr[x].answers = addUnderParent(commentsArr[x].answers, parentId);
+        }
+    }
+    return commentsArr;
+}
 
 const getNewJson = (existingJson, newComments) => {
   return { ...existingJson, comments: newComments };
