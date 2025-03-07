@@ -198,7 +198,8 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
         var viewCount = data.data.view_count;
 
         // Update viewCount text content
-        document.getElementById("viewCountText").textContent = viewCount+" 👀";
+        if (viewCount == null) document.getElementById("viewCountText").textContent = "1 👀";
+        else document.getElementById("viewCountText").textContent = viewCount+" 👀";
       })
       .catch((error) => console.error("Error:", error));
 </script>
