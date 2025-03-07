@@ -43,8 +43,39 @@
           "createdBy": {
             "fullName": "hej en glad banen"
           },
-          "answers": [],
+          "answers": [
+            {
+                "id": 216012672275,
+                "parentId": -2160672275,
+                "createdAt": "Thu Feb 20 2025 20:37:10 GMT+0100 (centraleuropeisk normaltid)",
+                "createdBy": {
+                  "fullName": "En ledsen banan"
+                },
+                "html": "Det kan inte stämma. Säg det riktiga!!",
+                "answers": [
+                  {
+                    "id": "-21606732275",
+                    "parentId": "216012672275",
+                    "createdAt": "Sun Mar 02 2025 01:19:14 GMT+0100 (centraleuropeisk normaltid)",
+                    "createdBy": {
+                      "fullName": "HannaKatt"
+                    },
+                    "answers": [],
+                    "html": "bar total"
+                  }
+                ]
+              }
+          ],
           "html": "bar total"
+        },
+        {
+            "id": 216067227512,
+            "parentId": 2,
+            "createdAt": "Thu Feb 20 2025 19:37:10 GMT+0100 (centraleuropeisk normaltid)",
+            "createdBy": {
+                "fullName": "Kattismålass"
+            },
+            "html": "Blev pirrig av att läsa din kommentar"
         }
       ]
     },

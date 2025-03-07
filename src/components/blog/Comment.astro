@@ -1,0 +1,106 @@
+---
+import FormattedDate from '../FormattedDate.astro';
+import { Icon } from "astro-icon/components";
+import AnswerForm from "@/components/blog/CommentAnswer.astro";
+import NestedComment from '@/components/blog/Comment.astro';
+
+interface Props {
+    id: string | null | undefined;
+    parentId: number | null | undefined;
+    createdBy: { fullName: string; };
+    createdAt: Date; email: unknown;
+    html: any;
+    answers: any | null | undefined;
+    thePost: any;
+    last: boolean;
+}
+
+const {
+    id,
+    parentId,
+    createdBy,
+    createdAt,
+    email,
+    html,
+    answers,
+    thePost,
+    last,
+} = Astro.props;
+
+const dateTimeOptions: Intl.DateTimeFormatOptions = {
+	month: "short",
+};
+---
+<div class="line"></div>
+<div class="comment relative" id={id}>
+    <span>
+    {thePost && thePost.data.author.includes(createdBy.fullName) ? (
+        <span title="Author">
+            <Icon aria-hidden="true" class="inline text-accent mb-1" focusable="false" name="mdi:account-tie" />
+            <div class="inline-block ml-[-0.5rem] mb-[-0.25rem] w-[0.5rem] h-[0.5rem] bg-bgColor rounded-full"></div>
+            <Icon aria-hidden="true" class="inline text-accent mt-1 ml-[-0.75rem]" focusable="false" name="mdi:feather" />
+            <!-- mdi:card-account-details-star -->
+        </span>
+        <h4 id="name" class="inline text-accent">{createdBy.fullName}</h4>
+    ):(
+        <h4 id="name" class="inline text-textColor">{createdBy.fullName}</h4>
+    )}
+    <FormattedDate class="text-sm date inline" date={createdAt} dateTimeOptions={dateTimeOptions}/></span>
+    {email && (<span id="email">{email}</span>)}
+    <hr class="m-0 mb-3 dark:border-gray-800" />
+    <div class="message">
+        <span
+            set:html={html}
+        />
+    </div>
+</div>
+
+<AnswerForm
+    name="comments"
+    inputs={[
+        {
+            type: 'text',
+            name: 'name',
+            label: 'Namn',
+        },
+        {
+            type: 'text',
+            name: 'email',
+            label: 'Email/@',
+        },
+        ]}
+    textarea={{
+        label: 'Kommentar',
+        name: 'comment',
+    }}
+    submitMessage="Tack för ditt svar på tal! Syns här på sidan ASAP. (Vi måste godkänna att det ej är SPAM!)"
+    parentId={id}
+/>
+
+<!-- Answers -->
+{(answers && answers.length != 0) && (
+    <div class="ml-4 pt-2 pb-[1px] mt-2 border-l rounded-b-md border-gray-400 dark:border-gray-600">
+        {answers.map((ansData: { id: string | null | undefined; parentId: number | null | undefined; createdBy: { fullName: string; }; createdAt: Date; email: unknown; html: any; answers: object | null | undefined}, i: number) => (
+            <div class="ml-4">
+                <NestedComment
+                    id={ansData.id}
+                    parentId={ansData.parentId}
+                    createdBy={ansData.createdBy}
+                    createdAt={ansData.createdAt}
+                    email={ansData.email}
+                    html={ansData.html}
+                    answers={ansData.answers}
+                    thePost={thePost}
+                    last={i == answers.length-1}
+                />
+            </div>
+        ))}
+    </div>
+)}
+
+<div class="mt-4 mb-4">
+    {(!last) && (
+        <hr class="m-0 border-gray-300 dark:border-gray-700 border-solid"/>
+    )}
+</div>
+</>

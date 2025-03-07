@@ -1,9 +1,7 @@
 ---
 import { getEntry } from 'astro:content';
-import FormattedDate from '../FormattedDate.astro';
 import { getAllPosts, sortMDByDate } from "@/data/post";
-import { Icon } from "astro-icon/components";
-import AnswerForm from "@/components/blog/CommentAnswer.astro";
+import Comment from '@/components/blog/Comment.astro';
 
 const slug = Astro.url.toString().split('/posts/')[1].split("/")[0] as string;
 const commentsEntry = await getEntry('comments', slug);
@@ -30,101 +28,20 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
         <h2 class="mb-12 text-textColor">{comments.length} Kommentar{(comments.length > 1 ? "er:" : ":")}</h2>
     )}
     <ul class="p-0">
-        
         {comments.map((data: { id: string | null | undefined; parentId: number | null | undefined; createdBy: { fullName: string; }; createdAt: Date; email: unknown; html: any; answers: any | null | undefined}, i: number) => (
-            <>
             
-            <div class="line"></div>
-            <div class="comment relative" id={data.id}>
-                <span>
-                {thePost && thePost.data.author.includes(data.createdBy.fullName) ? (
-                    <span title="Author">
-                        <Icon aria-hidden="true" class="inline text-accent mb-1" focusable="false" name="mdi:account-tie" />
-                        <div class="inline-block ml-[-0.5rem] mb-[-0.25rem] w-[0.5rem] h-[0.5rem] bg-bgColor rounded-full"></div>
-                        <Icon aria-hidden="true" class="inline text-accent mt-1 ml-[-0.75rem]" focusable="false" name="mdi:feather" />
-                        <!-- mdi:card-account-details-star -->
-                    </span>
-                    <h4 id="name" class="inline text-accent">{data.createdBy.fullName}</h4>
-                ):(
-                    <h4 id="name" class="inline text-textColor">{data.createdBy.fullName}</h4>
-                )}
-                <FormattedDate class="text-sm date inline" date={data.createdAt} dateTimeOptions={dateTimeOptions}/></span>
-                {data.email && (<span id="email">{data.email}</span>)}
-                <hr class="m-0 mb-3 dark:border-gray-800" />
-                <div class="message">
-                    <span
-                        set:html={data.html}
-                    />
-                </div>
-            </div>
-            
-            <AnswerForm
-                name="comments"
-                inputs={[
-                    {
-                        type: 'text',
-                        name: 'name',
-                        label: 'Namn',
-                    },
-                    {
-                        type: 'text',
-                        name: 'email',
-                        label: 'Email/@',
-                    },
-                    ]}
-                textarea={{
-                    label: 'Kommentar',
-                    name: 'comment',
-                }}
-                submitMessage="Tack för ditt svar på tal! Syns här på sidan ASAP. (Vi måste godkänna att det ej är SPAM!)"
-                parentId={data.id}
+            <Comment
+                id={data.id}
+                parentId={data.parentId}
+                createdBy={data.createdBy}
+                createdAt={data.createdAt}
+                email={data.email}
+                html={data.html}
+                answers={data.answers}
+                thePost={thePost}
+                last={i == comments.length-1}
             />
-
-            <!-- Answers -->
-            {data.answers && (
-                <>
-                <div class="mt-4"></div>
-                {data.answers.map((ansData: { id: string | null | undefined; parentId: number | null | undefined; createdBy: { fullName: string; }; createdAt: Date; email: unknown; html: any; answers: object | null | undefined}, i: number) => (
-                    <>
-                    <div class="ml-8 comment relative" id={ansData.id}>
-                        <span>
-                        {thePost && thePost.data.author.includes(ansData.createdBy.fullName) ? (
-                            <span title="Author">
-                                <Icon aria-hidden="true" class="inline text-accent mb-1" focusable="false" name="mdi:account-tie" />
-                                <div class="inline-block ml-[-0.5rem] mb-[-0.25rem] w-[0.5rem] h-[0.5rem] bg-bgColor rounded-full"></div>
-                                <Icon aria-hidden="true" class="inline text-accent mt-1 ml-[-0.75rem]" focusable="false" name="mdi:feather" />
-                                <!-- mdi:card-account-details-star -->
-                            </span>
-                            <h4 id="name" class="inline text-accent">{ansData.createdBy.fullName}</h4>
-                        ):(
-                            <h4 id="name" class="inline text-textColor">{ansData.createdBy.fullName}</h4>
-                        )}
-                        <FormattedDate class="text-sm date inline" date={ansData.createdAt} dateTimeOptions={dateTimeOptions}/></span>
-                        {ansData.email && (<span id="email">{ansData.email}</span>)}
-                        <hr class="m-0 mb-3 dark:border-gray-800" />
-                        <div class="message">
-                            <span
-                                set:html={ansData.html}
-                            />
-                        </div>
-                        {(i < data.answers.length-1) && (
-                            <hr class="m-0 mb-3 border-solid dark:border-gray-800" />
-                        )}
-                    </div>
-                    </>
-                ))}
-                </>
-            )}
-
-            <div class="mt-4 mb-4">
-                {(i < comments.length-1) && (
-                    <hr class="m-0 border-gray-300 dark:border-gray-700 border-solid"/>
-                )}
-            </div>
-            </>
+            
         ))}
     </ul>
 </div>
-
-<!--                 <a class="text-sm">svara</a>
- -->
