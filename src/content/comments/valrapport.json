@@ -1,7 +1,7 @@
 {
   "comments": [
     {
-      "id": null,
+      "id": 3,
       "parentId": null,
       "createdAt": "Tue Nov 05 2024 17:37:00 GMT+0100 (centraleuropeisk normaltid)",
       "createdBy": {
@@ -10,7 +10,7 @@
       "html": "Starta en kickstarter för att kunna skicka tillbaka Glenn!!"
     },
     {
-      "id": null,
+      "id": 2,
       "parentId": null,
       "createdAt": "Tue Nov 05 2024 17:04:44 GMT+0100 (centraleuropeisk normaltid)",
       "createdBy": {
@@ -19,7 +19,7 @@
       "html": "Svar till Storbeundrarefrånsenegal: Jag ska se om det går att rensa lite i kalandern, det är mycket nu. Många som vill ha mig. Jag var nyligen tvungen att tacka nej till ett välkänt internationellt magasin som ville skicka mig till Bali för reportage om Bali time chamber"
     },
     {
-      "id": null,
+      "id": 1,
       "parentId": null,
       "createdAt": "Tue Nov 05 2024 16:32:58 GMT+0100 (centraleuropeisk normaltid)",
       "createdBy": {

@@ -1,7 +1,7 @@
 {
   "comments": [
     {
-      "id": null,
+      "id": 5,
       "parentId": null,
       "createdAt": "Tue Nov 05 2024 11:54:04 GMT+0100 (centraleuropeisk normaltid)",
       "createdBy": {
@@ -10,7 +10,7 @@
       "html": "Fick upp Jude Bellingham på raya"
     },
     {
-      "id": null,
+      "id": 4,
       "parentId": null,
       "createdAt": "Tue Nov 05 2024 11:53:33 GMT+0100 (centraleuropeisk normaltid)",
       "createdBy": {
@@ -19,7 +19,7 @@
       "html": "Jude Bellingham är inte ocool. Han är skisnygg i the talented mr Ripley."
     },
     {
-      "id": null,
+      "id": 3,
       "parentId": null,
       "createdAt": "Thu Oct 03 2024 21:43:08 GMT+0200 (centraleuropeisk sommartid)",
       "createdBy": {
@@ -28,7 +28,7 @@
       "html": "Svar till anonym:\r\nSvensk, tysk, dansk, spansk"
     },
     {
-      "id": null,
+      "id": 2,
       "parentId": null,
       "createdAt": "Thu Oct 03 2024 21:11:02 GMT+0200 (centraleuropeisk sommartid)",
       "createdBy": {
@@ -37,7 +37,7 @@
       "html": "Vilket lands öl är att föredra då?"
     },
     {
-      "id": null,
+      "id": 1,
       "parentId": null,
       "createdAt": "Thu Oct 03 2024 17:44:54 GMT+0200 (centraleuropeisk sommartid)",
       "createdBy": {

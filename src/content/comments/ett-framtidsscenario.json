@@ -1,16 +1,6 @@
 {
   "comments": [
     {
-      "id": "-1458212101",
-      "parentId": "-21606732275",
-      "createdAt": "Fri Mar 07 2025 16:45:30 GMT+0100 (centraleuropeisk normaltid)",
-      "createdBy": {
-        "fullName": "hej en glad banen"
-      },
-      "answers": [],
-      "html": "Ja dåså! :)"
-    },
-    {
       "id": 5,
       "parentId": null,
       "createdAt": "Fri Feb 21 2025 13:00:01 GMT+0100 (centraleuropeisk normaltid)",
@@ -45,93 +35,6 @@
         "fullName": "En glad banan"
       },
       "html": "Låter som ett mycket möjligt framtidsscenario, <i>men</i> funkade fattig fattig man-tricket fyra gånger?! Måste veta namnet på denna bar",
-      "answers": [
-        {
-          "id": "-2160672275",
-          "parentId": "2",
-          "createdAt": "Sun Mar 02 2025 01:19:14 GMT+0100 (centraleuropeisk normaltid)",
-          "createdBy": {
-            "fullName": "hej en glad banen"
-          },
-          "answers": [
-            {
-              "id": 216012672275,
-              "parentId": -2160672275,
-              "createdAt": "Thu Feb 20 2025 20:37:10 GMT+0100 (centraleuropeisk normaltid)",
-              "createdBy": {
-                "fullName": "En ledsen banan"
-              },
-              "html": "Det kan inte stämma. Säg det riktiga!!",
-              "answers": [
-                {
-                  "id": "-21606732275",
-                  "parentId": "216012672275",
-                  "createdAt": "Sun Mar 02 2025 01:19:14 GMT+0100 (centraleuropeisk normaltid)",
-                  "createdBy": {
-                    "fullName": "HannaKatt"
-                  },
-                  "answers": [
-                    {
-                      "id": "-1458212101",
-                      "parentId": "-21606732275",
-                      "createdAt": "Fri Mar 07 2025 16:45:30 GMT+0100 (centraleuropeisk normaltid)",
-                      "createdBy": {
-                        "fullName": "hej en glad banen"
-                      },
-                      "answers": [],
-                      "html": "Ja dåså! :)"
-                    },
-                    {
-                      "id": "-1458212101",
-                      "parentId": "-21606732275",
-                      "createdAt": "Fri Mar 07 2025 16:45:30 GMT+0100 (centraleuropeisk normaltid)",
-                      "createdBy": {
-                        "fullName": "hej en glad banen"
-                      },
-                      "answers": [],
-                      "html": "Ja dåså! :)"
-                    }
-                  ],
-                  "html": "bar total"
-                }
-              ]
-            }
-          ],
-          "html": "bar total"
-        },
-        {
-          "id": 216067227512,
-          "parentId": 2,
-          "createdAt": "Thu Feb 20 2025 19:37:10 GMT+0100 (centraleuropeisk normaltid)",
-          "createdBy": {
-            "fullName": "Kattismålass"
-          },
-          "html": "Blev pirrig av att läsa din kommentar",
-          "answers": [
-            {
-              "id": "-16054646979",
-              "parentId": "216067227512",
-              "createdAt": "Fri Mar 07 2025 17:24:38 GMT+0100 (centraleuropeisk normaltid)",
-              "createdBy": {
-                "fullName": "katt"
-              },
-              "answers": [
-                {
-                  "id": "10467860369",
-                  "parentId": "-16054646979",
-                  "createdAt": "Fri Mar 07 2025 17:27:26 GMT+0100 (centraleuropeisk normaltid)",
-                  "createdBy": {
-                    "fullName": "hej i andra led"
-                  },
-                  "answers": [],
-                  "html": "jed"
-                }
-              ],
-              "html": "hej katt"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": 1,

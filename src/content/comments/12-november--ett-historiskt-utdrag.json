@@ -1,43 +1,47 @@
 {
   "comments": [
     {
-      "id": null,
-      "parentId": null,
-      "createdAt": "Tue Nov 12 2024 22:17:57 GMT+0100 (centraleuropeisk normaltid)",
-      "createdBy": {
-        "fullName": "Lady Palmer"
-      },
-      "html": "Svar till Lady dalmer: Pseudonymen förblir en pseudonym. Allt gott så länge."
-    },
-    {
-      "id": null,
-      "parentId": null,
-      "createdAt": "Tue Nov 12 2024 22:15:12 GMT+0100 (centraleuropeisk normaltid)",
-      "createdBy": {
-        "fullName": "Lady Palmer"
-      },
-      "html": "Svar till PalmerPantern: Inga uppgifter"
-    },
-    {
-      "id": null,
+      "id": 3,
       "parentId": null,
       "createdAt": "Tue Nov 12 2024 13:47:38 GMT+0100 (centraleuropeisk normaltid)",
       "createdBy": {
         "fullName": "Lady dalmer "
       },
-      "html": "Vem är lady palmer"
+      "html": "Vem är lady palmer",
+      "answers": [
+        {
+            "id": 5,
+            "parentId": 3,
+            "createdAt": "Tue Nov 12 2024 22:17:57 GMT+0100 (centraleuropeisk normaltid)",
+            "createdBy": {
+              "fullName": "Lady Palmer"
+            },
+            "html": "Pseudonymen förblir en pseudonym. Allt gott så länge."
+        }
+      ]
     },
     {
-      "id": null,
+      "id": 2,
       "parentId": null,
       "createdAt": "Tue Nov 12 2024 10:00:42 GMT+0100 (centraleuropeisk normaltid)",
       "createdBy": {
         "fullName": "PalmerPantern"
       },
-      "html": "Hur förhåller sig antipåven till antikåren"
+      "html": "Hur förhåller sig antipåven till antikåren",
+      "answers": [
+        {
+            "id": 4,
+            "parentId": 2,
+            "createdAt": "Tue Nov 12 2024 22:15:12 GMT+0100 (centraleuropeisk normaltid)",
+            "createdBy": {
+              "fullName": "Lady Palmer"
+            },
+            "html": "Inga uppgifter"
+        }
+      ]
     },
     {
-      "id": null,
+      "id": 1,
       "parentId": null,
       "createdAt": "Tue Nov 12 2024 07:44:43 GMT+0100 (centraleuropeisk normaltid)",
       "createdBy": {
