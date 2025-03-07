@@ -277,13 +277,15 @@ const getNewComments = (existingComments, date, name, url, id, parentId, comment
 
   if (parentId) {
     // Add answer comments under their parent
-    existingComments = addAnswerUnderParentComment(existingComments, parentId);
+    existingComments = addAnswerUnderParentComment(existingComments, newComment, parentId);
+    return existingComments;
   }
 
+  // Add new comment to top
   return [newComment, ...existingComments];
 };
 
-function addAnswerUnderParentComment(commentsArr, parentId) {
+function addAnswerUnderParentComment (commentsArr, newComment, parentId) {
     for (let x in commentsArr) {
         if (commentsArr[x].id == parentId) {
             // Found the parent comment
@@ -294,7 +296,7 @@ function addAnswerUnderParentComment(commentsArr, parentId) {
         }
         else if (commentsArr[x].answers) {
             // Check answers recursively
-            commentsArr[x].answers = addUnderParent(commentsArr[x].answers, parentId);
+            commentsArr[x].answers = addAnswerUnderParentComment(commentsArr[x].answers, newComment, parentId);
         }
     }
     return commentsArr;
