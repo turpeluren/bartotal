@@ -19,11 +19,13 @@ Idag (eller kanske igår?? Idk, det är efter midnatt i min tidszon just nu, jag
 
 Idk, jag är så trött just nu.
 
-Jag vill verkligen sova, men jag måste avsluta det här inlägget först…
-#### Sjätte inlägget 15/03/2025:
+Jag vill verkligen sova, men jag måste avsluta det här blogginlägget först…
+
+---
+#### Sjunde inlägget 15/03/2025:
 Att älska är svårt när man inte vet hur.
 
-I eftermiddags var jag så fylld av bitterhet gentemot min bästa vän att jag funderade på att sluta prata med henne. Jag klandrade henne för att vara frånvarande, men hur kan jag egentligen beskylla någon för att ha ett liv? Hon har sitt eget att kämpa med, men hon försöker ändå träffa mig och mina syskon varje vecka. Jag vet att hon älskar mig, men ändå skar hennes frånvaro genom mig som Tre i svärd.
+I eftermiddags var jag så fylld av bitterhet gentemot min bästa vän att jag funderade på att sluta prata med henne. Jag klandrade henne för att vara frånvarande, men hur kan jag egentligen beskylla någon för att ha ett liv? Hon har sitt eget att kämpa med, men hon försöker ändå träffa mig och mina syskon varje vecka. Jag vet att hon älskar mig, men ändå skar hennes frånvaro genom mig som tre svärd.
 
 I eftermiddags, med all den ilskan kvar, öppnade jag dörren för henne. Hon log, men jag kunde inte. Hon såg att något var fel, och jag sa vagt "jag vet inte bror". Min tvilling kom, och jag hatade att hon alltid höll henne upptagen. I ett av mina uppbrottsscenarion som jag fantiserat bad jag henne dra åt helvet och bli kompis med min tvilling istället. Men jag sa inget, bara drog mig undan till mitt rum.
 
@@ -35,7 +37,8 @@ Jag ville säga till henne att jag tror jag har anknytningsproblem, men kunde in
 
 Nu kommer jag förmodligen sjunka igen. Men ingen av oss är väl egentligen att klandra. Hon kommer komma tillbaka, och vi kommer ses igen. Men depressionen finns kvar. Besten finns garanterat kvar.
 
-#### Femte inlägget 18/02/2025:
+---
+#### Sjätte inlägget 18/02/2025:
 Dagen var objektivt sett bra.
 
 Men jag har haft en ångestattack sedan imorse. Det började med världens mest idiotiska konversation, och sedan dess har jag försökt övertyga mig själv om att jag inte håller på att förlora förståndet. Att jag inte förfaller. Att hjärnan inte glider ifrån mig. Att detta bara är en episod och att allt kommer återgå till något som liknar normalt.
@@ -46,7 +49,8 @@ Men en ångestspiral är som en trasig skiva, och jag sitter fast i återuppspel
 
 Aaaaahh, jag skriver för mycket igen. Jag kommer ångra det här inlägget. Jag borde göra något lugnande nu. Hejdååå
 
-#### Fjärde inlägget 17/02/2025:
+---
+#### Femte inlägget 17/02/2025:
 Min pappa kom hem idag.
 
 Han brukar hälsa på oss en eller två gånger per år, men den här gången blir det en längre vistelse – en hel månad.
@@ -61,12 +65,14 @@ Men han är ingen främling. Han är bara någon jag måste lära känna om och 
 
 Och han är ganska chill. :)
 
-#### Trejde inlägget 19/12/2024:
+---
+#### Fjärde inlägget 19/12/2024:
 Förra söndagen besökte jag en indie-bokhandel som heter "Livraria Snob" i Lissabon. De hade massor av coola böcker och fanzines (ja, till och med fanzines!!) och andra sådana grejer, men vet du vad som var det värsta? De flesta böckerna var på portugisiska, och min immigrant-ass är fortfarande inte flytande i språket. Min förtvivlan var så enorm att den inte kunde uttryckas inom det engelska språkets begränsningar. Jag berättade det för killen som jobbade där (var han ägaren eller bara en anställd? idfk) och han svarade: "Åh kom igen, du lär dig säkert snabbt."...
 
 Men den där typen av ånger har alltid funnits där varje gång jag gått in i en bokhandel i Portugal.
 
-#### Andra inlägget 28/11/2024:
+---
+#### Tredje inlägget 28/11/2024:
 Hallå igen!
 
 Jag sitter fast i en kreativ blockering just nu, vilket suger lite extra eftersom jag precis började få tillbaka mitt självförtroende när det gäller konst och skapande. Men jag antar att jag bara är trött. Det borde bli bättre senare, hoppas jag.
@@ -75,15 +81,13 @@ Jag har redan gjort en skiss som jag tänkt dela på den här sidan, men jag må
 
 Jag hade ett fysik- och kemiprov idag också. Det värsta är att frågorna handlade om saker jag faktiskt pluggade innan, men jag glömde allt -_-
 
-Jag leker även med en ny berättelseidé. Att arbeta med den här kanske hjälper mig att få mer erfarenhet av att bygga upp en serie eller åtminstone utveckla en idé så att den blir något mer än bara en idé. Jag lovar dock inget om serien, eftersom det än så länge är mer av ett experiment.
+Jag leker även med en ny berättelseidé. Att arbeta med den här kanske hjälper mig att få mer erfarenhet av att bygga upp en serie eller åtminstone utveckla en idé så att den blir något mer än bara en idé. Jag lovar dock inget om serien, eftersom det än så länge är mer av ett experiment och baserad på en dröm.
 
 Det var allt för idag. ���� loggar ut.
 
-#### Första inlägget 15/11/2024:
-
-Jag har äntligen fått klart min dagbokssektion! (Hoppas jag, jag har inte kollat hur den ser ut i iframen än, så jag kommer nog att justera koden lite efter att jag skrivit det här inlägget...) Jag testade Bear Blog ett tag, men i slutändan fick jag inte samma glädje av att posta blogginlägg där som jag gjorde på min egen hemsida, så här är jag igen! Yippie!!
-
-Hur som helst, så uh, idag var ganska tråkig, tbh. Vi hade ingen skola eftersom det var en protest, och nu sitter jag bara framför datorn och dyker ner i mitt genetiska arv (ja, det där med räkorna) medan jag kodar den här sidan.
+---
+#### Andra inlägget 15/11/2024:
+Hej igen! uh, idag var ganska tråkig, tbh. Vi hade ingen skola eftersom det var en protest, och nu sitter jag bara framför datorn och dyker ner i mitt genetiska arv ifrån räkorna medan jag kodar den här sidan.
 
 Förresten var gårdagen riktigt dålig, speciellt kvällen. Jag hade en breakdown och känner mig fortfarande lite som skit efteråt. Jag är lite bättre nu, men ändå...
 
@@ -98,3 +102,23 @@ Och det var allt för idag, antar jag. Jag planerar att titta på min favorit-Gh
 ���� loggar ut.
 
 Ps: POM POKO ÄR MYCKET VÄRRE ÄN JAG MINNS, VAD I HELVETE-
+
+---
+#### Första inlägget 10/08/2024:
+Jag har äntligen fått klart min dagbokssektion! (Hoppas jag, jag har inte kollat hur den ser ut i iframen än, så jag kommer nog att justera koden lite efter att jag skrivit det här inlägget...) Jag testade Bear Blog ett tag, men i slutändan fick jag inte samma glädje av att posta blogginlägg där som jag gjorde på min egen hemsida, så här är jag igen! Yippie!!
+
+Inte för att nån kommer att läsa det.. Det är egentligen bara för att hålla mig själv sysselsatt. Jag blir för överväldigad av den verkliga världen.
+
+Det har gått två dagar nu. Eller tre? Jag vet inte. Det är så tyst här. Tyst på ett sätt som påminner mig om de första nätterna i Portugal, när jag fortfarande vaknade i panik och trodde att jag var kvar i Istanbul. När jag fortfarande trodde att jag kunde höra ljuden av protesterna, sirenerna, någon som ropade mitt namn.
+
+Men det här är en annan sorts tystnad. En som inte bryts av motorljud utanför fönstret eller av min mammas röst i köket. Det är en tystnad som ekar.
+
+Jag har inte hört något från henne. Ingen täckning, inget svar. Mina syskon är här, men vi pratar knappt. Vi bara väntar.
+
+Jag försöker att inte tänka på vad jag gjorde.
+
+Men jag vet.
+
+Jag vet.
+
+Och om hon aldrig hör av sig igen… så vet jag varför.
