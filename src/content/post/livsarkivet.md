@@ -111,14 +111,13 @@ Inte för att nån kommer att läsa det.. Det är egentligen bara för att håll
 
 Det har gått två dagar nu. Eller tre? Jag vet inte. Det är så tyst här. Tyst på ett sätt som påminner mig om de första nätterna i Portugal, när jag fortfarande vaknade i panik och trodde att jag var kvar i Istanbul. När jag fortfarande trodde att jag kunde höra ljuden av protesterna, sirenerna, någon som ropade mitt namn.
 
-Men det här är en annan sorts tystnad. En som inte bryts av motorljud utanför fönstret eller av min mammas röst i köket. Det är en tystnad som ekar.
+Men det här är en annan sorts tystnad. En som inte störs av motorljud utanför fönstret eller av min mammas röst i köket. Det är en högljudd tystnad som ekar i mitt huvud.
 
-Jag har inte hört något från henne. Ingen täckning, inget svar. Mina syskon är här, men vi pratar knappt. Vi bara väntar.
+Jag har inte hört något från min vän. Ingen täckning, inget svar. Mina syskon är här, men vi pratar knappt. Vi bara väntar.
 
 Jag försöker att inte tänka på vad jag gjorde.
 
 Men jag vet.
 
-Jag vet.
-
 Och om hon aldrig hör av sig igen… så vet jag varför.
+
