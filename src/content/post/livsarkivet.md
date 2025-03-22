@@ -93,9 +93,9 @@ Jag hade ett fysik- och kemiprov idag också. Det värsta är att frågorna hand
 
 Jag leker även med en ny berättelseidé. Att arbeta med den här kanske hjälper mig att få mer erfarenhet av att bygga upp en serie eller åtminstone utveckla en idé så att den blir något mer än bara en idé. Jag lovar dock inget om serien, eftersom det än så länge är mer av ett experiment baserad på andra människors liv.
 
-![ascii bunny :3](src/assets/204b98e96eb889fe2dfe9ffcf5b5b832.gif)
-
 Det var allt för idag. ���� loggar ut.
+
+![ascii bunny :3](src/assets/204b98e96eb889fe2dfe9ffcf5b5b832.gif)
 
 - - -
 
