@@ -101,7 +101,7 @@ Det var allt för idag. ���� loggar ut.
 
 #### Andra inlägget 15/11/2024:
 
-Hej igen! uh, idag var ganska tråkig, tbh. Vi hade ingen skola eftersom det var en protest, och nu sitter jag bara framför datorn och dyker ner i mitt genetiska arv ifrån räkorna medan jag kodar den här sidan.
+Hej igen! Uh, idag var ganska tråkig, tbh. Vi hade ingen skola eftersom det var en protest, och nu sitter jag bara framför datorn och dyker ner i mitt genetiska arv ifrån räkorna medan jag kodar den här sidan.
 
 Förresten var gårdagen riktigt dålig, speciellt kvällen. Jag hade en breakdown och känner mig fortfarande lite som skit efteråt. Jag är lite bättre nu, men ändå...
 
@@ -123,7 +123,7 @@ Ps: POM POKO ÄR MYCKET VÄRRE ÄN JAG MINNS, VAD I HELVETE-
 
 Jag har äntligen fått klart min dagbokssektion! (Hoppas jag, jag har inte kollat hur den ser ut i iframen än, så jag kommer nog att justera koden lite efter att jag skrivit det här inlägget...) Jag testade Bear Blog ett tag, men i slutändan fick jag inte samma glädje av att posta blogginlägg där som jag gjorde på min egen hemsida, så här är jag igen! Yippie!!
 
-Inte för att nån kommer att läsa det.. Det är egentligen bara för att hålla mig själv sysselsatt. Jag blir för överväldigad av den verkliga världen.
+Inte för att nån kommer att läsa det... Det är egentligen bara för att hålla mig själv sysselsatt. Jag blir för överväldigad av den verkliga världen.
 
 Det har gått två dagar nu. Eller tre? Jag vet inte. Det är så tyst här. Tyst på ett sätt som påminner mig om de första nätterna i Portugal, när jag fortfarande vaknade i panik och trodde att jag var kvar i Istanbul. När jag fortfarande trodde att jag kunde höra ljuden av protesterna, sirenerna, någon som ropade mitt namn.
 
