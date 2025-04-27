@@ -11,9 +11,9 @@ draft: false
 ---
 ###### I veckan har Virginia Giuffre hittats död. Hon var ett offer för Jeffrey Epsteins sexuella övergrepp och människohandel. Med förstahandsupplevelser av vad som pågick på bl.a. Pedophile Island samt en viktig roll som vittne i rättegångarna mot Jeffrey, Prince Andrew och Ghislaine Maxwell var hon ett stort hot mot de resterande odömda i Epstein-dokumenten.
 
-Likt hennes förövare begick Virginia självmord… sägs det. I december 2019, på dagen tre månader efter Epsteins död, offentliggjorde Giuffre att hon inte i någon form är självmordsbenägen och att om något skulle hända henne så skulle det vara utfört av någon med viljan att tysta henne [Bilaga 1]. I mars 2025, en månad innan sin död, var hon även med om en trafikolycka. En kollision med en skolbuss från vilken hon återhämtat sig endast en vecka innan hon ”tog sitt liv”.
+Likt hennes förövare begick Virginia självmord… sägs det. I december 2019, på dagen tre månader efter Epsteins död, offentliggjorde Giuffre att hon inte i någon form är självmordsbenägen och att om något skulle hända henne så skulle det vara utfört av någon med viljan att tysta henne [Bilaga 1][^1]. I mars 2025, en månad innan sin död, var hon även med om en trafikolycka. En kollision med en skolbuss från vilken hon återhämtat sig endast en vecka innan hon ”tog sitt liv”.
 
-Efter att jag läst det här tog jag såklart till internet och sökte mig runt. Omständigheterna kring hennes bortgång låter lite för suspekta för att vara sanna, nästan som att trafikolyckan var ett misslyckat försök till att ta hennes liv? Jag hamnade på Virginias Wikipediasida från vilken jag letade mig vidare till Epsteins. Bilden av hans ansikte som dök upp högt upp på sidan [Bilaga 2] påminde mig direkt om den bortgångne stjärnkocken Anthony Bourdains [Bilaga 3]. Efter att ha läst på om Epsteins död sökte jag därför upp Bourdain som även han, visade det sig, har gått bort genom att ta sitt liv. Hmmmmm...
+Efter att jag läst det här tog jag såklart till internet och sökte mig runt. Omständigheterna kring hennes bortgång låter lite för suspekta för att vara sanna, nästan som att trafikolyckan var ett misslyckat försök till att ta hennes liv? Jag hamnade på Virginias Wikipediasida från vilken jag letade mig vidare till Epsteins. Bilden av hans ansikte som dök upp högt upp på sidan [Bilaga 2][^2] påminde mig direkt om den bortgångne stjärnkocken Anthony Bourdains [Bilaga 3][^3]. Efter att ha läst på om Epsteins död sökte jag därför upp Bourdain som även han, visade det sig, har gått bort genom att ta sitt liv. Hmmmmm...
 
 Tre döda. Två stycken såg identiska ut och den tredje hade en tydlig koppling till en av de andra. För första gången på länge såg jag en konspiration. Lustigt nog var det Epsteins död 2019 som jag vill hävda blev slutet för den dåvarande ”konspirations-eran” som härjade. Sedan den 10 augusti 2019 hör man nämligen inte längre någon prata om chemtrails, illuminati eller flat earth. Lägligt, därför att en person med kopplingar till Epstein dör och att detta tänder nytt liv i konspirationsteoretikern inom mig.
 
@@ -35,14 +35,14 @@ Med detta sagt så uppmuntrar jag alla som läser detta att göra sin egen forsk
 
 ![Bilaga 1. Virginia Giuffres tweet från 2019 där hon förklarar att hon inte är självmordsbenägen.](src/assets/tweet.jpg)
 
-**Bilaga 1.** *Virginia Giuffres tweet från 2019 där hon förklarar att hon inte är självmordsbenägen.*
+[^1]**Bilaga 1.** *Virginia Giuffres tweet från 2019 där hon förklarar att hon inte är självmordsbenägen.*
 
 ![Bilaga 2. Jeffrey Epstein.](src/assets/ep.jpg)
 
-**Bilaga 2.** *Jeffrey Epstein.*
+[^2]**Bilaga 2.** *Jeffrey Epstein.*
 
 ![Bilaga 3. Anthony Bourdain.](src/assets/bour.jpg)
 
-**Bilaga 3.** *Anthony Bourdain.*
+[^3]**Bilaga 3.** *Anthony Bourdain.*
 
 ### OM JAG NÅGONSIN ÅTERFINNS DÖD ELLER SKADAD SÅ HAR DOM HITTAT MIG OCH STRAFFAT MIG FÖR ATT HA SAGT FÖR MYCKET.
