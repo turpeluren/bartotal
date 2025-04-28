@@ -2,7 +2,7 @@
 title: Anthrey Bourstein
 author:
   - ANGEL
-publishDate: 27 Apr 2025
+publishDate: 28 Apr 2025
 description: 2018, 2019 och 2025, tre stycken självmord som tycks ha en koppling
 coverImage:
   src: src/assets/untitled.webp
