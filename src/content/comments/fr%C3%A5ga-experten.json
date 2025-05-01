@@ -7,7 +7,19 @@
       "createdBy": {
         "fullName": "Anonym "
       },
-      "html": "Viktig och belysande text. Mer modig journalistik!"
+      "html": "Viktig och belysande text. Mer modig journalistik!",
+      "answers": [
+        {
+          "id": "12996339512",
+          "parentId": "1",
+          "createdAt": "Thu May 01 2025 20:40:16 GMT+0200 (Central European Summer Time)",
+          "createdBy": {
+            "fullName": "Går det"
+          },
+          "answers": [],
+          "html": "att lämna ett svar?"
+        }
+      ]
     }
   ]
 }
