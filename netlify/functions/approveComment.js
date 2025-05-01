@@ -263,7 +263,7 @@ const getExistingComments = existingJson => {
 const getNewComments = (existingComments, date, name, url, id, parentId, comment) => {
   let newComment = {
     id: id,
-    parentId: parentId,
+    //parentId: parentId,
     createdAt: date,
     createdBy: { fullName: name },
     answers: [],
@@ -275,10 +275,10 @@ const getNewComments = (existingComments, date, name, url, id, parentId, comment
 
   newComment.html = comment;
 
-  if (parentId) {
+  if (parentId != 0) {
+    newComment.parentId = parentId;
     // Add answer comments under their parent
-    existingComments = addAnswerUnderParentComment(existingComments, newComment, parentId);
-    return existingComments;
+    return addAnswerUnderParentComment(existingComments, newComment, parentId);
   }
 
   // Add new comment to top
