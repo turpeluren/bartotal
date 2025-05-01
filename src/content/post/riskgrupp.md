@@ -13,17 +13,17 @@ draft: false
 ---
 Riskgrupp 16 väntar på att få sin behandling,
 
-De lider stor risk att drabbas av arbetslöshet,
+de lider stor risk att drabbas av arbetslöshet,
 
-De måste genomgå en procedur!
+de måste genomgå en procedur!
 
-MINST ett gapskratt om dagen i 5-6 veckor (gärna så det så det kommer tårar).
+MINST ett gapskratt om dagen i 5-6 veckor (gärna så det kommer tårar).
 
 Therefore, I now turn to thee, my beloved scharlakansfeber.
 
 Öppna inte påskägget förrän du vet att det innehåller en noggrant utvald godisblandning, 
 
-Ett öppnat ägg kan inte returneras och kommer omhändertas vid närmsta tullstation.
+ett öppnat ägg kan inte returneras och kommer omhändertas vid närmsta tullstation.
 
 Placera därför snälla ut alla godisarna på ett sådant sätt att jag leds bort från denna förfärliga planet,
 
@@ -31,7 +31,7 @@ gärna ut i rymden.
 
 I rymden kan ingen höra dig gapskratta och behandlingen blir därför meningslös,
 
-arbetslösheten blir obotlig, alla kan leva lyckliga i harmoni.
+arbetslösheten blir obotlig och alla kan leva lyckliga i harmoni.
 
 Du slipper klippa av dina fingrar,
 
