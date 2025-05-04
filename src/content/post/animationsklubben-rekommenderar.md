@@ -8,6 +8,9 @@ tags:
   - animationsklubben
   - folkbildning
   - lista
+coverImage:
+  src: src/assets/marshall-rekommenderar.png
+  alt: Animationsklubben rekommenderar
 largeCoverImage: false
 draft: false
 ---
@@ -25,7 +28,7 @@ Med story och röstskådespelare direkt från gatorna i 90-talets New York finns
 
 ![Scavengers Reign](src/assets/sr2.jpeg)
 
-Från en studio grundad av ingen mindre än Downtowns skapare, Chris Prynoski, kommer en brottsligt okänd serie som är allt vi någonsin kunnat önska oss. En grupp rymdfarare blir strandade på en planet med otrolig biologisk mångfald. Animationen av intrikata biologiska processer platsar med de bästa av "trippy psychedelic animations" eller BBC's Planet Earth. Teknik och biologi vävs samman under en vördnad för naturens obevekliga kraft med en estetik som skriker solarpunk. Att inte heller Scavengers Reign får en andra säsong är ytterligare vittnesbörd om att streaming-jättarna, som bollat rättigheterna mellan sig, inte vill vårt bästa. Se därför Scavengers Reign på Dopebox:
+Från en studio grundad av ingen minrde än Downtowns skapare, Chris Prynoski, kommer en brottsligt okänd serie som är allt vi någonsin kunnat önska oss. En grupp rymdfarare blir strandade på en planet med otrolig biologisk mångfald. Animationen av intrikata biologiska processer platsar med de bästa av "trippy psychedelic animations" eller BBC's Planet Earth. Teknik och biologi vävs samman under en vördnad för naturens obevekliga kraft med en estetik som skriker solarpunk. Att inte heller Scavengers Reign får en andra säsong är ytterligare vittnesbörd om att streaming-jättarna, som bollat rättigheterna mellan sig, inte vill vårt bästa. Se därför Scavengers Reign på Dopebox:
 
 * Dopebox: https://dopebox.to/watch-tv/watch-scavengers-reign-online-hd-101734.10022227
 
@@ -38,6 +41,7 @@ För ett lyckligt slut kör vi en serie som faktiskt förnyas för säsong 2 av 
 * (HBO) Max: https://play.max.com/show/eaa21376-a54d-4245-95d6-a86dce6313c8
 * Dopebox: https://dopebox.to/watch-tv/watch-common-side-effects-online-hd-120265.10920814
 
+
 <div class="p-4 mt-16 rounded-md border-4 border-accent">
 <h2 class="mt-2"> 🏴‍☠️ Segla de sju haven </h2>
 
@@ -46,5 +50,4 @@ Eftersom länkarna ovan någon gång kommer att sluta fungera, är det bäst att
 <h2> ✋ Reklam, nej tack </h2>
 
 För att slippa invasiv reklam och pop ups rekommenderas att använda Firefox med tillägget [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), eller om du vägrar lämna onda Google Chrome finns där [uBlock Origin Light](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?pli=1).
-
 </div>
