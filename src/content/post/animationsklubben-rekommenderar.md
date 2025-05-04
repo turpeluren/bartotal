@@ -36,10 +36,15 @@ Från en studio grundad av ingen minrde än Downtowns skapare, Chris Prynoski, k
 För ett lyckligt slut kör vi en serie som faktiskt förnyas för säsong 2 av Adult Swim. Common Side Effects tacklar läkemedelsbranchen och vårt kollektiva medicinerande i anda av Luigi Mangione möter Terrence McKenna. I denna konspirationsthriller får vi följa Marshall som upptäckt "the Blue Angel Mushroom" genom snåriga intressekonflikter och sinnesbändande upplevelser. Likheter i art-style med Scavengers Reign kan bero på att serierna delar Joseph Bennet som skapare. Streckkolla på:
 
 * (HBO) Max: https://play.max.com/show/eaa21376-a54d-4245-95d6-a86dce6313c8
-* Dopebox: https://dopebox.to/watch-tv/watch-common-side-effects-online-hd-120265.10920814## 🏴‍☠️ Segla de sju haven
+* Dopebox: https://dopebox.to/watch-tv/watch-common-side-effects-online-hd-120265.10920814
+
+
+<div class="p-4 mt-16 rounded-md border-4 border-accent">
+<h2 class="mt-2"> 🏴‍☠️ Segla de sju haven </h2>
 
 Eftersom länkarna ovan någon gång kommer att sluta fungera, är det bäst att jag lämnar lite visdom för de oinitierade. När din bästa streamingsida slutar fungera är det bara att välja en lämplig ersättare från den kurerade listan med streamingsidor i r/piracy:s [megatråd](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv/#wiki_.D83D.DCD1_.279C_streaming).
 
-## ✋ Reklam, nej tack
+<h2> ✋ Reklam, nej tack </h2>
 
 För att slippa invasiv reklam och pop ups rekommenderas att använda Firefox med tillägget [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), eller om du vägrar lämna onda Google Chrome finns där [uBlock Origin Light](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?pli=1).
+</div>
