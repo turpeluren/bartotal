@@ -28,7 +28,7 @@ Med story och röstskådespelare direkt från gatorna i 90-talets New York finns
 
 ![Scavengers Reign](src/assets/sr2.jpeg)
 
-Från en studio grundad av ingen minrde än Downtowns skapare, Chris Prynoski, kommer en brottsligt okänd serie som är allt vi någonsin kunnat önska oss. En grupp rymdfarare blir strandade på en planet med otrolig biologisk mångfald. Animationen av intrikata biologiska processer platsar med de bästa av "trippy psychedelic animations" eller BBC's Planet Earth. Teknik och biologi vävs samman under en vördnad för naturens obevekliga kraft med en estetik som skriker solarpunk. Att inte heller Scavengers Reign får en andra säsong är ytterligare vittnesbörd om att streaming-jättarna, som bollat rättigheterna mellan sig, inte vill vårt bästa. Se därför Scavengers Reign på Dopebox:
+Från en studio grundad av ingen mindre än Downtowns skapare, Chris Prynoski, kommer en brottsligt okänd serie som är allt vi någonsin kunnat önska oss. En grupp rymdfarare blir strandade på en planet med otrolig biologisk mångfald. Animationen av intrikata biologiska processer platsar med de bästa av "trippy psychedelic animations" eller BBC's Planet Earth. Teknik och biologi vävs samman under en vördnad för naturens obevekliga kraft med en estetik som skriker solarpunk. Att inte heller Scavengers Reign får en andra säsong är ytterligare vittnesbörd om att streaming-jättarna, som bollat rättigheterna mellan sig, inte vill vårt bästa. Se därför Scavengers Reign på Dopebox:
 
 * Dopebox: https://dopebox.to/watch-tv/watch-scavengers-reign-online-hd-101734.10022227
 
@@ -36,7 +36,7 @@ Från en studio grundad av ingen minrde än Downtowns skapare, Chris Prynoski, k
 
 ![Common Side Effects](src/assets/blue-angel.webp)
 
-För ett lyckligt slut kör vi en serie som faktiskt förnyas för säsong 2 av Adult Swim. Common Side Effects tacklar läkemedelsbranchen och vårt kollektiva medicinerande i anda av Luigi Mangione möter Terrence McKenna. I denna konspirationsthriller får vi följa Marshall som upptäckt "the Blue Angel Mushroom" genom snåriga intressekonflikter och sinnesbändande upplevelser. Likheter i art-style med Scavengers Reign kan bero på att serierna delar Joseph Bennett som skapare. Streckkolla på:
+För ett lyckligt slut kör vi en serie som faktiskt förnyas för säsong 2 av Adult Swim. Common Side Effects tacklar läkemedelsbranschen och vårt kollektiva medicinerande i anda av Luigi Mangione möter Terrence McKenna. I denna konspirationsthriller får vi följa Marshall som upptäckt "the Blue Angel Mushroom" genom snåriga intressekonflikter och sinnesbändande upplevelser. Likheter i art-style med Scavengers Reign kan bero på att serierna delar Joseph Bennett som skapare. Streckkolla på:
 
 * (HBO) Max: https://play.max.com/show/eaa21376-a54d-4245-95d6-a86dce6313c8
 * Dopebox: https://dopebox.to/watch-tv/watch-common-side-effects-online-hd-120265.10920814
