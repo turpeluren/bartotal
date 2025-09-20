@@ -1,5 +1,5 @@
 ---
-title: Har vi en ny kristibrud(ar)?
+title: Har vi en ny kristi brud(ar)?
 author:
   - Taylor Swift
 publishDate: 20 Sep 2025
