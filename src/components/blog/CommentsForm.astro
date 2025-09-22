@@ -98,7 +98,7 @@ const {
     document.querySelector(formId+" #date").value=new Date().toString().replaceAll("+", "%2B");
 
     // Append moderation data
-    var moderationLink = "https://bartotal.digital/approveComment?";
+    var moderationLink = "https://bartotal.se/approveComment?";
     moderationLink += "slug=" + document.querySelector(formId+" #slug").value;
     moderationLink += "&name=" + document.querySelector(formId+" #name").value;
     moderationLink += "&email=" + document.querySelector(formId+" #email").value;
