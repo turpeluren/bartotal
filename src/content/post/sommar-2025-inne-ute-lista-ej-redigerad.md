@@ -11,7 +11,7 @@ draft: false
 ---
 **Inne/ute 2025 sommaren**
 
-Inne
+**Inne**
 
 Fruit leather 
 
@@ -39,10 +39,7 @@ Racketen
 
 Toast
 
-
-
-
-Ute 
+**Ute** 
 
 Kikärtor 
 
