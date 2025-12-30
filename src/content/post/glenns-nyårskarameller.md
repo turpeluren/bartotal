@@ -20,3 +20,4 @@ draft: false
 4. 5 April (dag med bra drag, Göteborg)
 5. Hotpot mayhem (middag)
 6. Avantgardet (konsert, Slaktkyrkan)
+7. Tobias Heintz trivela (assist till Max Fenger mot Degerfors IF)
