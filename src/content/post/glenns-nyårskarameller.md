@@ -9,10 +9,10 @@ tags:
 ogImage: " "
 coverImage:
   src: src/assets/img_4902.jpg
-largeCoverImage: true
+largeCoverImage: false
 draft: false
 ---
-**Nedan följer en lista över de verk som – på gott och ont – varit viktigast för 2026.** 
+**Nedan följer en lista över de verk som – på gott och ont – varit viktigast för 2026.** **Verken listas utan inbördes ordning.**
 
 1. "Under min Condecoera hoppades jag mycket på Le Pain Francais" (citat från kompis, tillika skribent på Bar Total)
 2. Pascal (konsert, Debaser)
