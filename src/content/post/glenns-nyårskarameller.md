@@ -9,7 +9,7 @@ tags:
 ogImage: " "
 coverImage:
   src: src/assets/img_4902.jpg
-largeCoverImage: false
+largeCoverImage: true
 draft: false
 ---
 **Nedan följer en lista över de verk som – på gott och ont – varit viktigast för 2026.** **Verken listas utan inbördes ordning.**
