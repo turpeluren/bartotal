@@ -6,7 +6,10 @@ publishDate: 31 Dec 2025
 description: Det viktigaste 2026
 tags:
   - Lista
-largeCoverImage: false
+ogImage: " "
+coverImage:
+  src: src/assets/img_4902.jpg
+largeCoverImage: true
 draft: false
 ---
 **Nedan följer en lista över de fem verk som – på gott och ont – varit viktigast för 2026.** 
