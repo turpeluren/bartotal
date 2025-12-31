@@ -12,7 +12,7 @@ coverImage:
 largeCoverImage: true
 draft: false
 ---
-**Nedan följer en lista över de verk som – på gott och ont – varit viktigast för mig 2026.** **Verken listas utan inbördes ordning.**
+**Nedan följer en lista över de verk som – på gott och ont – gjort 2025 till 2025.** **Verken listas utan inbördes ordning.**
 
 1. "JA NU: Kärlekslycka i Sälen – Här gifter sig Micael Bydén och Linda Staaf" (pushnotis, Expressen)
 2. What Was That - Lorde (låt)
