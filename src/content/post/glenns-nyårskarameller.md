@@ -9,7 +9,7 @@ tags:
 ogImage: " "
 coverImage:
   src: src/assets/img_4902.jpg
-largeCoverImage: true
+largeCoverImage: false
 draft: false
 ---
 **Nedan följer en lista över de verk som – på gott och ont – varit mest tongivande 2025.** **Verken listas utan inbördes ordning.**
