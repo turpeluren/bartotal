@@ -3,7 +3,7 @@ title: Glenns nyårskarameller
 author:
   - Glenn Beck
 publishDate: 31 Dec 2025
-description: Det viktigaste 2026
+description: Det viktigaste 2025
 tags:
   - Lista
 ogImage: " "
@@ -12,7 +12,7 @@ coverImage:
 largeCoverImage: true
 draft: false
 ---
-**Nedan följer en lista över de verk som – på gott och ont – gjort 2025 till 2025.** **Verken listas utan inbördes ordning.**
+**Nedan följer en lista över de verk som – på gott och ont – varit mest tongivande 2025.** **Verken listas utan inbördes ordning.**
 
 1. "JA NU: Kärlekslycka i Sälen – Här gifter sig Micael Bydén och Linda Staaf" (pushnotis, Expressen)
 2. What Was That - Lorde (låt)
