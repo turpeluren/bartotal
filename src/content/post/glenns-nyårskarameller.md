@@ -19,7 +19,7 @@ draft: false
 3. Tobias Heintz trivela (assist till Max Fenger mot Degerfors IF)
 4. Pascal (konsert, Debaser)
 5. "Under min Condeco-era hoppades jag mycket på Le Pain Francais" (citat från kompis, tillika skribent på Bar Total)
-6. Fun - Deki Alem (låt)
+6. Sharp Shooter - Sylvie's Head (EP)
 7. Avantgardet (konsert, Slaktkyrkan)
 8. 5 April (dygn)
 9. Hotpot mayhem (middag)
