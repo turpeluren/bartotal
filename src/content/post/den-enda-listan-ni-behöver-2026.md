@@ -11,7 +11,7 @@ coverImage:
 largeCoverImage: false
 draft: false
 ---
-Trendspaningarna för sommaren 2025 publicerades förra veckan men fick tyvärr stark kritik för att vara irrelevant, utdaterad m.m. Den här gången är vi snabbare på bollen. Här är Bar totals officiella inne- och utelista för 2026. Skriven på självaste nyårsafton. 
+Trendspaningarna för sommaren 2025 publicerades förra veckan men fick tyvärr stark kritik för att vara irrelevanta, utdaterade m.m. Den här gången är vi snabbare på bollen. Här är Bar totals officiella inne- och utelista för 2026. Skriven på självaste nyårsafton. 
 
 Inne:
 - Bröst. Små eller stora, does NOT MATTER! Urringat som fan
