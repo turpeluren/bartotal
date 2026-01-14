@@ -1,5 +1,7 @@
 ---
 title: Varför Cameron Winter egentligen är Bob Dylan.
+author:
+  - Slobodan
 publishDate: 14 Jan 2026
 description: En tanke bara
 coverImage:
