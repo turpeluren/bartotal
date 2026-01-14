@@ -5,7 +5,7 @@ author:
 publishDate: 14 Jan 2026
 description: En tanke bara
 coverImage:
-  src: https://media.gq.com/photos/693c5692f6b1f3ce484901e6/master/w_1600%2Cc_limit/2512-GQ-CameronWinterCarnegie-286.jpg
+  src: src/assets/winter.webp
 largeCoverImage: false
 draft: false
 ---
