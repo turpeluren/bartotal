@@ -5,7 +5,7 @@ author:
 publishDate: 14 Jan 2026
 description: En tanke bara
 coverImage:
-  src: src/assets/winter.webp
+  src: src/assets/img_9437.jpeg
 largeCoverImage: false
 draft: false
 ---
