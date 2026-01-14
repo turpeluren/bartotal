@@ -27,10 +27,4 @@ Det är nästan som en väckelsemässa, och Winter predikar. Under låtarna är 
 >
 > *It's not here anymore.*
 
-
-
-
-
-
-
-Efter konserten reser sig Winter från pianostolen, tar kort emot applåderna och går ut ur samma dörr som han kom in ifrån. Klippen visar människor som gråter, som begraver ansiktet i händerna, de är tagna av vad de just upplevt. Här någonstans klickar det för mig, Cameron Winter är vår Bob Dylan. En låtskrivare som fångat publiken och kritikernas uppmärksamhet, framstår som blyg och märklig i intervjuer och hyllas som rockens räddare. Frågan är om han omfamnar rollen som *the voice of his generation*, eller om han föraktar vad andra har gjort honom till. I sanningens namn önskar en liten del av mig på det sistnämnda.
+Efter konserten reser sig Winter från pianostolen, tar kort emot applåderna och går ut ur samma dörr som han kom in ifrån. Klippen visar människor som gråter, som begraver ansiktet i händerna, de är tagna av vad de just upplevt. Här någonstans klickar det för mig, Cameron Winter är vår Bob Dylan. En låtskrivare som fångat publiken och kritikernas uppmärksamhet, framstår som blyg och märklig i intervjuer och hyllas som rockens räddare. Frågan är om han omfamnar rollen som *the voice of his generation*, eller om han föraktar vad andra har gjort honom till. I sanningens namn hoppas en liten del av mig på det sistnämnda.
