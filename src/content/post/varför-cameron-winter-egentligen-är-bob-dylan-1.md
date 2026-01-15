@@ -6,7 +6,7 @@ publishDate: 14 Jan 2026
 description: En tanke bara
 coverImage:
   src: src/assets/img_9437.jpeg
-largeCoverImage: true
+largeCoverImage: false
 draft: false
 ---
 **Ja, jag vet att tusentals killar, på tusentals platser, har tråkat ut tusentals av sina flickvänner, med att likna Cameron Winter vid Bob Dylan … och detta är inget undantag.**
