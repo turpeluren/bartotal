@@ -10,7 +10,7 @@ tags:
 coverImage:
   src: src/assets/9b310d84b764095b65501579a2f6869d632ecb72036bd2ed99b8c90a6882adfd.gif
   alt: Partiet i fråga.
-largeCoverImage: false
+largeCoverImage: true
 draft: false
 ---
 **Ivan delar med sig av ett särskilt parti han spelade på Tsvetsnojboulevarden (Цветной бульвар)**
