@@ -25,8 +25,9 @@ draft: false
 
 *Nc6 Svart försvarar e5-bonden och utvecklar samtidigt en pjäs – helt korrekt i öppningen.*
 
-*d5 Ivan stänger centrum och vinner terräng. Det här draget sätter svart under tidig press.
-Nd4 Blunder! Svart hoppar in i centrum utan tillräcklig beräkning och lämnar springaren taktiskt sårbar.*
+*d5 Ivan stänger centrum och vinner terräng. Det här draget sätter svart under tidig press.*
+
+*Nd4 Blunder! Svart hoppar in i centrum utan tillräcklig beräkning och lämnar springaren taktiskt sårbar.*
 
 *c3 Ett mycket starkt drag: Ivan förbereder d4–d5-strukturen och hotar nu konkret att vinna springaren.*
 
