@@ -13,9 +13,7 @@ coverImage:
 largeCoverImage: true
 draft: false
 ---
-**Ivan delar med sig av ett särskilt parti han spelade på Tsvetsnojboulevarden (Цветной бульвар)**
-
-**i Moskva, vintern 1950. Ivan spelade som vit. Snön yrde. Mannen som spelade svart är i dag avliden.**
+**Ivan delar med sig av ett särskilt parti han spelade på Tsvetsnojboulevarden (Цветной бульвар) i Moskva, vintern 1950. Ivan spelade som vit. Snön yrde. Mannen som spelade svart är i dag avliden.**
 
 **Såhär gick det till:** 
 
