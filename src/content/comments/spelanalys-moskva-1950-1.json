@@ -6,7 +6,18 @@
       "createdBy": {
         "fullName": "Trevor Sabini"
       },
-      "answers": [],
+      "answers": [
+        {
+          "id": "-24167402017",
+          "createdAt": "Thu Jan 15 2026 20:13:20 GMT+0100 (centraleuropeisk normaltid)",
+          "createdBy": {
+            "fullName": "Ivan"
+          },
+          "answers": [],
+          "html": "Tack Trevor Sabini. Säg till om du någon gång blir sugen på ett parti. ",
+          "parentId": "95173189070"
+        }
+      ],
       "html": "Instruktivt parti, Ivan! Ett riktigt läroboksexempel på en central springarfälla efter d5"
     }
   ]
