@@ -6,6 +6,8 @@ publishDate: 2 Aug 2024
 description: Åsikterna är inte nödvändigtvis hela redaktionens.
 tags:
   - Briljas
+coverImage:
+  src: ""
 ---
 ”Truls Möregårdh är det finaste vi har”, skriver Victor Malm på X.
 
