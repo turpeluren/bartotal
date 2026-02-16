@@ -13,7 +13,7 @@ Briljas Guide har tyvärr lyst med sin frånvaro alldeles för länge. Det är s
 
 \*
 
-När jag nu har er uppmärksamhet vill jag passa på att avreagera mig kring ett fenomen som de flesta av er säkert har okej kunskap inom. Jag tänker på matinfluerare i allmänhet, och deras serier i synnerhet. Av någon anledning verkar alla matinfluerare ha ett behov av att ha en serie. 
+När jag nu ändå har er uppmärksamhet vill jag passa på att avreagera mig kring ett litet fenomen som de flesta av er säkert har okej kunskap inom. Jag tänker på matinfluerare i allmänhet, och deras serier i synnerhet. Av någon anledning verkar alla matinfluerare ha ett behov av att ha en serie. 
 
 Några exempel: "Slurp my soup", "Flip the pan", "Soppor som inte suger", Mackor som inte skäms", "Will it tarte tatin", "Italian classics", "Återskapar rätterna jag fick lära mig när jag bodde i Italien" ETCETERA.
 
