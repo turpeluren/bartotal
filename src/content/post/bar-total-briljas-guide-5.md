@@ -9,7 +9,7 @@ tags:
 largeCoverImage: false
 draft: false
 ---
-Briljas Guide har tyvärr lyst med sin frånvaro alldeles för länge. Det är såklart inte okej. Men det finns en del grejer som har tagit upp såpass stor del av min tankeverksamhet att jag inte har kunnat rikta min uppmärksamhet åt er kära läsare. Vad de här tankarna har handlat om är det dock inte lämpligt att jag lyfter här och nu. Vi kanske kan ta det vid ett annat tillfälle. Kanske över en öl – om man är lagd åt det hållet. Infoblad om Glenn Beck meet and greet kommer inom kort. 
+Briljas Guide har tyvärr lyst med sin frånvaro alldeles för länge. Det är såklart inte okej. Men det finns en del grejer som har tagit upp såpass stor del av min tankeverksamhet att jag inte har kunnat rikta min uppmärksamhet åt er kära läsare. Av lämplighetsskäl kan jag dock inte gå in på vad dessa tankar har handlat om. Vi kanske kan ta det vid ett annat tillfälle. Kanske över en öl – om man är lagd åt det hållet. Infoblad om Glenn Beck meet and greet kommer inom kort. 
 
 \*
 
