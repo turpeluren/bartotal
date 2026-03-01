@@ -14,6 +14,7 @@ largeCoverImage: false
 draft: false
 ---
 ###### 1. håll aldrig i balansen. tappa den direkt
+
 2. återfinn dig själv i konstant, handlöst fall
 3. utmana gravitationen och resten av naturlagarna
 4. balansera på gränsen till en allvarlig skada eller sammanbrott
@@ -57,5 +58,7 @@ draft: false
 42. du är någon iklädd ditt ansikte. ansiktsmusklerna finns till för att experimentera med
 43. det är nånting du aldrig trodde skulle hända
 44. Det är stappelmannafest
+
+
 
 Hå! Er kråka här tack: \[ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ]
