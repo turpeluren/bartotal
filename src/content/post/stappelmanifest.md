@@ -8,6 +8,8 @@ tags:
   - stappel
   - lista
   - meta
+coverImage:
+  src: src/assets/concantation-live-cover.jpg
 largeCoverImage: false
 draft: false
 ---
