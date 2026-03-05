@@ -53,8 +53,6 @@ draft: false
 38. maximera för olika saker hela tiden. rikta in dig endast omedvetet
 39. ha nåt på gång gång på gång
 40. du är någon iklädd ditt ansikte
-41. Det är stappelmannafest
+41. Det är stappelmannafest  
 
-
-
-Hå! Er kråka här tack: \[ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ]
+Hå! Er kråka här tack:  \[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]
