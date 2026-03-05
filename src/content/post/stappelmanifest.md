@@ -2,7 +2,7 @@
 title: Stappelmanifest
 author:
   - Demitri
-publishDate: 1 Mar 2026
+publishDate: 5 Mar 2026
 description: Ett stappelmanifest
 tags:
   - stappel
