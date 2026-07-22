@@ -3,8 +3,8 @@ title: Bamses kubanska syssling eller kvinna i Tarantino-western?
 author:
   - Lady Palmer
 publishDate: 22 Jul 2026
-description: Lady Palmer sätter ljus på namn. Den här gången på namn som finns
-  att hitta i sportbörser.
+description: Lady Palmer sätter ljus på namn. Den här gången på namn återfunna i
+  veckans sportbörser.
 tags:
   - Namn
 largeCoverImage: false
