@@ -4,7 +4,7 @@ author:
   - Lady Palmer
 publishDate: 22 Jul 2026
 description: Lady Palmer sätter ljus på namn. Den här gången på namn återfunna i
-  veckans sportbörser.
+  gångna veckans sportbörser.
 tags:
   - Namn
 largeCoverImage: false
