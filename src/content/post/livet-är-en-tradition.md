@@ -7,7 +7,7 @@ description: Dikten Livet är en tradition av Jordäpplet Johansson
 tags:
   - Dikt
 coverImage:
-  src: src/assets/ouroboros.jpeg
+  src: src/assets/ouroboros_a4_landscape.jpeg
 largeCoverImage: false
 draft: false
 ---
