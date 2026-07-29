@@ -3,7 +3,7 @@ title: Livet är en tradition
 author:
   - Jordäpplet Johansson
 publishDate: 29 Jul 2026
-description: Dikten Livet är en tradition av Jordäpplet Johansson
+description: En dikt om livet av Jordäpplet Johansson
 tags:
   - Dikt
 coverImage:
