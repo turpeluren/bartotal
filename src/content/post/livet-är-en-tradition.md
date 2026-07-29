@@ -6,6 +6,8 @@ publishDate: 29 Jul 2026
 description: Dikt
 tags:
   - Dikt
+coverImage:
+  src: src/assets/ouroboros.jpeg
 largeCoverImage: false
 draft: false
 ---
